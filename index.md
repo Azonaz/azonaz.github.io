@@ -3,7 +3,6 @@ layout: default
 title: Hello
 published: true
 last_modified_at: 2023-12-08
-permalink: /
 ---
 
 Welcome! I'm iOS developer located in Cyprus. 
