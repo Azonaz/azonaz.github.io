@@ -1,6 +1,8 @@
 title: Azonaz website
 description: Personal site of Azonaz
 
+show_downloads: false
+
 remote_theme: pages-themes/architect@v0.2.0
 
 # Use the following plug-ins
