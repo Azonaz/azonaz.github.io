@@ -11,6 +11,16 @@ Welcome! I'm iOS developer located in Cyprus.
 
 This is a small application for learning Greek words used in course for A1 level.
 
+[Download in App Store](https://apps.apple.com/cy/app/greek-words-a1/id6474042509).
+
+# Breaking Walls
+
+This is a small casual game. The main goal is to break a brick by hitting it with the hero's head.
+
+To hit, tap anywhere on the screen.
+
+Each third level features a leaderboard where fewer hits are better. The leaderboards reset every four weeks.
+
 Download in App Store.
 
 ## Privacy Policy
@@ -32,3 +42,6 @@ We may update our Privacy Policy from time to time.
 You are advised to review this page periodically for any changes.
 These changes are effective immediately upon posting on this page.
 
+## Contacts
+
+If you have any suggestions or bug reports, please email me at malinina.a@gmail.com.
