@@ -1,0 +1,3 @@
+# Ads.txt file for azonaz.github.io:
+#admob
+google.com, pub-5556708431342690, DIRECT, f08c47fec0942fa0
