@@ -15,11 +15,14 @@ This is a small application for learning Greek words used in course for A1 level
 
 # Breaking Walls
 
+![breaking-walls-smile](https://github.com/Azonaz/azonaz.github.io/assets/125258194/584cbb3d-84ed-466b-b64e-0d2ccc121ebc)
+
+
 This is a small casual game. The main goal is to break a brick by hitting it with the hero's head.
 
 To hit, tap anywhere on the screen.
 
-Each third level features a leaderboard where fewer hits are better. The leaderboards reset every four weeks.
+Each third wall features a leaderboard where fewer hits are better. The leaderboards reset every four weeks.
 
 Download in App Store.
 
