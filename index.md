@@ -79,6 +79,10 @@ Pikidex does not collect any personally identifiable information.
 
 Pikidex uses third-party service Revenuecat to track app usage data. Please review the privacy policy of this third party service for more information regarding how they handle personal data.
 
+---
+
+Disclaimer: Pikmin Bloom game, its images and other resources belong to Niantic, Nintendo and other legal owners.
+
 # Privacy Policy
 _Last updated: December 8th, 2023_
 
