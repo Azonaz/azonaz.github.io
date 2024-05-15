@@ -2,7 +2,7 @@
 layout: default
 title: Hello
 published: true
-last_modified_at: 2023-12-08
+last_modified_at: 2024-05-15
 ---
 
 Welcome! I'm iOS developer located in Cyprus. 
@@ -20,6 +20,8 @@ Greek Words A1 does not collect any personally identifiable information.
 Greek Words A1 uses third-party service ([Google AdMob](https://policies.google.com/technologies/partner-sites)) to track app usage data and serve ads. 
 Please review the privacy policy of this third party service for more information regarding how they handle personal data.
 
+
+
 # Breaking Walls
 
 ![breaking-walls-smile](https://github.com/Azonaz/azonaz.github.io/assets/125258194/584cbb3d-84ed-466b-b64e-0d2ccc121ebc)
@@ -32,6 +34,8 @@ To hit, tap anywhere on the screen.
 Each third wall features a leaderboard where fewer hits are better. The leaderboards reset every four weeks.
 
 [Download in App Store](https://apps.apple.com/cy/app/breaking-walls-casual-game/id6477328289).
+
+
 
 # Pikidex
 
@@ -79,9 +83,7 @@ Pikidex does not collect any personally identifiable information.
 
 Pikidex uses third-party service Revenuecat to track app usage data. Please review the privacy policy of this third party service for more information regarding how they handle personal data.
 
----
-
-Disclaimer: Pikmin Bloom game, its images and other resources belong to Niantic, Nintendo and other legal owners.
+*Disclaimer: Pikmin Bloom game, its images and other resources belong to Niantic, Nintendo and other legal owners.*
 
 # Privacy Policy
 _Last updated: December 8th, 2023_
