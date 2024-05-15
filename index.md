@@ -63,6 +63,7 @@ Tap on the icon, it will change its state:
 
 ### Known issues
 **2.0.0**
+
 When you buy a subscription, sometimes hiding currently unavailable decor is not working. Workaround: restart the app.
 
 ### Roadmap
