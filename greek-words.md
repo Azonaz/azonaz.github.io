@@ -5,6 +5,7 @@ published: true
 permalink: /greek-words-app/
 last_modified_at: 2024-05-19
 ---
+# Greek Words
 
 This is a small application for learning Greek words used in course for A1 level.
 

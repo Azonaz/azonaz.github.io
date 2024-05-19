@@ -5,6 +5,7 @@ published: true
 permalink: /pikidex/
 last_modified_at: 2024-05-19
 ---
+# Pikidex
 
 This is a small, fan-built application. It allows you to track the progress of pikimin collection in Pikmin Bloom game.
 

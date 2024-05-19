@@ -12,7 +12,7 @@ My projects:
 - [Greek Words](/greek-words-app/) — an app for learning Greek words,
 - [Breaking Walls](/breaking-walls/) – a brick breaking game.
 
-# Privacy Policy
+## Privacy Policy
 _Last updated: December 8th, 2023_
 
 We (developers and publishers)
