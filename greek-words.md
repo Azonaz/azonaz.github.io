@@ -17,9 +17,24 @@ This is a small application for learning Greek words used in course for A1 level
 
 [Download in App Store](https://apps.apple.com/cy/app/greek-words-a1/id6474042509).
 
+## Privacy Policy
+_Last updated: December 8th, 2023_
+
+We (developers and publishers)
+are providing this Privacy Policy
+to explain our practices regarding the collection and use of information within the apps.
+
 ### Collection and use information
 
-Greek Words A1 does not collect any personally identifiable information.
+Greek Words app does not collect any personally identifiable information.
 
-Greek Words A1 uses third-party service ([Google AdMob](https://policies.google.com/technologies/partner-sites)) to track app usage data and serve ads.
+Greek Words app uses third-party service ([Google AdMob](https://policies.google.com/technologies/partner-sites))
+to track app usage data and serve ads.
 Please review the privacy policy of this third party service for more information regarding how they handle personal data.
+
+### Revisions to this Privacy Policy
+
+We may update our Privacy Policy from time to time.
+You are advised to review this page periodically for any changes.
+These changes are effective immediately upon posting on this page.
+

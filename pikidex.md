@@ -45,10 +45,30 @@ Here you can find features which we want to add to app in the (near) future:
 - new icons,
 - translations.
 
+## Privacy Policy
+_Last updated: December 8th, 2023_
+
+We (developers and publishers)
+are providing this Privacy Policy
+to explain our practices regarding the collection and use of information within the apps.
+
 ### Collection and use information
 
 Pikidex does not collect any personally identifiable information.
 
-Pikidex uses third-party service Revenuecat to track app usage data. Please review the privacy policy of this third party service for more information regarding how they handle personal data.
+Pikidex uses third-party service ([Google AdMob](https://policies.google.com/technologies/partner-sites))
+to track app usage data and serve ads.
+Please review the privacy policy of this third party service for more information regarding how they handle personal data.
+
+Pikidex uses third-party service Revenuecat to track app usage data. 
+Please review the privacy policy of this third party service for more information regarding how they handle personal data.
+
+
+### Revisions to this Privacy Policy
+
+We may update our Privacy Policy from time to time.
+You are advised to review this page periodically for any changes.
+These changes are effective immediately upon posting on this page.
+
 
 *Disclaimer: Pikmin Bloom game, its images and other resources belong to Niantic, Nintendo and other legal owners.*
