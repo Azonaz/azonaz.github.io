@@ -1,0 +1,466 @@
+{
+  "vocabulary": {
+    "groups": [
+      {
+        "name": "Meeting",
+        "words": [
+          {
+            "gr": "καλημέρα",
+            "en": "good morning"
+          },
+          {
+            "gr": "καλησπέρα",
+            "en": "good afternoon"
+          },
+          {
+            "gr": "καληνύχτα",
+            "en": "good night"
+          },
+          {
+            "gr": "επίσης",
+            "en": "also"
+          },
+          {
+            "gr": "το όνομα",
+            "en": "first name"
+          },
+          {
+            "gr": "επώνυμο",
+            "en": "last name"
+          },
+          {
+            "gr": "ονοματεπώνυμο",
+            "en": "full name"
+          },
+          {
+            "gr": "χάρηκα",
+            "en": "nice to meet you"
+          },
+          {
+            "gr": "ο φίλος",
+            "en": "friend"
+          },
+          {
+            "gr": "ξέρω",
+            "en": "I know"
+          },
+          {
+            "gr": "αγαπώ",
+            "en": "I love"
+          }
+        ]
+      },
+      {
+        "name": "I live",
+        "words": [
+          {
+            "gr": "μένω",
+            "en": "I live"
+          },
+          {
+            "gr": "η διεύθυνση",
+            "en": "address"
+          },
+          {
+            "gr": "η οδός",
+            "en": "street"
+          },
+          {
+            "gr": "ο αριθμός",
+            "en": "number"
+          },
+          {
+            "gr": "η πόλη",
+            "en": "city"
+          },
+          {
+            "gr": "η χώρα",
+            "en": "country"
+          },
+          {
+            "gr": "το τηλέφωνο",
+            "en": "phone"
+          },
+          {
+            "gr": "μαζί",
+            "en": "together"
+          },
+          {
+            "gr": "κοντά",
+            "en": "near"
+          },
+          {
+            "gr": "μακριά από",
+            "en": "far from"
+          },
+          {
+            "gr": "αριστερά",
+            "en": "left"
+          },
+          {
+            "gr": "δεξιά",
+            "en": "right"
+          },
+          {
+            "gr": "μπροστά από",
+            "en": "in front of"
+          },
+          {
+            "gr": "πίσω από",
+            "en": "behind"
+          },
+          {
+            "gr": "κάτω από",
+            "en": "below"
+          },
+          {
+            "gr": "πάνω από",
+            "en": "above"
+          },
+          {
+            "gr": "δίπλα",
+            "en": "next to"
+          }
+        ]
+      },
+      {
+        "name": "Health",
+        "words": [
+          {
+            "gr": "η υγεία",
+            "en": "health"
+          },
+          {
+            "gr": "φοβάμαι",
+            "en": "I'm afraid"
+          },
+          {
+            "gr": "αρρωσταίνω",
+            "en": "I get sick"
+          },
+          {
+            "gr": "περαστικά",
+            "en": "Get well soon"
+          },
+          {
+            "gr": "ο πυρετός",
+            "en": "fever"
+          },
+          {
+            "gr": "ο βήχας",
+            "en": "cough"
+          },
+          {
+            "gr": "παρακάτω",
+            "en": "following"
+          },
+          {
+            "gr": "η συμβουλή",
+            "en": "advice"
+          },
+          {
+            "gr": "η αρρώστια",
+            "en": "illness"
+          },
+          {
+            "gr": "αρκετά",
+            "en": "enough"
+          },
+          {
+            "gr": "το άγχος",
+            "en": "stress"
+          },
+          {
+            "gr": "το φάρμακο",
+            "en": "medicine"
+          },
+          {
+            "gr": "ειδικά",
+            "en": "especially"
+          },
+          {
+            "gr": "ο παιδίατρος",
+            "en": "pediatrician"
+          },
+          {
+            "gr": "αμέσως",
+            "en": "right away"
+          },
+          {
+            "gr": "το χάπι",
+            "en": "pill"
+          },
+          {
+            "gr": "ο πόνος",
+            "en": "pain"
+          },
+          {
+            "gr": "πονάω",
+            "en": "I'm in pain"
+          },
+          {
+            "gr": "ο χειρουργός",
+            "en": "surgeon"
+          },
+          {
+            "gr": "η ένεση",
+            "en": "injection"
+          },
+          {
+            "gr": "σοβαρός",
+            "en": "serious"
+          },
+          {
+            "gr": "απλός",
+            "en": "simple"
+          },
+          {
+            "gr": "σημαντικός",
+            "en": "important"
+          },
+          {
+            "gr": "η ανάσα",
+            "en": "breath"
+          },
+          {
+            "gr": "ο πονοκέφαλος",
+            "en": "headache"
+          },
+          {
+            "gr": "ανησυχώ",
+            "en": "I worry"
+          },
+          {
+            "gr": "το φαρμακείο",
+            "en": "pharmacy"
+          },
+          {
+            "gr": "η συνταγή",
+            "en": "prescription"
+          },
+          {
+            "gr": "η κάψουλα",
+            "en": "capsule, pill"
+          },
+          {
+            "gr": "η αμπούλα",
+            "en": "ampoule"
+          },
+          {
+            "gr": "το αντιβιοτικό",
+            "en": "antibiotic"
+          },
+          {
+            "gr": "το παυσίπονο",
+            "en": "painkiller"
+          },
+          {
+            "gr": "ο οδοντίατρος",
+            "en": "dentist"
+          },
+          {
+            "gr": "ο οφθαλμίατρος",
+            "en": "ophthalmologist"
+          },
+          {
+            "gr": "ο δερματολόγος",
+            "en": "dermatologist"
+          },
+          {
+            "gr": "ο ορθοπεδικός",
+            "en": "orthopedist"
+          },
+          {
+            "gr": "το κρυολόγημα",
+            "en": "cold (illness)"
+          },
+          {
+            "gr": "αισθάνομαι",
+            "en": "I feel"
+          },
+          {
+            "gr": "μυρίζω",
+            "en": "I smell"
+          },
+          {
+            "gr": "πιάνω",
+            "en": "I catch"
+          }
+        ]
+      },
+      {
+        "name": "Public services",
+        "words": [
+          {
+            "gr": "ο λογαριασμός",
+            "en": "account"
+          },
+          {
+            "gr": "η οδηγία",
+            "en": "directive, instruction"
+          },
+          {
+            "gr": "η ανάληψη",
+            "en": "withdrawal"
+          },
+          {
+            "gr": "η κατάθεση",
+            "en": "deposit"
+          },
+          {
+            "gr": "μόνιμος",
+            "en": "permanent"
+          },
+          {
+            "gr": "το βήμα",
+            "en": "step"
+          },
+          {
+            "gr": "η αίτηση",
+            "en": "request, application form"
+          },
+          {
+            "gr": "η ταυτότητα",
+            "en": "identity card"
+          },
+          {
+            "gr": "απαραίτητος",
+            "en": "necessary"
+          },
+          {
+            "gr": "η μόνιμη κατοικία",
+            "en": "permanent residence"
+          },
+          {
+            "gr": "το έγγραφο",
+            "en": "document"
+          },
+          {
+            "gr": "ανοίγω",
+            "en": "I open"
+          },
+          {
+            "gr": "το ραντεβού",
+            "en": "appointment"
+          },
+          {
+            "gr": "η κάρτα",
+            "en": "card"
+          },
+          {
+            "gr": "πληρώνω",
+            "en": "I pay"
+          },
+          {
+            "gr": "προσωπικά στοιχεία",
+            "en": "personal information"
+          },
+          {
+            "gr": "η εθνικότητα",
+            "en": "nationality"
+          },
+          {
+            "gr": "το φύλο",
+            "en": "gender"
+          },
+          {
+            "gr": "η ημερομηνία γέννησης",
+            "en": "date of birth"
+          },
+          {
+            "gr": "το επάγγελμα",
+            "en": "profession"
+          },
+          {
+            "gr": "οικογενειακή κατάσταση",
+            "en": "marital condition"
+          },
+          {
+            "gr": "το διαβατήριο",
+            "en": "passport"
+          },
+          {
+            "gr": "το ρεύμα / ο ηλεκτρισμός",
+            "en": "electricity"
+          },
+          {
+            "gr": "συμπληρώνω",
+            "en": "I fill in"
+          },
+          {
+            "gr": "το γράμμα",
+            "en": "letter"
+          },
+          {
+            "gr": "το απλό γράμμα",
+            "en": "simple letter"
+          },
+          {
+            "gr": "το συστημένο γράμμα",
+            "en": "registered letter"
+          },
+          {
+            "gr": "το επείγον γράμμα",
+            "en": "urgent letter"
+          },
+          {
+            "gr": "το πακέτο / το δέμα",
+            "en": "package"
+          },
+          {
+            "gr": "το γραμματόσημο",
+            "en": "postal stamp"
+          },
+          {
+            "gr": "το γραμματοκιβώτιο",
+            "en": "mailbox"
+          },
+          {
+            "gr": "κολλάω",
+            "en": "I stick, I glue"
+          },
+          {
+            "gr": "ο φάκελος",
+            "en": "envelope"
+          },
+          {
+            "gr": "η δημόσια υπηρεσία",
+            "en": "public service"
+          },
+          {
+            "gr": "το ατύχημα",
+            "en": "accident"
+          },
+          {
+            "gr": "η αστυνομία",
+            "en": "police"
+          },
+          {
+            "gr": "η τροχαία",
+            "en": "traffic police"
+          },
+          {
+            "gr": "χτυπάω",
+            "en": "I hit"
+          },
+          {
+            "gr": "το ωράριο",
+            "en": "timetable"
+          },
+          {
+            "gr": "υπογράφω",
+            "en": "I sign"
+          },
+          {
+            "gr": "ευγενικός",
+            "en": "gentle, polite"
+          },
+          {
+            "gr": "τυχερός",
+            "en": "lucky"
+          }
+        ]
+      }
+    ]
+  }
+}
