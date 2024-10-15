@@ -9,7 +9,7 @@ Welcome! I'm an iOS developer located in Cyprus.
 
 My projects:
 - [Pikidex](/pikidex/) – pikmin decor tracker,
-- [Greek Words](/greek-words-app/) — an app for learning Greek words,
+- [Greek Words](/greek-words-app/) — apps for learning Greek words,
 - [Breaking Walls](/breaking-walls/) – a brick breaking game.
 
 ## Contacts
