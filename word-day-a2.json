@@ -2,76 +2,76 @@
   "vocabulary": {
     "words": [
       {
-        "gr": "το ωράριο",
-        "en": "timetable"
+        "gr": "ο δικηγόρος",
+        "en": "lawyer"
       },
       {
-        "gr": "η αστυνομία",
-        "en": "police"
+        "gr": "η εξέταση",
+        "en": "examination"
       },
       {
-        "gr": "το γράμμα",
-        "en": "letter"
+        "gr": "ο μηχανικός",
+        "en": "engineer"
       },
       {
-        "gr": "η ανάσα",
-        "en": "breath"
+        "gr": "η κατσαρόλα",
+        "en": "pot"
       },
       {
-        "gr": "το δάχτυλο",
-        "en": "finger"
+        "gr": "η συνήθεια",
+        "en": "habit"
       },
       {
         "gr": "η κιθάρα",
         "en": "guitar"
       },
       {
-        "gr": "ο φάκελος",
-        "en": "envelope"
+        "gr": "η περιοχή",
+        "en": "area"
       },
       {
-        "gr": "ο χάρακας",
-        "en": "ruler"
+        "gr": "νοικιάζω",
+        "en": "I rent"
       },
       {
-        "gr": "η συνταγή",
-        "en": "recipe"
+        "gr": "το μαξιλάρι",
+        "en": "pillow"
       },
       {
-        "gr": "η φράουλα",
-        "en": "strawberry"
+        "gr": "το ταψί",
+        "en": "baking tray"
       },
       {
-        "gr": "το φάρμακο",
-        "en": "medicine"
+        "gr": "η κατάσταση",
+        "en": "situation, state"
       },
       {
         "gr": "η συμβουλή",
         "en": "advice"
       },
       {
-        "gr": "το μπάνιο",
-        "en": "bathroom"
+        "gr": "η πετσέτα",
+        "en": "towel"
       },
       {
-        "gr": "το φανέλα",
-        "en": "t-shirt"
+        "gr": "ο γυμναστής",
+        "en": "trainer"
       },
       {
-        "gr": "το κρεμμύδι",
-        "en": "onion"
+        "gr": "το ποδήλατο",
+        "en": "bicycle"
       },
       {
-        "gr": "το παιχνίδι",
-        "en": "toy"
+        "gr": "μόνιμα",
+        "en": "permanently"
       },
       {
         "gr": "το τραπέζι",
         "en": "table"
       },
       {
-        "gr": "ο ανιψιός",
-        "en": "nephew"
+        "gr": "φιλοξενώ",
+        "en": "I host"
       },
       {
         "gr": "το χωριό",
@@ -82,32 +82,32 @@
         "en": "key"
       },
       {
-        "gr": "η μπριζόλα",
-        "en": "steak"
+        "gr": "το πιρούνι",
+        "en": "fork"
       },
       {
-        "gr": "το στόμα",
-        "en": "mouth"
+        "gr": "η καρέκλα",
+        "en": "chair"
       },
       {
-        "gr": "το σακάκι",
-        "en": "jacket"
+        "gr": "το μπουκάλι",
+        "en": "bottle"
       },
       {
-        "gr": "το ατύχημα",
-        "en": "accident"
+        "gr": "οδηγώ",
+        "en": "I drive"
       },
       {
-        "gr": "το αλάτι",
-        "en": "salt"
+        "gr": "ο συγγραφέας",
+        "en": "writer"
       },
       {
         "gr": "το ραντεβού",
         "en": "appointment"
       },
       {
-        "gr": "το πεπόνι",
-        "en": "melon"
+        "gr": "το μαχαίρι",
+        "en": "knife"
       },
       {
         "gr": "η εφημερίδα",
@@ -122,12 +122,12 @@
         "en": "profession"
       },
       {
-        "gr": "το μολύβι",
-        "en": "the pencil"
+        "gr": "η φασαρία",
+        "en": "fuss"
       },
       {
-        "gr": "το κασκόλ",
-        "en": "the scarf"
+        "gr": "το σεντόνι",
+        "en": "sheet"
       }
     ]
   }
