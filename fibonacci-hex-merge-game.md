@@ -5,7 +5,7 @@ published: true
 permalink: /fibonacci-hex-merge-game/
 last_modified_at: 2024-10-27
 ---
-# Breaking Walls
+# Fibonacci Hex Merge
 
 ![fibonacci-hex-merge-preview](https://github.com/user-attachments/assets/effe9fdb-433f-40f3-acc7-bc33f4f50925)
 
