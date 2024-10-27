@@ -7,7 +7,8 @@ last_modified_at: 2024-10-27
 ---
 # Breaking Walls
 
-<!-- TODO: screencast -->
+![fibonacci-hex-merge-preview](https://github.com/user-attachments/assets/effe9fdb-433f-40f3-acc7-bc33f4f50925)
+
 
 This is a tiny minimalistic puzzle with simple rules: drag numbers to merge them into bigger number from the Fibonacci sequence. 
 1 & 2 merge into 3, 2 & 3 — into 5 and so on.
@@ -24,7 +25,8 @@ This is a tiny minimalistic puzzle with simple rules: drag numbers to merge them
 
 1. All numbers available: 1, 2, 3, 5, 8, 13, 21, 34, 55, 89.
 2. After placing a hex on the field, the merge order is this:
-<!-- TODO: merge-order -->
+![hex-merge-order](https://github.com/user-attachments/assets/00ff4614-0ccb-423c-8342-92d72828567f)
+
 
 [Download in App Store]().
 
