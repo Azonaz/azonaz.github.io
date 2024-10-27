@@ -25,6 +25,7 @@ This is a tiny minimalistic puzzle with simple rules: drag numbers to merge them
 
 1. All numbers available: 1, 2, 3, 5, 8, 13, 21, 34, 55, 89.
 2. After placing a hex on the field, the merge order is this:
+
 ![hex-merge-order](https://github.com/user-attachments/assets/00ff4614-0ccb-423c-8342-92d72828567f)
 
 
