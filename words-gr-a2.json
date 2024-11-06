@@ -108,6 +108,10 @@
           {
             "gr": "φιλοξενώ",
             "en": "I host"
+          },
+          {
+            "gr": "η συνάντηση",
+            "en": "meeting"
           }
         ]
       },
@@ -197,6 +201,124 @@
           {
             "gr": "το κρεβάτι",
             "en": "bed"
+          }
+        ]
+      },
+      {
+        "name": "Culture and art",
+        "words": [
+          {
+            "gr": "το ποίημα",
+            "en": "poem"
+          },
+          {
+            "gr": "η συναυλία",
+            "en": "concert"
+          },
+          {
+            "gr": "το ρεσιτάλ",
+            "en": "concert, recital"
+          },
+          {
+            "gr": "περιλαμβάνω",
+            "en": "I include"
+          },
+          {
+            "gr": "ο συνθέτης",
+            "en": "composer"
+          },
+          {
+            "gr": "η εκδήλωση",
+            "en": "event, show"
+          },
+          {
+            "gr": "η παράσταση",
+            "en": "show, performance"
+          },
+          {
+            "gr": "η ποίηση",
+            "en": "poetry"
+          },
+          {
+            "gr": "το ωδείο",
+            "en": "conservatory"
+          },
+          {
+            "gr": "το κάστρο",
+            "en": "castle"
+          },
+          {
+            "gr": "το γήπεδο",
+            "en": "stadium"
+          },
+          {
+            "gr": "η επιτυχία",
+            "en": "hit"
+          },
+          {
+            "gr": "το γλέντι",
+            "en": "party"
+          },
+          {
+            "gr": "η διάρκεια",
+            "en": "duration"
+          },
+          {
+            "gr": "η αίθουσα",
+            "en": "hall"
+          }
+        ]
+      },
+      {
+        "name": "Advertising",
+        "words": [
+          {
+            "gr": "η αφίσα",
+            "en": "poster"
+          },
+          {
+            "gr": "η διαφήμιση",
+            "en": "advertisement"
+          },
+          {
+            "gr": "ζητείται",
+            "en": "requested, wanted"
+          },
+          {
+            "gr": "Μην χάσετε",
+            "en": "Don't miss"
+          },
+          {
+            "gr": "φθηνός",
+            "en": "cheap"
+          },
+          {
+            "gr": "χαμηλός",
+            "en": "low"
+          },
+          {
+            "gr": "μοναδικός",
+            "en": "unique"
+          },
+          {
+            "gr": "διαλέγω",
+            "en": "I choose"
+          },
+          {
+            "gr": "αγνός",
+            "en": "pure, clean"
+          },
+          {
+            "gr": "η ανάγκη",
+            "en": "need, necessity"
+          },
+          {
+            "gr": "μισή τιμή",
+            "en": "half price"
+          },
+          {
+            "gr": "ξοδεύω",
+            "en": "I spend"
           }
         ]
       }
