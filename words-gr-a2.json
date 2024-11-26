@@ -377,6 +377,79 @@
             "en": "I give away"
           }
         ]
+      },
+      {
+        "name": "Travel",
+        "words": [
+          {
+            "gr": "το αξιοθέατο",
+            "en": "sightseeing"
+          },
+          {
+            "gr": "η γέφυρα",
+            "en": "bridge"
+          },
+          {
+            "gr": "το ποτάμι",
+            "en": "river"
+          },
+          {
+            "gr": "το μνημείο",
+            "en": "monument"
+          },
+          {
+            "gr": "η πτήση",
+            "en": "flight"
+          },
+          {
+            "gr": "η καθυστέρηση",
+            "en": "delay"
+          },
+          {
+            "gr": "η ευκαιρία",
+            "en": "opportunity"
+          },
+          {
+            "gr": "η δυνατότητα",
+            "en": "possibility"
+          },
+          {
+            "gr": "ο πύργος",
+            "en": "tower"
+          },
+          {
+            "gr": "καταπληκτικός",
+            "en": "amazing"
+          },
+          {
+            "gr": "επιστρέφω",
+            "en": "I return"
+          },
+          {
+            "gr": "το κτίριο",
+            "en": "building"
+          },
+          {
+            "gr": "η διαδρομή",
+            "en": "route, path"
+          },
+          {
+            "gr": "νοικιάζω",
+            "en": "I rent"
+          },
+          {
+            "gr": "η εκδρομή",
+            "en": "excursion"
+          },
+          {
+            "gr": "η διάρκεια",
+            "en": "duration"
+          },
+          {
+            "gr": "η τοποθεσία",
+            "en": "location"
+          }
+        ]
       }
     ]
   }
