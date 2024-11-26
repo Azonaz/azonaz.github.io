@@ -282,6 +282,38 @@
           {
             "gr": "η στολή",
             "en": "uniform"
+          },
+          {
+            "gr": "ρομαντικές ταινίες",
+            "en": "romantic movies"
+          },
+          {
+            "gr": "κωμικές ταινίες",
+            "en": "comic movies"
+          },
+          {
+            "gr": "αστυνομικές ταινίες",
+            "en": "detective movies"
+          },
+          {
+            "gr": "θρίλερ",
+            "en": "thriller"
+          },
+          {
+            "gr": "δραματικές ταινίες",
+            "en": "drama movies"
+          },
+          {
+            "gr": "κοινωνικές ταινίες",
+            "en": "social movies"
+          },
+          {
+            "gr": "ειδήσεις",
+            "en": "news"
+          },
+          {
+            "gr": "ταινίες περιπέτειας",
+            "en": "adventure movies"
           }
         ]
       },
