@@ -668,6 +668,119 @@
             "en": "get near, approach"
           }
         ]
+      },
+      {
+        "name": "Public services",
+        "words": [
+          {
+            "gr": "η δημόσια υπηρεσία",
+            "en": "public service"
+          },
+          {
+            "gr": "η γνώμη",
+            "en": "opinion"
+          },
+          {
+            "gr": "ευχαριστημένος",
+            "en": "pleased, satisfied"
+          },
+          {
+            "gr": "δηλώνω",
+            "en": "I declare, state"
+          },
+          {
+            "gr": "η ταυτότητα",
+            "en": "identity card"
+          },
+          {
+            "gr": "το διαβατήριο",
+            "en": "passport"
+          },
+          {
+            "gr": "η βεβαίωση",
+            "en": "certificate"
+          },
+          {
+            "gr": "η πληροφορία",
+            "en": "information"
+          },
+          {
+            "gr": "εξυπηρετώ",
+            "en": "I serve"
+          },
+          {
+            "gr": "το ληξιαρχείο",
+            "en": "registry office"
+          },
+          {
+            "gr": "το διάστημα",
+            "en": "period, interval"
+          },
+          {
+            "gr": "η διαδικασία",
+            "en": "procedure"
+          },
+          {
+            "gr": "Κέντρο Εξυπηρέτησης Πολιτών",
+            "en": "Citizens' Service Centre"
+          },
+          {
+            "gr": "ο λογαριασμός",
+            "en": "bill"
+          },
+          {
+            "gr": "ο πολίτης",
+            "en": "citizen"
+          },
+          {
+            "gr": "η φωτιά",
+            "en": "fire"
+          },
+          {
+            "gr": "η αστυνομία",
+            "en": "police"
+          },
+          {
+            "gr": "η τροχαία",
+            "en": "traffic police"
+          },
+          {
+            "gr": "η πυροσβεστική",
+            "en": "fire department"
+          },
+          {
+            "gr": "η πρώτη βοήθεια",
+            "en": "first aid"
+          },
+          {
+            "gr": "το ταχυδρομείο",
+            "en": "post office"
+          },
+          {
+            "gr": "το υπουργείο",
+            "en": "ministry"
+          },
+          {
+            "gr": "το ατύχημα",
+            "en": "accident"
+          },
+          {
+            "gr": "η ειδοποίηση",
+            "en": "notice, notification"
+          },
+          {
+            "gr": "η αίτηση",
+            "en": "request, application"
+          },
+          {
+            "gr": "το στοιχείο",
+            "en": "data"
+          },
+          {
+            "gr": "ο/η υπάλληλος",
+            "en": "employee"
+          }
+        ]
       }
     ]
   }
