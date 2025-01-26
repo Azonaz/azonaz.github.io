@@ -779,6 +779,34 @@
           {
             "gr": "ο/η υπάλληλος",
             "en": "employee"
+          },
+          {
+            "gr": "η εφορία",
+            "en": "tax office"
+          },
+          {
+            "gr": "λήγω",
+            "en": "expire"
+          },
+          {
+            "gr": "το πιστοποιητικό γέννησης",
+            "en": "birth certificate"
+          },
+          {
+            "gr": "ο δήμος",
+            "en": "municipality"
+          },
+          {
+            "gr": "ο/η μάρτυρας",
+            "en": "witness"
+          },
+          {
+            "gr": "βεβαιώνω",
+            "en": "I confirm, I affirm"
+          },
+          {
+            "gr": "η σειρά",
+            "en": "line, order"
           }
         ]
       }
