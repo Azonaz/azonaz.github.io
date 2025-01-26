@@ -930,6 +930,59 @@
             "en": "detergent"
           }
         ]
+      },
+      {
+        "name": "Health",
+        "words": [
+          {
+            "gr": "η γάζα",
+            "en": "strip, gauze"
+          },
+          {
+            "gr": "το οινόπνευμα",
+            "en": "alcohol, spirit"
+          },
+          {
+            "gr": "το βαμβάκι",
+            "en": "cotton"
+          },
+          {
+            "gr": "τα γάντια μίας χρήσης",
+            "en": "disposable gloves"
+          },
+          {
+            "gr": "το χαμομήλι",
+            "en": "camomile"
+          },
+          {
+            "gr": "το άγχος",
+            "en": "stress"
+          },
+          {
+            "gr": "το σπυράκι",
+            "en": "pimple"
+          },
+          {
+            "gr": "η ρίγανη",
+            "en": "oregano"
+          },
+          {
+            "gr": "ο βασιλικός",
+            "en": "basil"
+          },
+          {
+            "gr": "η διάθεση",
+            "en": "mood"
+          },
+          {
+            "gr": "η αναπνοή",
+            "en": "breath"
+          },
+          {
+            "gr": "το γαρύφαλλο",
+            "en": "carnation"
+          }
+        ]
       }
     ]
   }
