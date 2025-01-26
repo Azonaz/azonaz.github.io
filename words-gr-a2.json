@@ -329,6 +329,10 @@
             "en": "poster"
           },
           {
+            "gr": "το άρθρο",
+            "en": "article"
+          },
+          {
             "gr": "η διαφήμιση",
             "en": "advertisement"
           },
@@ -807,6 +811,123 @@
           {
             "gr": "η σειρά",
             "en": "line, order"
+          }
+        ]
+      },
+      {
+        "name": "Home safety",
+        "words": [
+          {
+            "gr": "η πληγή",
+            "en": "wound"
+          },
+          {
+            "gr": "το καλώδιο",
+            "en": "wire"
+          },
+          {
+            "gr": "η πρίζα",
+            "en": "socket"
+          },
+          {
+            "gr": "καλύπτω",
+            "en": "I cover"
+          },
+          {
+            "gr": "κλειδώνω",
+            "en": "I lock"
+          },
+          {
+            "gr": "πιάνω",
+            "en": "I grab"
+          },
+          {
+            "gr": "καίω",
+            "en": "to burn"
+          },
+          {
+            "gr": "δηλητηριάζω",
+            "en": "to poison"
+          },
+          {
+            "gr": "το κάγκελο",
+            "en": "railing"
+          },
+          {
+            "gr": "πέφτω",
+            "en": "I fall"
+          },
+          {
+            "gr": "το γυαλί",
+            "en": "glass"
+          },
+          {
+            "gr": "το υλικό",
+            "en": "material"
+          },
+          {
+            "gr": "προσέχω",
+            "en": "to be careful"
+          },
+          {
+            "gr": "προσεκτικά",
+            "en": "carefully"
+          },
+          {
+            "gr": "η ασφάλεια",
+            "en": "security, safety"
+          },
+          {
+            "gr": "ο κίνδυνος",
+            "en": "danger"
+          },
+          {
+            "gr": "το τραύμα",
+            "en": "trauma"
+          },
+          {
+            "gr": "κρύβω",
+            "en": "I hide"
+          },
+          {
+            "gr": "το αντικείμενο",
+            "en": "object"
+          },
+          {
+            "gr": "το καλλυντικό",
+            "en": "cosmetic"
+          },
+          {
+            "gr": "φυτεύω",
+            "en": "I plant"
+          },
+          {
+            "gr": "η φροντίδα",
+            "en": "care"
+          },
+          {
+            "gr": "η ηλεκτροπληξία",
+            "en": "electric shock"
+          },
+          {
+            "gr": "ο πλανήτης",
+            "en": "planet"
+          },
+          {
+            "gr": "το περιβάλλον",
+            "en": "environment"
+          },
+          {
+            "gr": "το οξυγόνο",
+            "en": "oxygen"
+          },
+          {
+            "gr": "πνίγομαι",
+            "en": "to be drown, choke"
+          },
+          {
+            "gr": "το απορρυπαντικό",
+            "en": "detergent"
           }
         ]
       }
