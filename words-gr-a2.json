@@ -1084,6 +1084,63 @@
             "en": "protein"
           }
         ]
+      },
+      {
+        "name": "Education",
+        "words": [
+          {
+            "gr": "η εκπαίδευση",
+            "en": "education"
+          },
+          {
+            "gr": "υποχρεωτικός",
+            "en": "mandatory"
+          },
+          {
+            "gr": "το νηπιαγωγείο",
+            "en": "kindergarten"
+          },
+          {
+            "gr": "προσχολικός",
+            "en": "preschool"
+          },
+          {
+            "gr": "η τάξη",
+            "en": "class"
+          },
+          {
+            "gr": "το δημοτικό σχολείο",
+            "en": "primary school"
+          },
+          {
+            "gr": "το γυμνάσιο",
+            "en": "secondary school"
+          },
+          {
+            "gr": "το λύκειο",
+            "en": "high school"
+          },
+          {
+            "gr": "η εξέταση",
+            "en": "examination"
+          },
+          {
+            "gr": "το ίδρυμα",
+            "en": "institution"
+          },
+          {
+            "gr": "επιθυμώ",
+            "en": "to desire, to want"
+          },
+          {
+            "gr": "περνάω",
+            "en": "to pass"
+          },
+          {
+            "gr": "Θρησκευτικά",
+            "en": "religious class"
+          }
+        ]
       }
     ]
   }
