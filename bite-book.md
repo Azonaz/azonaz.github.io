@@ -10,6 +10,8 @@ last_modified_at: 2025-09-16
 BiteBook is an application for storing and organizing your recipes.  
 You can create recipes manually, import and export them, and mark favorites.
 
+<img width="200" height="395" alt="BiteBook" src="https://github.com/user-attachments/assets/0f56a9c5-b43c-48e0-93dd-06946a113612" />
+
 ### Features
 
 - store recipes by categories,
