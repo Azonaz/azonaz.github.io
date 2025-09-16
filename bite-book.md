@@ -17,7 +17,7 @@ You can create recipes manually, import and export them, and mark favorites.
 - add recipes to favorites,
 - quickly add ingredients to the shopping list,
 - edit and export the shopping list,
-- keep everything in sync across devices with **iCloud (CloudKit)**.
+- keep everything in sync across devices with iCloud.
 
 ## Privacy Policy
 _Last updated: September 16th, 2025_
@@ -34,7 +34,7 @@ CookBook app uses a third-party service ([AppMetrica](https://appmetrica.io/))
 to track crashes, installs, and general app usage events (such as button taps or screen selections).  
 This information is collected in an anonymized way and is not linked to specific devices.
 
-All user data (recipes, categories, shopping lists) is stored in **iCloud (CloudKit)** and is only available to the user.
+All user data (recipes, categories, shopping lists) is stored in iCloud and is only available to the user.
 
 ### Revisions to this Privacy Policy
 
