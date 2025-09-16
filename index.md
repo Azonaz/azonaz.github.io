@@ -12,6 +12,7 @@ My projects:
 - [Greek Words](/greek-words-app/) — apps for learning Greek words,
 - [Breaking Walls](/breaking-walls/) – a brick breaking game,
 - [Fibonacci Hex Merge](/fibonacci-hex-merge-game/) – a tiny puzzle game.
+- [Bite Book](/bite-book/) – digital recipe notebook.
 
 ## Contacts
 
