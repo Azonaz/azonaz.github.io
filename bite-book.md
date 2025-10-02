@@ -32,10 +32,6 @@ to explain our practices regarding the collection and use of information within 
 
 CookBook app does not collect any personally identifiable information.
 
-CookBook app uses a third-party service ([AppMetrica](https://appmetrica.io/))  
-to track crashes, installs, and general app usage events (such as button taps or screen selections).  
-This information is collected in an anonymized way and is not linked to specific devices.
-
 All user data (recipes, categories, shopping lists) is stored in iCloud and is only available to the user.
 
 ### Revisions to this Privacy Policy
