@@ -32,7 +32,10 @@ to explain our practices regarding the collection and use of information within 
 
 CookBook app does not collect any personally identifiable information.
 
-All user data (recipes, categories, shopping lists) is stored in iCloud and is only available to the user.
+- All user data (recipes, categories, shopping lists) is stored locally on the device and synchronized via iCloud.
+- This data is only accessible to the user via their Apple ID.
+- The developer has no access to this information.
+- The app does not collect any personal information, does not use third-party analytics or advertising, and does not transmit data to external servers.
 
 ### Revisions to this Privacy Policy
 
