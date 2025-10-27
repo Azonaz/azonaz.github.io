@@ -1,0 +1,42 @@
+{
+  "vocabulary": {
+    "groups": [
+      {
+        "id": 1,
+        "version": 1,
+        "name": {
+          "en": "Meeting",
+          "ru": "Встреча"
+        },
+        "words": [
+          { "id": 1,
+            "gr": "καλημέρα",
+            "en": "good morning",
+            "ru": "доброе утро"
+          },
+          { "id": 2,
+            "gr": "αγαπώ",
+            "en": "I love",
+            "ru": "люблю"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "version": 1,
+        "name": {
+          "en": "Family",
+          "ru": "Семья"
+        },
+        "words": [
+          {
+            "id": 1,
+            "gr": "μητέρα",
+            "en": "mother",
+            "ru": "мама"
+          }
+        ]
+      }
+    ]
+  }
+}
