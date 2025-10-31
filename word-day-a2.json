@@ -2,124 +2,124 @@
   "vocabulary": {
     "words": [
       {
-        "gr": "η παραμονή",
-        "en": "eve"
+        "gr": "ο γυμναστής",
+        "en": "trainer"
       },
       {
-        "gr": "αποφασίζω",
-        "en": "to decide"
+        "gr": "η εξέταση",
+        "en": "examination"
+      },
+      {
+        "gr": "ο δικηγόρος",
+        "en": "lawyer"
+      },
+      {
+        "gr": "η συνήθεια",
+        "en": "habit"
+      },
+      {
+        "gr": "προλαβαίνω",
+        "en": "to catch up with"
+      },
+      {
+        "gr": "ο μηχανικός",
+        "en": "engineer"
+      },
+      {
+        "gr": "η κατάσταση",
+        "en": "situation, state"
+      },
+      {
+        "gr": "το ποδήλατο",
+        "en": "bicycle"
+      },
+      {
+        "gr": "ο φωτογράφος",
+        "en": "photographer"
+      },
+      {
+        "gr": "οδηγώ",
+        "en": "to drive"
+      },
+      {
+        "gr": "νοικιάζω",
+        "en": "to rent"
+      },
+      {
+        "gr": "ο καλλιτέχνης",
+        "en": "artist"
+      },
+      {
+        "gr": "η περιοχή",
+        "en": "area"
+      },
+      {
+        "gr": "η συνάντηση",
+        "en": "meeting"
+      },
+      {
+        "gr": "ο συγγραφέας",
+        "en": "writer"
+      },
+      {
+        "gr": "η φασαρία",
+        "en": "fuss"
+      },
+      {
+        "gr": "επικοινωνώ",
+        "en": "to contact"
+      },
+      {
+        "gr": "ο κομμωτής",
+        "en": "hairdresser"
+      },
+      {
+        "gr": "το ντύσιμο",
+        "en": "dressing, outfit"
+      },
+      {
+        "gr": "σφιχτός",
+        "en": "tight, close"
+      },
+      {
+        "gr": "το συνεργείο",
+        "en": "workshop"
       },
       {
         "gr": "ο κουρέας",
         "en": "barber"
       },
       {
-        "gr": "η ευκαιρία",
-        "en": "opportunity"
+        "gr": "το ύφασμα",
+        "en": "fabric, textile"
       },
       {
-        "gr": "ο πύργος",
-        "en": "tower"
+        "gr": "ενδιαφέρομαι",
+        "en": "to be interested in"
       },
       {
-        "gr": "το κτίριο",
-        "en": "building"
+        "gr": "ο ράφτης",
+        "en": "tailor"
       },
       {
-        "gr": "επιστρέφω",
-        "en": "to return"
+        "gr": "το σχέδιο",
+        "en": "design"
       },
       {
-        "gr": "η τοποθεσία",
-        "en": "location"
+        "gr": "ο φαρμακοποιός",
+        "en": "pharmacist"
       },
       {
-        "gr": "η εμπειρία",
-        "en": "experience"
+        "gr": "το πανεπιστήμιο",
+        "en": "university"
       },
       {
-        "gr": "το παράπονο",
-        "en": "complain"
+        "gr": "φιλοξενώ",
+        "en": "to host"
       },
       {
-        "gr": "ενημερώνω",
-        "en": "to inform"
-      },
-      {
-        "gr": "η δυνατότητα",
-        "en": "possibility"
-      },
-      {
-        "gr": "ο βορράς",
-        "en": "north"
-      },
-      {
-        "gr": "ο άνεμος",
-        "en": "wind"
-      },
-      {
-        "gr": "εύχομαι",
-        "en": "to wish"
-      },
-      {
-        "gr": "η καταιγίδα",
-        "en": "storm"
-      },
-      {
-        "gr": "η ανατολή",
-        "en": "east"
-      },
-      {
-        "gr": "η ομίχλη",
-        "en": "fog"
-      },
-      {
-        "gr": "ο γαμπρός",
-        "en": "groom"
-      },
-      {
-        "gr": "εξυπηρετώ",
-        "en": "to serve"
-      },
-      {
-        "gr": "η πληροφορία",
-        "en": "information"
-      },
-      {
-        "gr": "το σύννεφο",
-        "en": "cloud"
-      },
-      {
-        "gr": "η βάπτιση",
-        "en": "christening"
-      },
-      {
-        "gr": "η λιακάδα",
-        "en": "sunshine"
-      },
-      {
-        "gr": "πλησιάζω",
-        "en": "get near, approach"
-      },
-      {
-        "gr": "η γνώμη",
-        "en": "opinion"
-      },
-      {
-        "gr": "ο κεραυνός",
-        "en": "thunder"
-      },
-      {
-        "gr": "η ταυτότητα",
-        "en": "identity card"
-      },
-      {
-        "gr": "ο κουμπάρος",
-        "en": "best man"
-      },
-      {
-        "gr": "η λακκούβα",
-        "en": "puddle"
+        "gr": "η εθνικότητα",
+        "en": "nationality"
       },
       {
         "gr": "το αφεντικό",
