@@ -710,8 +710,8 @@
         "id": 6,
         "version": 1,
         "name": {
-          "en": "Such different houses",
-          "ru": "Такие разные дома"
+          "en": "Houses around the world",
+          "ru": "Дома мира"
         },
         "words": [
           {
@@ -924,8 +924,8 @@
         "id": 7,
         "version": 1,
         "name": {
-          "en": "Inside the house",
-          "ru": "В доме"
+          "en": "My home",
+          "ru": "Мой дом"
         },
         "words": [
           {
@@ -973,13 +973,13 @@
           {
             "id": 8,
             "gr": "το τρίμηνο",
-            "en": "3-month period",
-            "ru": "период в 3 мес."
+            "en": "three month period",
+            "ru": "период в 3 месяца"
           },
           {
             "id": 9,
             "gr": "το τριάρι",
-            "en": "3 bedroom apt.",
+            "en": "three-bedroom apt.",
             "ru": "трехкомнатная квартира"
           },
           {
