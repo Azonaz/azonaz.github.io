@@ -2248,7 +2248,7 @@
       },
       {
         "id": 13,
-        "version": 1,
+        "version": 2,
         "name": {
           "en": "Group B Verbs (-ώ, -ούμαι)",
           "ru": "Глаголы группы В (-ώ, -ούμαι)"
@@ -2281,7 +2281,7 @@
           {
             "id": 5,
             "gr": "βαθμολογώ",
-            "en": "grade / evaluate",
+            "en": "grade, evaluate",
             "ru": "оценивать"
           },
           {
@@ -2305,13 +2305,13 @@
           {
             "id": 9,
             "gr": "ενοχλώ",
-            "en": "disturb / bother",
+            "en": "disturb, bother",
             "ru": "беспокоить"
           },
           {
             "id": 10,
             "gr": "ενοχλούμαι",
-            "en": "be bothered / be disturbed",
+            "en": "be bothered, be disturbed",
             "ru": "беспокоиться"
           },
           {
@@ -2437,7 +2437,7 @@
           {
             "id": 31,
             "gr": "προσπαθώ",
-            "en": "try / attempt",
+            "en": "try, attempt",
             "ru": "пытаться"
           },
           {
@@ -2449,29 +2449,29 @@
           {
             "id": 33,
             "gr": "αρνούμαι",
-            "en": "refuse / deny",
+            "en": "refuse, deny",
             "ru": "отказываться"
           },
           {
             "id": 34,
             "gr": "ασχολούμαι",
-            "en": "engage in / deal with",
+            "en": "engage in, deal with",
             "ru": "заниматься"
           },
           { "id": 35,
             "gr": "αφηγούμαι",
-            "en": "narrate / tell",
+            "en": "narrate, tell",
             "ru": "повествовать"
           },
           { "id": 36,
             "gr": "διηγούμαι",
-            "en": "tell / recount",
+            "en": "tell, recount",
             "ru": "рассказывать"
           },
           {
             "id": 37,
             "gr": "περιποιούμαι",
-            "en": "take care of / look after",
+            "en": "take care of, look after",
             "ru": "ухаживать"
           }
         ]
