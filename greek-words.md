@@ -17,7 +17,8 @@ These are three small applications for learning Greek words used in courses for 
 - learn how verbs change across different tenses.
 
 [Download A1 in App Store](https://apps.apple.com/cy/app/greek-words-a1/id6474042509)  
-[Download A2 in App Store](https://apps.apple.com/cy/app/greek-words-a2/id6736978135)
+[Download A2 in App Store](https://apps.apple.com/cy/app/greek-words-a2/id6736978135)  
+[Download B1 in App Atore](https://apps.apple.com/cy/app/greek-words-b1/id6754924042)
 
 ## Privacy Policy
 _Last updated: November 5th, 2025_
