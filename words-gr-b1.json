@@ -4747,7 +4747,7 @@
       },
       {
         "id": 83,
-        "version": 3,
+        "version": 4,
         "name": {
           "en": "City or village: more vocabulary",
           "ru": "Город или деревня: дополнительная лексика"
@@ -4798,7 +4798,7 @@
           {
             "id": 8,
             "gr": "η επαγγελματική αποκατάσταση",
-            "en": "career prospects, professional establishment",
+            "en": "career prospects, establishment",
             "ru": "трудоустройство, карьерная реализация"
           },
           {
@@ -4882,7 +4882,7 @@
           {
             "id": 22,
             "gr": "η κτηνοτροφία",
-            "en": "animal farming, livestock breeding",
+            "en": "animal farming",
             "ru": "животноводство"
           },
           {
