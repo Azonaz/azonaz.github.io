@@ -4663,7 +4663,7 @@
       },
       {
         "id": 24,
-        "version": 3,
+        "version": 4,
         "name": {
           "en": "Clothing, footwear, accessories",
           "ru": "Одежда, обувь, аксессуары"
@@ -4672,8 +4672,8 @@
           {
             "id": 1,
             "gr": "η ρίγα",
-            "en": "stripe",
-            "ru": "полоса"
+            "en": "striped pattern",
+            "ru": "полоса (узор на ткани)"
           },
           {
             "id": 2,
@@ -4714,7 +4714,7 @@
           {
             "id": 8,
             "gr": "μεταξωτός",
-            "en": "silk",
+            "en": "made of silk",
             "ru": "шелковый"
           },
           {
@@ -4732,13 +4732,13 @@
           {
             "id": 11,
             "gr": "βαμβακερός",
-            "en": "cotton",
+            "en": "made of cotton",
             "ru": "хлопковый"
           },
           {
             "id": 12,
             "gr": "γούνινος",
-            "en": "fur",
+            "en": "made of fur",
             "ru": "меховой"
           },
           {
@@ -4852,7 +4852,7 @@
           {
             "id": 31,
             "gr": "δερμάτινος",
-            "en": "leather",
+            "en": "made of leather",
             "ru": "кожаный"
           },
           {
