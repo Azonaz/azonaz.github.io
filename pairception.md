@@ -2,7 +2,7 @@
 layout: default
 title: Pairception — Number pair puzzle
 published: true
-permalink: /Pairception/
+permalink: /pairception/
 last_modified_at: 2026-03-17
 ---
 # Pairception 
