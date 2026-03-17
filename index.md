@@ -13,7 +13,7 @@ My projects:
 - [Breaking Walls](/breaking-walls/) – a brick breaking game,
 - [Fibonacci Hex Merge](/fibonacci-hex-merge-game/) – a tiny puzzle game.
 - [Bite Book](/bite-book/) – digital recipe notebook.
-- [Pairception](/pairception/) – digital recipe notebook.
+- [Pairception](/pairception/) – number pair puzzle.
 
 ## Contacts
 
