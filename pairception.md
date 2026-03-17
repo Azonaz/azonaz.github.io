@@ -63,7 +63,7 @@ A new puzzle every day with a guaranteed solution.
 - Complete simple tasks to earn rewards
 - Play daily to maintain your streak and progress faster
 
-#### Tutorial
+### Tutorial
 A short tutorial is available on first launch and can be replayed anytime from settings.
 
 ## Privacy Policy
