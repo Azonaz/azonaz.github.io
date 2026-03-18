@@ -18,8 +18,8 @@ All progress is saved locally on your device.
 The game field is a vertically scrollable grid with 9 columns. Each cell contains a number from 1 to 9, or is empty.
 
 Your goal is to remove all numbers from the board by selecting valid pairs.
-- Tap one number, then another to connect them
-- If the pair is valid — both numbers disappear
+- Tap one number, then another to connect the pair
+- If the pair is valid, both numbers disappear
 
 A pair can be removed if:
 - The numbers are equal, OR
@@ -27,14 +27,14 @@ A pair can be removed if:
 
 And:
 - They are aligned horizontally, vertically, or diagonally
-- There are no active numbers between them
+- Pairs can also connect across row boundaries when they remain in a continuous valid line
+- There are no active numbers blocking the path between them
 
 ### Mechanics
 
 #### Adding numbers
 Use the “Add” button to extend the board:
-- Duplicates all current active numbers
-- Appends them to the grid in order
+- It copies all currently active numbers and appends them to the grid in the same order
 - Can be used up to 5 times per game
 
 #### Hints
@@ -61,7 +61,7 @@ A new puzzle every day with a guaranteed solution.
 
 ### Daily Tasks & Streak
 - Complete simple tasks to earn rewards
-- Play daily to maintain your streak and progress faster
+- Play daily to keep your streak going and earn rewards faster
 
 ### Tutorial
 A short tutorial is available on first launch and can be replayed anytime from settings.
@@ -69,14 +69,12 @@ A short tutorial is available on first launch and can be replayed anytime from s
 ## Privacy Policy
 _Last updated: March 18th, 2026_
 
-We (developers and publishers)
-are providing this Privacy Policy
-to explain our practices regarding the collection and use of information within the apps.
+We (the developers and publishers of Pairception) 
+provide this Privacy Policy 
+to explain how information may be handled when you use the app.
 
-### Collection and use information
+### Information Collection and Use
 
-Pairception does not collect any personally identifiable information.
-
-Pairception uses a third-party service ([Google AdMob](https://policies.google.com/technologies/partner-sites))
-to track app usage data and serve ads.
-Please review the privacy policy of this third-party service for more information on how they handle personal data.
+Pairception does not require account registration and does not directly collect personal information.
+Game progress and settings are stored locally on your device.
+Pairception uses Google AdMob ([Google AdMob](https://policies.google.com/technologies/partner-sites)) to serve ads. Google may collect device and usage data through AdMob in accordance with its privacy policy.
