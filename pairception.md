@@ -6,6 +6,7 @@ permalink: /pairception/
 last_modified_at: 2026-03-17
 ---
 # Pairception 
+![numbers-o](https://github.com/user-attachments/assets/7a0d69b3-374a-41d8-a647-bd2440012c15)
 
 A minimalist and relaxing puzzle game where your goal is to clear the board by connecting matching numbers.
 
