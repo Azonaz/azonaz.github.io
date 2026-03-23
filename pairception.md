@@ -5,7 +5,7 @@ published: true
 permalink: /pairception/
 last_modified_at: 2026-03-17
 ---
-# Pairception 
+# Pairception
 ![numbers](https://github.com/user-attachments/assets/04e43eab-49a8-4cec-9150-283fd6429bf5)
 
 A minimalist and relaxing puzzle game where your goal is to clear the board by connecting matching numbers.
@@ -13,6 +13,8 @@ A minimalist and relaxing puzzle game where your goal is to clear the board by c
 The rules are simple, but mastering the game requires attention, logic, and strategic thinking.
 
 All progress is saved locally on your device.
+
+[Download in App Store](https://apps.apple.com/cy/app/pairception-cozy-numbers/id6759792284).
 
 ### Gameplay
 
