@@ -8,7 +8,13 @@ last_modified_at: 2026-05-03
 ---
 # Fibonacci Hex Merge
 
-![Fibonacci Hex Merge gameplay on iPhone](https://github.com/user-attachments/assets/b9485aea-5326-4a99-b9fb-c5eb1ea095da)
+<p>
+    <img
+            src="https://github.com/user-attachments/assets/b9485aea-5326-4a99-b9fb-c5eb1ea095da"
+            alt="Fibonacci Hex Merge gameplay on iPhone"
+            width="360"
+    />
+</p>
 
 **A calm Fibonacci number puzzle for iPhone.** Merge numbers, plan chains, and keep the hex board alive.
 
@@ -63,8 +69,13 @@ Each cell has more neighbors than a square grid, so every placement can create s
 
 That makes Fibonacci Hex Merge a compact hex merge puzzle: easy to start, but better when you slow down and plan.
 
-![Hex board number puzzle screenshot](https://github.com/user-attachments/assets/cd999d3d-be16-46b3-a129-c9f2a483f387)
-
+<p>
+    <img
+            src="https://github.com/user-attachments/assets/cd999d3d-be16-46b3-a129-c9f2a483f387"
+            alt="Fibonacci number puzzle gameplay on a hex board"
+            width="360"
+    />
+</p>
 
 ---
 
@@ -79,8 +90,13 @@ Fibonacci Hex Merge is an iPhone puzzle game with short focused sessions and nat
 - Big Bang ability to clear three tiles when the board gets crowded
 - Localized in English, French, German, Russian, and Spanish
 
-![Daily quests and streak rewards in Fibonacci Hex Merge](https://github.com/user-attachments/assets/9fb70170-7128-48e0-ab60-50091b199952)
-
+<p>
+    <img
+            src="https://github.com/user-attachments/assets/9fb70170-7128-48e0-ab60-50091b199952"
+            alt="Daily quests and streak rewards in Fibonacci Hex Merge"
+            width="360"
+    />
+</p>
 ---
 
 ## Latest Update
@@ -133,7 +149,13 @@ Yes. Fibonacci Hex Merge supports Game Center leaderboards, so you can compare s
 
 ### What is the Big Bang ability?
 
-![Big Bang in Fibonacci Hex Merge](https://github.com/user-attachments/assets/173d347c-ebfa-4e90-b9f6-76fdd22719f9)
+<p>
+    <img
+            src="https://github.com/user-attachments/assets/173d347c-ebfa-4e90-b9f6-76fdd22719f9"
+            alt="Big Bang ability in Fibonacci Hex Merge"
+            width="360"
+    />
+</p>
 
 Big Bang is an in-game ability that clears three tiles from the board. It gives you a way to recover space when the board gets tight.
 
