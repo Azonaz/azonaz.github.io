@@ -12,7 +12,7 @@ last_modified_at: 2026-05-03
     <img
             src="https://github.com/user-attachments/assets/b9485aea-5326-4a99-b9fb-c5eb1ea095da"
             alt="Fibonacci Hex Merge gameplay on iPhone"
-            width="360"
+            width="280"
     />
 </p>
 
@@ -73,7 +73,7 @@ That makes Fibonacci Hex Merge a compact hex merge puzzle: easy to start, but be
     <img
             src="https://github.com/user-attachments/assets/cd999d3d-be16-46b3-a129-c9f2a483f387"
             alt="Fibonacci number puzzle gameplay on a hex board"
-            width="360"
+            width="280"
     />
 </p>
 
@@ -94,7 +94,7 @@ Fibonacci Hex Merge is an iPhone puzzle game with short focused sessions and nat
     <img
             src="https://github.com/user-attachments/assets/9fb70170-7128-48e0-ab60-50091b199952"
             alt="Daily quests and streak rewards in Fibonacci Hex Merge"
-            width="360"
+            width="280"
     />
 </p>
 ---
@@ -153,7 +153,7 @@ Yes. Fibonacci Hex Merge supports Game Center leaderboards, so you can compare s
     <img
             src="https://github.com/user-attachments/assets/173d347c-ebfa-4e90-b9f6-76fdd22719f9"
             alt="Big Bang ability in Fibonacci Hex Merge"
-            width="360"
+            width="280"
     />
 </p>
 
