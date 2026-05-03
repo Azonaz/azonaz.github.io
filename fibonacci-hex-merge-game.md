@@ -151,7 +151,7 @@ Yes. Fibonacci Hex Merge supports Game Center leaderboards, so you can compare s
 
 <p>
     <img
-            src="https://github.com/user-attachments/assets/173d347c-ebfa-4e90-b9f6-76fdd22719f9"
+            src="https://github.com/user-attachments/assets/98b09aa3-2cdf-4504-abea-2045ee2f6626"
             alt="Big Bang ability in Fibonacci Hex Merge"
             width="280"
     />
