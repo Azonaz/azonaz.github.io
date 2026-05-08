@@ -31,6 +31,8 @@ The connection can run horizontally, vertically, diagonally, or across row bound
 
 The rules are simple enough to learn quickly. The board becomes more interesting when you start planning which pairs to remove now and which spaces to open for later.
 
+![Pairception gameplay showing two numbers matched to clear the board](https://github.com/user-attachments/assets/82f1ce91-82cb-4292-8849-0be90130b1ca)
+
 ## A New Daily Puzzle
 
 Pairception includes a new daily puzzle with a guaranteed solution.
@@ -38,6 +40,8 @@ Pairception includes a new daily puzzle with a guaranteed solution.
 The daily puzzle is a focused board with no hints and no adds. Some days are quick. Some take a few attempts. That small uncertainty is part of the rhythm: open the board, look for the right pairs, and see whether today is the day you clear it.
 
 Complete the daily puzzle to earn shells.
+
+![Daily puzzle board in Pairception](https://github.com/user-attachments/assets/8a43134b-6b23-471f-ac0f-bb728526b2cb)
 
 ## Small Details That Help
 
