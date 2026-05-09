@@ -81,6 +81,8 @@ Pairception belongs to the broad family of number match puzzles.
 
 This is not a race against a timer. It is a quiet board to read, clear, and return to, with light and dark appearance for the way you use your device.
 
+![Pairception gameplay in light appearance](https://github.com/user-attachments/assets/bc45403e-1ae3-4666-952f-70b83f6a019b)
+
 ## Number Styles
 
 Pairception includes different visual styles for the numbers you match.
