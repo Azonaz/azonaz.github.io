@@ -31,6 +31,8 @@ The connection can run horizontally, vertically, diagonally, or across row bound
 
 The rules are simple enough to learn quickly. The board becomes more interesting when you start planning which pairs to remove now and which spaces to open for later.
 
+![Pairception gameplay showing two numbers matched to clear the board](https://github.com/user-attachments/assets/82f1ce91-82cb-4292-8849-0be90130b1ca)
+
 ## A New Daily Puzzle
 
 Pairception includes a new daily puzzle with a guaranteed solution.
@@ -38,6 +40,8 @@ Pairception includes a new daily puzzle with a guaranteed solution.
 The daily puzzle is a focused board with no hints and no adds. Some days are quick. Some take a few attempts. That small uncertainty is part of the rhythm: open the board, look for the right pairs, and see whether today is the day you clear it.
 
 Complete the daily puzzle to earn shells.
+
+![Daily puzzle board in Pairception](https://github.com/user-attachments/assets/8a43134b-6b23-471f-ac0f-bb728526b2cb)
 
 ## Small Details That Help
 
@@ -76,6 +80,8 @@ Pairception belongs to the broad family of number match puzzles.
 | logic puzzles | simple rules that reward attention and planning |
 
 This is not a race against a timer. It is a quiet board to read, clear, and return to, with light and dark appearance for the way you use your device.
+
+![Pairception gameplay in light appearance](https://github.com/user-attachments/assets/bc45403e-1ae3-4666-952f-70b83f6a019b)
 
 ## Number Styles
 
