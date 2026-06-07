@@ -12,6 +12,7 @@ This is a small, fan-built application. It allows you to track the progress of p
 All progress is saved only on your device.
 
 [Download in App Store](https://apps.apple.com/cy/app/pikidex/id1607358713).
+[Download in Play Market](https://play.google.com/store/apps/details?id=ru.find_friends_team.pikidex).
 
 ### How to use application
 Tap on the icon, it will change its state:
@@ -46,7 +47,7 @@ Here you can find features which we want to add to app in the (near) future:
 - translations.
 
 ## Privacy Policy
-_Last updated: December 8th, 2023_
+_Last updated: June 7th, 2023_
 
 We (developers and publishers)
 are providing this Privacy Policy
@@ -55,10 +56,6 @@ to explain our practices regarding the collection and use of information within 
 ### Collection and use information
 
 Pikidex does not collect any personally identifiable information.
-
-Pikidex uses third-party service ([Google AdMob](https://policies.google.com/technologies/partner-sites))
-to track app usage data and serve ads.
-Please review the privacy policy of this third party service for more information regarding how they handle personal data.
 
 Pikidex uses third-party service Revenuecat to track app usage data. 
 Please review the privacy policy of this third party service for more information regarding how they handle personal data.
