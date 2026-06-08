@@ -3,7 +3,7 @@
     "groups": [
       {
         "id": 1,
-        "version": 2,
+        "version": 3,
         "name": {
           "en": "Appearance",
           "ru": "Внешность"
@@ -140,9 +140,9 @@
             "ru": "линия"
           },
           { "id": 27,
-            "gr": "προεξέχει",
-            "en": "it protrudes",
-            "ru": "выступает"
+            "gr": "προεξέχω",
+            "en": "to protrude, to stick out",
+            "ru": "выступать, торчать, выдаваться вперед"
           },
           { "id": 28,
             "gr": "το σημάδι",
@@ -173,7 +173,7 @@
       },
       {
         "id": 2,
-        "version": 5,
+        "version": 6,
         "name": {
           "en": "Character",
           "ru": "Характер"
@@ -275,9 +275,9 @@
             "ru": "злюсь"
           },
           { "id": 20,
-            "gr": "μαλώνω",
-            "en": "I argue, scold",
-            "ru": "ругаю, ссорюсь"
+            "gr": "η αντίρρηση",
+            "en": "objection, disagreement",
+            "ru": "возражение, несогласие"
           },
           { "id": 21,
             "gr": "κλαίω",
@@ -441,7 +441,7 @@
       },
       {
         "id": 4,
-        "version": 3,
+        "version": 4,
         "name": {
           "en": "Thoughts and feelings",
           "ru": "Мысли и чувства"
@@ -450,38 +450,38 @@
           {
             "id": 1,
             "gr": "στεναχωριέμαι",
-            "en": "I feel sad",
-            "ru": "грущу"
+            "en": "to feel sad",
+            "ru": "грустить"
           },
           {
             "id": 2,
             "gr": "ωριμάζω",
-            "en": "I mature",
-            "ru": "созреваю"
+            "en": "to mature",
+            "ru": "созревать"
           },
           {
             "id": 3,
             "gr": "συμφωνώ",
-            "en": "I agree",
-            "ru": "соглашаюсь"
+            "en": "to agree",
+            "ru": "соглашаться"
           },
           {
             "id": 4,
             "gr": "χωρίζω",
-            "en": "I separate",
-            "ru": "разделяю"
+            "en": "to separate",
+            "ru": "разделять"
           },
           {
             "id": 5,
             "gr": "ενώνω",
-            "en": "I unite",
-            "ru": "объединяю"
+            "en": "to unite",
+            "ru": "объединять"
           },
           {
             "id": 6,
             "gr": "σιωπώ",
-            "en": "I am silent",
-            "ru": "молчу"
+            "en": "to be silent",
+            "ru": "молчать"
           },
           {
             "id": 7,
@@ -510,14 +510,14 @@
           {
             "id": 11,
             "gr": "διαφωνώ",
-            "en": "I disagree",
-            "ru": "не согласен"
+            "en": "to disagree",
+            "ru": "не соглашаться"
           },
           {
             "id": 12,
-            "gr": "η υποχρέωση",
-            "en": "obligation",
-            "ru": "обязательство"
+            "gr": "αγκαλιάζω",
+            "en": "to embrace, to hug",
+            "ru": "обнимать"
           },
           {
             "id": 13,
@@ -528,8 +528,8 @@
           {
             "id": 14,
             "gr": "κατηγορώ",
-            "en": "I accuse",
-            "ru": "обвиняю"
+            "en": "to accuse",
+            "ru": "обвинять"
           },
           {
             "id": 15,
@@ -552,8 +552,8 @@
           {
             "id": 18,
             "gr": "σώζω",
-            "en": "I save",
-            "ru": "спасаю"
+            "en": "to save",
+            "ru": "спасать"
           },
           {
             "id": 19,
@@ -577,7 +577,7 @@
       },
       {
         "id": 5,
-        "version": 2,
+        "version": 3,
         "name": {
           "en": "Morals and customs",
           "ru": "Мораль и обычаи"
@@ -604,8 +604,8 @@
           {
             "id": 4,
             "gr": "παρατηρώ",
-            "en": "I observe",
-            "ru": "наблюдаю"
+            "en": "to observe",
+            "ru": "наблюдать"
           },
           {
             "id": 5,
@@ -670,8 +670,8 @@
           {
             "id": 15,
             "gr": "απατώ",
-            "en": "I cheat, I deceive",
-            "ru": "обманываю"
+            "en": "to cheat, to deceive",
+            "ru": "обманывать"
           },
           {
             "id": 16,
@@ -724,14 +724,14 @@
           {
             "id": 24,
             "gr": "πλέκω",
-            "en": "I knit",
-            "ru": "вяжу"
+            "en": "to knit",
+            "ru": "вязать"
           },
           {
             "id": 25,
             "gr": "κεντάω",
-            "en": "I embroider",
-            "ru": "вышиваю"
+            "en": "to embroider",
+            "ru": "вышивать"
           },
           {
             "id": 26,
@@ -761,7 +761,7 @@
       },
       {
         "id": 6,
-        "version": 1,
+        "version": 2,
         "name": {
           "en": "Houses around the world",
           "ru": "Дома мира"
@@ -782,8 +782,8 @@
           {
             "id": 3,
             "gr": "χτίζω",
-            "en": "I build",
-            "ru": "строю"
+            "en": "to build",
+            "ru": "строить"
           },
           {
             "id": 4,
@@ -836,8 +836,8 @@
           {
             "id": 12,
             "gr": "αντέχω",
-            "en": "withstand",
-            "ru": "выдерживаю"
+            "en": "to withstand",
+            "ru": "выдерживать"
           },
           {
             "id": 13,
@@ -877,9 +877,9 @@
           },
           {
             "id": 19,
-            "gr": "μεταφέρω",
-            "en": "I transport",
-            "ru": "перевожу, переношу"
+            "gr": "το ανώι",
+            "en": "first floor, upper floor",
+            "ru": "первый этаж, верхний этаж"
           },
           {
             "id": 20,
@@ -908,8 +908,8 @@
           {
             "id": 24,
             "gr": "εξασφαλίζω",
-            "en": "I secure, ensure",
-            "ru": "обеспечиваю"
+            "en": "to secure, to ensure",
+            "ru": "обеспечивать"
           },
           {
             "id": 25,
@@ -926,8 +926,8 @@
           {
             "id": 27,
             "gr": "καλύπτω",
-            "en": "I cover",
-            "ru": "покрываю"
+            "en": "to cover",
+            "ru": "покрывать"
           },
           {
             "id": 28,
@@ -937,9 +937,9 @@
           },
           {
             "id": 29,
-            "gr": "το κυνήγι",
-            "en": "hunting",
-            "ru": "охота"
+            "gr": "άνω κάτω",
+            "en": "up and down, in a mess",
+            "ru": "вверх дном, в беспорядке"
           },
           {
             "id": 30,
@@ -975,7 +975,7 @@
       },
       {
         "id": 7,
-        "version": 3,
+        "version": 4,
         "name": {
           "en": "My home",
           "ru": "Мой дом"
@@ -1008,8 +1008,8 @@
           {
             "id": 5,
             "gr": "η επίπλωση",
-            "en": "furnishing",
-            "ru": "обстановка"
+            "en": "furnishing, interior setup",
+            "ru": "меблировка, обстановка"
           },
           {
             "id": 6,
@@ -1087,7 +1087,7 @@
             "id": 18,
             "gr": "το συμβόλαιο",
             "en": "contract",
-            "ru": "договор"
+            "ru": "договор, контракт"
           },
           {
             "id": 19,
@@ -1122,8 +1122,8 @@
           {
             "id": 24,
             "gr": "συνδυάζω",
-            "en": "I combine",
-            "ru": "сочетаю"
+            "en": "to combine",
+            "ru": "сочетать"
           },
           {
             "id": 25,
@@ -1189,7 +1189,7 @@
       },
       {
         "id": 8,
-        "version": 3,
+        "version": 4,
         "name": {
           "en": "Teenage life",
           "ru": "Будни подростков"
@@ -1240,8 +1240,8 @@
           {
             "id": 8,
             "gr": "ωφέλιμος",
-            "en": "useful",
-            "ru": "полезный"
+            "en": "beneficial, useful",
+            "ru": "полезный, выгодный"
           },
           {
             "id": 9,
@@ -1276,8 +1276,8 @@
           {
             "id": 14,
             "gr": "διαλέγω",
-            "en": "I choose",
-            "ru": "выбираю"
+            "en": "to choose",
+            "ru": "выбирать"
           },
           {
             "id": 15,
@@ -1300,8 +1300,8 @@
           {
             "id": 18,
             "gr": "αυξάνω",
-            "en": "I increase",
-            "ru": "увеличиваю"
+            "en": "to increase",
+            "ru": "увеличивать"
           },
           {
             "id": 18,
@@ -1342,8 +1342,8 @@
           {
             "id": 24,
             "gr": "γοητεύω",
-            "en": "I charm",
-            "ru": "очаровываю"
+            "en": "to charm",
+            "ru": "очаровывать"
           },
           {
             "id": 25,
@@ -1354,8 +1354,8 @@
           {
             "id": 26,
             "gr": "σκοτώνω",
-            "en": "I kill",
-            "ru": "убиваю"
+            "en": "to kill",
+            "ru": "убивать"
           },
           {
             "id": 27,
@@ -1378,14 +1378,14 @@
           {
             "id": 30,
             "gr": "απειλώ",
-            "en": "I threaten",
-            "ru": "угрожаю"
+            "en": "to threaten",
+            "ru": "угрожать"
           },
           {
             "id": 31,
             "gr": "έρχομαι σε επαφή",
-            "en": "I get in touch",
-            "ru": "вступаю в контакт"
+            "en": "to get in touch",
+            "ru": "вступать в контакт"
           },
           {
             "id": 32,
@@ -1402,14 +1402,14 @@
           {
             "id": 34,
             "gr": "αξιοποιώ",
-            "en": "I make good use",
-            "ru": "использую с пользой"
+            "en": "to make good use",
+            "ru": "использовать с пользой"
           },
           {
             "id": 35,
             "gr": "οφείλω",
-            "en": "I owe",
-            "ru": "я должен"
+            "en": "to owe",
+            "ru": "быть должным"
           },
           {
             "id": 36,
@@ -1420,14 +1420,14 @@
           {
             "id": 37,
             "gr": "προετοιμάζομαι",
-            "en": "I prepare myself",
-            "ru": "готовлюсь"
+            "en": "to prepare myself",
+            "ru": "готовиться"
           },
           {
             "id": 38,
             "gr": "διακρίνω",
-            "en": "I distinguish",
-            "ru": "различаю"
+            "en": "to distinguish",
+            "ru": "различать"
           },
           {
             "id": 39,
@@ -1439,7 +1439,7 @@
       },
       {
         "id": 9,
-        "version": 2,
+        "version": 3,
         "name": {
           "en": "Group A Verbs (Active & Passive)",
           "ru": "Глаголы группы А (активные и пассивные)"
@@ -1448,376 +1448,376 @@
           {
             "id": 1,
             "gr": "αναπτύσσω",
-            "en": "develop",
+            "en": "to develop",
             "ru": "развивать"
           },
           {
             "id": 2,
             "gr": "αναπτύσσομαι",
-            "en": "develop (oneself)",
+            "en": "to develop (oneself)",
             "ru": "развиваться"
           },
           {
             "id": 3,
             "gr": "απευθύνω",
-            "en": "address",
+            "en": "to address",
             "ru": "обращаться"
           },
           {
             "id": 4,
             "gr": "απευθύνομαι",
-            "en": "be addressed to",
+            "en": "to be addressed to",
             "ru": "быть адресованным"
           },
           {
             "id": 5,
             "gr": "βάφω",
-            "en": "paint",
+            "en": "to paint",
             "ru": "красить"
           },
           {
             "id": 6,
             "gr": "βάφομαι",
-            "en": "dye oneself",
+            "en": "to dye oneself",
             "ru": "краситься"
           },
           {
             "id": 7,
             "gr": "βραβεύω",
-            "en": "award",
+            "en": "to award",
             "ru": "награждать"
           },
           {
             "id": 8,
             "gr": "βραβεύομαι",
-            "en": "be awarded",
+            "en": "to be awarded",
             "ru": "быть награждённым"
           },
           {
             "id": 9,
             "gr": "βρέχω",
-            "en": "wet",
+            "en": "to wet",
             "ru": "мочить"
           },
           {
             "id": 10,
             "gr": "βρέχομαι",
-            "en": "get wet",
+            "en": "to get wet",
             "ru": "намокать"
           },
           {
             "id": 11,
             "gr": "βρίσκω",
-            "en": "find",
+            "en": "to find",
             "ru": "находить"
           },
           {
             "id": 12,
             "gr": "βρίσκομαι",
-            "en": "be located",
+            "en": "to be located",
             "ru": "находиться"
           },
           {
             "id": 13,
             "gr": "δανείζω",
-            "en": "lend",
+            "en": "to lend",
             "ru": "давать взаймы"
           },
           {
             "id": 14,
             "gr": "δανείζομαι",
-            "en": "borrow",
+            "en": "to borrow",
             "ru": "брать взаймы"
           },
           {
             "id": 15,
             "gr": "δένω",
-            "en": "tie",
+            "en": "to tie",
             "ru": "завязывать"
           },
           {
             "id": 16,
             "gr": "δένομαι",
-            "en": "be tied, bond",
+            "en": "to be tied, bond",
             "ru": "связываться"
           },
           {
             "id": 17,
             "gr": "διαβάζω",
-            "en": "read",
+            "en": "to read",
             "ru": "читать"
           },
           {
             "id": 18,
             "gr": "διαβάζομαι",
-            "en": "be read",
+            "en": "to be read",
             "ru": "читаться"
           },
           {
             "id": 19,
             "gr": "διοργανώνω",
-            "en": "organize",
+            "en": "to organize",
             "ru": "организовывать"
           },
           {
             "id": 20,
             "gr": "διοργανώνομαι",
-            "en": "be organized",
+            "en": "to be organized",
             "ru": "организовываться"
           },
           {
             "id": 21,
             "gr": "δυσκολεύω",
-            "en": "make difficult",
+            "en": "to make difficult",
             "ru": "усложнять"
           },
           {
             "id": 22,
             "gr": "δυσκολεύομαι",
-            "en": "have difficulty",
+            "en": "to have difficulty",
             "ru": "затрудняться"
           },
           {
             "id": 23,
             "gr": "εκπαιδεύω",
-            "en": "train, educate",
+            "en": "to train, educate",
             "ru": "обучать"
           },
           {
             "id": 24,
             "gr": "εκπαιδεύομαι",
-            "en": "be trained",
+            "en": "to be trained",
             "ru": "обучаться"
           },
           {
             "id": 25,
             "gr": "ενοικιάζω",
-            "en": "rent out",
+            "en": "to rent out",
             "ru": "сдавать в аренду"
           },
           {
             "id": 26,
             "gr": "ενοικιάζομαι",
-            "en": "be rented",
+            "en": "to be rented",
             "ru": "арендоваться"
           },
           { "id": 27,
             "gr": "εξετάζω",
-            "en": "examine",
+            "en": "to examine",
             "ru": "осматривать"
           },
           { "id": 28,
             "gr": "εξετάζομαι",
-            "en": "be examined",
+            "en": "to be examined",
             "ru": "обследоваться"
           },
           {
             "id": 29,
             "gr": "ετοιμάζω",
-            "en": "prepare",
+            "en": "to prepare",
             "ru": "готовить"
           },
           {
             "id": 30,
             "gr": "ετοιμάζομαι",
-            "en": "get ready",
+            "en": "to get ready",
             "ru": "готовиться"
           },
           {
             "id": 31,
             "gr": "ζεσταίνω",
-            "en": "heat",
+            "en": "to heat",
             "ru": "нагревать"
           },
           {
             "id": 32,
             "gr": "ζεσταίνομαι",
-            "en": "get warm",
+            "en": "to get warm",
             "ru": "согреваться"
           },
           {
             "id": 33,
             "gr": "θεραπεύω",
-            "en": "treat",
+            "en": "to treat",
             "ru": "лечить"
           },
           {
             "id": 34,
             "gr": "θεραπεύομαι",
-            "en": "be treated",
+            "en": "to be treated",
             "ru": "лечиться"
           },
           { "id": 35,
             "gr": "καταστρέφω",
-            "en": "destroy",
+            "en": "to destroy",
             "ru": "разрушать"
           },
           {
             "id": 36,
             "gr": "καταστρέφομαι",
-            "en": "be destroyed",
+            "en": "to be destroyed",
             "ru": "разрушаться"
           },
           {
             "id": 37,
             "gr": "κουράζω",
-            "en": "tire",
+            "en": "to tire",
             "ru": "утомлять"
           },
           {
             "id": 38,
             "gr": "κουράζομαι",
-            "en": "get tired",
+            "en": "to get tired",
             "ru": "уставать"
           },
           {
             "id": 39,
             "gr": "κρύβω",
-            "en": "hide",
+            "en": "to hide",
             "ru": "прятать"
           },
           {
             "id": 40,
             "gr": "κρύβομαι",
-            "en": "hide oneself",
+            "en": "to hide oneself",
             "ru": "прятаться"
           },
           {
             "id": 41,
             "gr": "λούζω",
-            "en": "wash hair",
+            "en": "to wash hair",
             "ru": "мыть голову"
           },
           {
             "id": 42,
             "gr": "λούζομαι",
-            "en": "wash one's hair",
+            "en": "to wash one's hair",
             "ru": "мыть голову себе"
           },
           {
             "id": 43,
             "gr": "μεταφέρω",
-            "en": "transport",
-            "ru": "перевозить"
+            "en": "to transport",
+            "ru": "перевозить, переносить"
           },
           {
             "id": 44,
             "gr": "μεταφέρομαι",
-            "en": "be transported",
+            "en": "to be transported",
             "ru": "перемещаться"
           },
           { "id": 45,
             "gr": "ξυρίζω",
-            "en": "shave",
+            "en": "to shave",
             "ru": "брить"
           },
           {
             "id": 46,
             "gr": "ξυρίζομαι",
-            "en": "shave oneself",
+            "en": "to shave oneself",
             "ru": "бриться"
           },
           {
             "id": 47,
             "gr": "πλένω",
-            "en": "wash",
+            "en": "to wash",
             "ru": "мыть"
           },
           {
             "id": 48,
             "gr": "πλένομαι",
-            "en": "wash oneself",
+            "en": "to wash oneself",
             "ru": "умываться"
           },
           {
             "id": 49,
             "gr": "ποτίζω",
-            "en": "water",
+            "en": "to water",
             "ru": "поливать"
           },
           {
             "id": 50,
             "gr": "ποτίζομαι",
-            "en": "be watered",
+            "en": "to be watered",
             "ru": "поливаться"
           },
           {
             "id": 51,
             "gr": "προβάλλω",
-            "en": "project, show",
+            "en": "to project, to show",
             "ru": "показывать на экране"
           },
           {
             "id": 52,
             "gr": "προβάλλομαι",
-            "en": "be broadcast",
+            "en": "to be broadcast",
             "ru": "транслироваться"
           },
           {
             "id": 53,
             "gr": "προσφέρω",
-            "en": "offer",
+            "en": "tooffer",
             "ru": "предлагать"
           },
           {
             "id": 54,
             "gr": "προσφέρομαι",
-            "en": "be offered",
+            "en": "to be offered",
             "ru": "предлагаться"
           },
           {
             "id": 55,
             "gr": "σηκώνω",
-            "en": "lift",
+            "en": "to lift",
             "ru": "поднимать"
           },
           {
             "id": 56,
             "gr": "σηκώνομαι",
-            "en": "get up",
+            "en": "to get up",
             "ru": "вставать"
           },
           {
             "id": 57,
             "gr": "σιδερώνω",
-            "en": "iron",
+            "en": "to iron",
             "ru": "гладить"
           },
           {
             "id": 58,
             "gr": "σιδερώνομαι",
-            "en": "be ironed",
+            "en": "to be ironed",
             "ru": "гладиться"
           },
           {
             "id": 59,
             "gr": "φορτώνω",
-            "en": "load",
-            "ru": "загружать"
+            "en": "to load",
+            "ru": "грузить, загружать"
           },
           {
             "id": 60,
             "gr": "φορτώνομαι",
-            "en": "be loaded",
+            "en": "to be loaded",
             "ru": "загружаться"
           },
           {
             "id": 61,
             "gr": "χτενίζω",
-            "en": "comb",
+            "en": "to comb",
             "ru": "причёсывать"
           },
           {
             "id": 62,
             "gr": "χτενίζομαι",
-            "en": "comb oneself",
+            "en": "to comb oneself",
             "ru": "причёсываться"
           }
         ]
       },
       {
         "id": 10,
-        "version": 2,
+        "version": 3,
         "name": {
           "en": "Group A Verbs (Active Only)",
           "ru": "Глаголы группы А (только активные)"
@@ -1826,175 +1826,175 @@
           {
             "id": 1,
             "gr": "ανήκω",
-            "en": "belong",
+            "en": "to belong",
             "ru": "принадлежать"
           },
           { "id": 2,
             "gr": "βάζω",
-            "en": "put, place",
+            "en": "to put, place",
             "ru": "класть, ставить"
           },
           {
             "id": 3,
             "gr": "βγάζω",
-            "en": "take out, remove",
+            "en": "to take out, to remove",
             "ru": "вынимать, снимать"
           },
           {
             "id": 4,
             "gr": "βγαίνω",
-            "en": "go out, exit",
+            "en": "to go out, to exit",
             "ru": "выходить"
           },
           {
             "id": 5,
             "gr": "βήχω",
-            "en": "cough",
+            "en": "to cough",
             "ru": "кашлять"
           },
           {
             "id": 6,
             "gr": "γκρινιάζω",
-            "en": "complain, grumble",
+            "en": "to complain, to grumble",
             "ru": "ворчать, жаловаться"
           },
           {
             "id": 7,
             "gr": "έχω",
-            "en": "have",
+            "en": "to have",
             "ru": "иметь"
           },
           {
             "id": 8,
             "gr": "ζωντανεύω",
-            "en": "come alive, revive",
+            "en": "to come alive, to revive",
             "ru": "оживать, возрождаться"
           },
           {
             "id": 9,
             "gr": "κάνω",
-            "en": "do, make",
+            "en": "to do, to make",
             "ru": "делать"
           },
           {
             "id": 10,
             "gr": "κοστίζω",
-            "en": "cost",
+            "en": "to cost",
             "ru": "стоить"
           },
           {
             "id": 11,
             "gr": "μαλώνω",
-            "en": "quarrel, scold",
+            "en": "to quarrel, to scold",
             "ru": "ссориться, ругаться"
           },
           {
             "id": 12,
             "gr": "μένω",
-            "en": "live, stay",
+            "en": "to live, to stay",
             "ru": "жить, оставаться"
           },
           {
             "id": 13,
             "gr": "μοιάζω",
-            "en": "look like, resemble",
+            "en": "to look like, to resemble",
             "ru": "быть похожим"
           },
           {
             "id": 14,
             "gr": "μπαίνω",
-            "en": "enter",
+            "en": "to enter",
             "ru": "входить"
           },
           {
             "id": 15,
             "gr": "νευριάζω",
-            "en": "get angry, irritate",
+            "en": "to get angry, to irritate",
             "ru": "злиться, раздражаться"
           },
           {
             "id": 16,
             "gr": "νιώθω",
-            "en": "feel",
+            "en": "to feel",
             "ru": "чувствовать"
           },
           {
             "id": 17,
             "gr": "ξέρω",
-            "en": "know",
+            "en": "to know",
             "ru": "знать"
           },
           {
             "id": 18,
             "gr": "παίρνω",
-            "en": "take",
+            "en": "to take",
             "ru": "брать"
           },
           {
             "id": 19,
             "gr": "πεθαίνω",
-            "en": "die",
+            "en": "to die",
             "ru": "умирать"
           },
           {
             "id": 20,
             "gr": "περιμένω",
-            "en": "wait",
+            "en": "to wait",
             "ru": "ждать"
           },
           {
             "id": 21,
             "gr": "πηγαίνω",
-            "en": "go",
+            "en": "to go",
             "ru": "идти"
           },
           {
             "id": 22,
             "gr": "πιστεύω",
-            "en": "believe",
+            "en": "to believe",
             "ru": "верить"
           },
           {
             "id": 23,
-            "gr": "τρεμώ",
-            "en": "tremble",
+            "gr": "τρέμω",
+            "en": "to tremble",
             "ru": "дрожать"
           },
           {
             "id": 24,
             "gr": "τρέχω",
-            "en": "run",
+            "en": "to run",
             "ru": "бежать"
           },
           {
             "id": 25,
             "gr": "φέρνω",
-            "en": "bring",
+            "en": "to bring",
             "ru": "приносить"
           },
           {
             "id": 26,
             "gr": "φεύγω",
-            "en": "leave, go away",
+            "en": "to leave, to go away",
             "ru": "уходить"
           },
           {
             "id": 27,
             "gr": "φταίω",
-            "en": "be at fault",
+            "en": "to be at fault",
             "ru": "быть виноватым"
           },
           {
             "id": 28,
             "gr": "φωνάζω",
-            "en": "shout, yell",
+            "en": "to shout, to yell",
             "ru": "кричать"
           }
         ]
       },
       {
         "id": 11,
-        "version": 1,
+        "version": 2,
         "name": {
           "en": "Group A Verbs (Passive Only)",
           "ru": "Глаголы группы А (только пассивные)"
@@ -2003,140 +2003,140 @@
           {
             "id": 1,
             "gr": "αισθάνομαι",
-            "en": "feel, sense",
+            "en": "to feel, to sense",
             "ru": "ощущать"
           },
           {
             "id": 2,
             "gr": "γίνομαι",
-            "en": "become",
+            "en": "to become",
             "ru": "становиться"
           },
           {
             "id": 3,
             "gr": "δέχομαι",
-            "en": "accept, agree",
+            "en": "to accept, to agree",
             "ru": "принимать, соглашаться"
           },
           {
             "id": 4,
             "gr": "εκμεταλλεύομαι",
-            "en": "take advantage, exploit",
+            "en": "to take advantage, to exploit",
             "ru": "пользоваться, эксплуатировать"
           },
           {
             "id": 5,
             "gr": "εμπιστεύομαι",
-            "en": "trust",
+            "en": "to trust",
             "ru": "доверять"
           },
           {
             "id": 6,
             "gr": "ενδιαφέρομαι",
-            "en": "be interested",
+            "en": "to be interested",
             "ru": "интересоваться"
           },
           {
             "id": 7,
             "gr": "εργάζομαι",
-            "en": "work",
+            "en": "to work",
             "ru": "работать"
           },
           {
             "id": 8,
             "gr": "έρχομαι",
-            "en": "come",
+            "en": "to come",
             "ru": "приходить"
           },
           {
             "id": 9,
             "gr": "ερωτεύομαι",
-            "en": "fall in love",
+            "en": "to fall in love",
             "ru": "влюбляться"
           },
           {
             "id": 10,
             "gr": "εύχομαι",
-            "en": "wish",
+            "en": "to wish",
             "ru": "желать"
           },
           {
             "id": 11,
             "gr": "κάθομαι",
-            "en": "sit",
+            "en": "to sit",
             "ru": "сидеть"
           },
           {
             "id": 12,
             "gr": "μεταχειρίζομαι",
-            "en": "treat, handle",
+            "en": "to treat, to handle",
             "ru": "обращаться с кем-либо"
           },
           {
             "id": 13,
             "gr": "ντρέπομαι",
-            "en": "be shy, be ashamed",
+            "en": "to be shy, to be ashamed",
             "ru": "стесняться, стыдиться"
           },
           {
             "id": 14,
             "gr": "ονειρεύομαι",
-            "en": "dream",
+            "en": "to dream",
             "ru": "мечтать"
           },
           {
             "id": 15,
             "gr": "σέβομαι",
-            "en": "respect",
+            "en": "to respect",
             "ru": "уважать"
           },
           {
             "id": 16,
             "gr": "σκέφτομαι",
-            "en": "think",
+            "en": "to think",
             "ru": "думать"
           },
           {
             "id": 17,
             "gr": "συμπεριφέρομαι",
-            "en": "behave",
+            "en": "to behave",
             "ru": "вести себя"
           },
           {
             "id": 18,
             "gr": "συνεργάζομαι",
-            "en": "cooperate",
+            "en": "to cooperate",
             "ru": "сотрудничать"
           },
           {
             "id": 19,
             "gr": "υπόσχομαι",
-            "en": "promise",
+            "en": "to promise",
             "ru": "обещать"
           },
           {
             "id": 20,
             "gr": "φαίνομαι",
-            "en": "appear, seem",
+            "en": "to appear, to seem",
             "ru": "выглядеть"
           },
           {
             "id": 21,
             "gr": "χαίρομαι",
-            "en": "rejoice, be glad",
+            "en": "to rejoice, to be glad",
             "ru": "радоваться"
           },
           {
             "id": 22,
             "gr": "χρειάζομαι",
-            "en": "need",
+            "en": "to need",
             "ru": "нуждаться"
           }
         ]
       },
       {
         "id": 12,
-        "version": 2,
+        "version": 3,
         "name": {
           "en": "Group B Verbs (-άω/-ώ, -ιέμαι)",
           "ru": "Глаголы группы В (-άω/-ώ, -ιέμαι)"
@@ -2145,182 +2145,182 @@
           {
             "id": 1,
             "gr": "γεννάω",
-            "en": "give birth",
+            "en": "to give birth",
             "ru": "рожать"
           },
           {
             "id": 2,
             "gr": "γεννιέμαι",
-            "en": "be born",
+            "en": "to be born",
             "ru": "рождаться"
           },
           {
             "id": 3,
             "gr": "ευχαριστώ",
-            "en": "thank",
+            "en": "to thank",
             "ru": "благодарить"
           },
           {
             "id": 4,
             "gr": "ευχαριστιέμαι",
-            "en": "enjoy",
+            "en": "to enjoy",
             "ru": "наслаждаться"
           },
           {
             "id": 5,
             "gr": "κουνώ",
-            "en": "move (something)",
+            "en": "to move (something)",
             "ru": "двигать"
           },
           {
             "id": 6,
             "gr": "κουνιέμαι",
-            "en": "move (oneself)",
+            "en": "to move (oneself)",
             "ru": "двигаться"
           },
           {
             "id": 7,
             "gr": "μιλάω",
-            "en": "speak",
+            "en": "to speak",
             "ru": "говорить"
           },
           {
             "id": 8,
             "gr": "μιλιέμαι",
-            "en": "be spoken",
+            "en": "to be spoken",
             "ru": "говориться"
           },
           {
             "id": 9,
             "gr": "ξεχνάω",
-            "en": "forget",
+            "en": "to forget",
             "ru": "забывать"
           },
           {
             "id": 10,
             "gr": "ξεχνιέμαι",
-            "en": "be forgotten",
+            "en": "to be forgotten",
             "ru": "забываться"
           },
           {
             "id": 11,
             "gr": "πετάω",
-            "en": "throw, fly",
-            "ru": "бросать"
+            "en": "to throw, to fly",
+            "ru": "бросать, летать"
           },
           {
             "id": 12,
             "gr": "πετιέμαι",
-            "en": "be thrown, be tossed",
-            "ru": "выбрасываться"
+            "en": "to pop out, to spring out",
+            "ru": "выскакивать, резко появляться"
           },
           {
             "id": 13,
             "gr": "συζητάω",
-            "en": "discuss",
+            "en": "to discuss",
             "ru": "обсуждать"
           },
           {
             "id": 14,
             "gr": "συζητιέμαι",
-            "en": "be discussed",
+            "en": "to be discussed",
             "ru": "обсуждаться"
           },
           {
             "id": 15,
             "gr": "χαιρετάω",
-            "en": "greet",
+            "en": "to greet",
             "ru": "приветствовать"
           },
           {
             "id": 16,
             "gr": "χαιρετιέμαι",
-            "en": "be greeted",
+            "en": "to be greeted",
             "ru": "приветствоваться"
           },
           {
             "id": 17,
             "gr": "γερνάω",
-            "en": "get old",
+            "en": "to get old",
             "ru": "стареть"
           },
           {
             "id": 18,
             "gr": "γλεντάω",
-            "en": "have fun, celebrate",
+            "en": "to have fun, to celebrate",
             "ru": "веселиться"
           },
           {
             "id": 19,
             "gr": "διψάω",
-            "en": "be thirsty",
+            "en": "to be thirsty",
             "ru": "хотеть пить"
           },
           {
             "id": 20,
             "gr": "ξενυχτάω",
-            "en": "stay up all night",
+            "en": "to stay up all night",
             "ru": "не спать всю ночь"
           },
           {
             "id": 21,
             "gr": "πεινάω",
-            "en": "be hungry",
+            "en": "to be hungry",
             "ru": "хотеть есть"
           },
           {
             "id": 22,
             "gr": "πονάω",
-            "en": "hurt, ache",
+            "en": "to hurt, to ache",
             "ru": "чувствовать боль"
           },
           {
             "id": 23,
             "gr": "σταματάω",
-            "en": "stop",
+            "en": "to stop",
             "ru": "останавливаться"
           },
           {
             "id": 24,
             "gr": "χρωστάω",
-            "en": "owe",
+            "en": "to owe",
             "ru": "быть должным"
           },
           {
             "id": 25,
             "gr": "αναρωτιέμαι",
-            "en": "wonder",
+            "en": "to wonder",
             "ru": "задаваться вопросом"
           },
           {
             "id": 26,
             "gr": "βαριέμαι",
-            "en": "be bored",
+            "en": "to be bored",
             "ru": "скучать"
           },
           {
             "id": 27,
             "gr": "καταριέμαι",
-            "en": "curse",
+            "en": "to curse",
             "ru": "проклинать"
           },
           {
             "id": 28,
             "gr": "παραπονιέμαι",
-            "en": "complain",
+            "en": "to complain",
             "ru": "жаловаться"
           },
           {
             "id": 29,
             "gr": "χασμουριέμαι",
-            "en": "yawn",
+            "en": "to yawn",
             "ru": "зевать"
           }
         ]
       },
       {
         "id": 13,
-        "version": 3,
+        "version": 4,
         "name": {
           "en": "Group B Verbs (-ώ, -ούμαι)",
           "ru": "Глаголы группы В (-ώ, -ούμαι)"
@@ -2329,228 +2329,228 @@
           {
             "id": 1,
             "gr": "απασχολώ",
-            "en": "occupy",
+            "en": "to occupy",
             "ru": "занимать"
           },
           {
             "id": 2,
             "gr": "απασχολούμαι",
-            "en": "be occupied",
+            "en": "to be occupied",
             "ru": "быть занятым"
           },
           {
             "id": 3,
             "gr": "αποτελώ",
-            "en": "constitute",
+            "en": "to constitute",
             "ru": "составлять"
           },
           {
             "id": 4,
             "gr": "αποτελούμαι",
-            "en": "consist of",
+            "en": "to consist of",
             "ru": "состоять"
           },
           {
             "id": 5,
             "gr": "βαθμολογώ",
-            "en": "grade, evaluate",
+            "en": "to grade, to evaluate",
             "ru": "оценивать"
           },
           {
             "id": 6,
             "gr": "βαθμολογούμαι",
-            "en": "be evaluated",
+            "en": "to be evaluated",
             "ru": "оцениваться"
           },
           {
             "id": 7,
             "gr": "δημιουργώ",
-            "en": "create",
+            "en": "to create",
             "ru": "создавать"
           },
           {
             "id": 8,
             "gr": "δημιουργούμαι",
-            "en": "be created",
+            "en": "to be created",
             "ru": "создаваться"
           },
           {
             "id": 9,
             "gr": "ενοχλώ",
-            "en": "disturb, bother",
-            "ru": "беспокоить"
+            "en": "to disturb, to bother",
+            "ru": "беспокоить, раздражать"
           },
           {
             "id": 10,
             "gr": "ενοχλούμαι",
-            "en": "be bothered, be disturbed",
-            "ru": "беспокоиться"
+            "en": "to be bothered, to be disturbed",
+            "ru": "беспокоиться, раздражаться"
           },
           {
             "id": 11,
             "gr": "εξαντλώ",
-            "en": "exhaust",
+            "en": "to exhaust",
             "ru": "изнурять"
           },
           {
             "id": 12,
             "gr": "εξαντλούμαι",
-            "en": "be exhausted",
+            "en": "to be exhausted",
             "ru": "изнуряться"
           },
           {
             "id": 13,
             "gr": "εξηγώ",
-            "en": "explain",
+            "en": "to explain",
             "ru": "объяснять"
           },
           {
             "id": 14,
             "gr": "εξηγούμαι",
-            "en": "be explained",
+            "en": "to be explained",
             "ru": "объясняться"
           },
           {
             "id": 15,
             "gr": "ικανοποιώ",
-            "en": "satisfy",
+            "en": "to satisfy",
             "ru": "удовлетворять"
           },
           {
             "id": 16,
             "gr": "ικανοποιούμαι",
-            "en": "be satisfied",
+            "en": "to be satisfied",
             "ru": "удовлетворяться"
           },
           {
             "id": 17,
             "gr": "κατοικώ",
-            "en": "reside",
+            "en": "to reside",
             "ru": "проживать"
           },
           {
             "id": 18,
             "gr": "κατοικούμαι",
-            "en": "be inhabited",
+            "en": "to be inhabited",
             "ru": "быть населенным"
           },
           {
             "id": 19,
             "gr": "πουλάω",
-            "en": "sell",
+            "en": "to sell",
             "ru": "продавать"
           },
           {
             "id": 20,
             "gr": "πωλούμαι",
-            "en": "be sold",
+            "en": "to be sold",
             "ru": "продаваться"
           },
           {
             "id": 21,
             "gr": "προπονώ",
-            "en": "train (someone)",
+            "en": "to train (someone)",
             "ru": "тренировать"
           },
           {
             "id": 22,
             "gr": "προπονούμαι",
-            "en": "train (oneself)",
+            "en": "to train (oneself)",
             "ru": "тренироваться"
           },
           {
             "id": 23,
             "gr": "υιοθετώ",
-            "en": "adopt",
+            "en": "to adopt",
             "ru": "усыновлять"
           },
           {
             "id": 24,
             "gr": "υιοθετούμαι",
-            "en": "be adopted",
+            "en": "to be adopted",
             "ru": "быть усыновлённым"
           },
           {
             "id": 25,
             "gr": "φιλοξενώ",
-            "en": "host",
+            "en": "to host",
             "ru": "принимать гостей"
           },
           {
             "id": 26,
             "gr": "φιλοξενούμαι",
-            "en": "be hosted",
+            "en": "to be hosted",
             "ru": "гостить"
           },
           {
             "id": 27,
             "gr": "ψυχαγωγώ",
-            "en": "entertain",
+            "en": "to entertain",
             "ru": "развлекать"
           },
           {
             "id": 28,
             "gr": "ψυχαγωγούμαι",
-            "en": "be entertained",
+            "en": "to be entertained",
             "ru": "развлекаться"
           },
           {
             "id": 29,
             "gr": "ζω",
-            "en": "live",
+            "en": "to live",
             "ru": "жить"
           },
           {
             "id": 30,
             "gr": "μπορώ",
-            "en": "can",
+            "en": "to can",
             "ru": "мочь"
           },
           {
             "id": 31,
             "gr": "προσπαθώ",
-            "en": "try, attempt",
+            "en": "to try, to attempt",
             "ru": "пытаться"
           },
           {
             "id": 32,
             "gr": "αθλούμαι",
-            "en": "do sports",
+            "en": "to do sports",
             "ru": "заниматься спортом"
           },
           {
             "id": 33,
             "gr": "αρνούμαι",
-            "en": "refuse, deny",
+            "en": "to refuse, to deny",
             "ru": "отказываться"
           },
           {
             "id": 34,
             "gr": "ασχολούμαι",
-            "en": "engage in, deal with",
+            "en": "to engage in, to deal with",
             "ru": "заниматься"
           },
           { "id": 35,
             "gr": "αφηγούμαι",
-            "en": "narrate, tell",
+            "en": "to narrate, to tell",
             "ru": "повествовать"
           },
           { "id": 36,
             "gr": "διηγούμαι",
-            "en": "tell, recount",
+            "en": "to tell, to recount",
             "ru": "рассказывать"
           },
           {
             "id": 37,
             "gr": "περιποιούμαι",
-            "en": "take care of, look after",
+            "en": "to take care of, to look after",
             "ru": "ухаживать"
           }
         ]
       },
       {
         "id": 14,
-        "version": 2,
+        "version": 3,
         "name": {
           "en": "Free time",
           "ru": "Свободное время"
@@ -2572,7 +2572,7 @@
             "id": 3,
             "gr": "θεαματικός",
             "en": "spectacular",
-            "ru": "зрелищный"
+            "ru": "зрелищный, впечатляющий"
           },
           {
             "id": 4,
@@ -2613,7 +2613,7 @@
           {
             "id": 10,
             "gr": "λύνω σταυρόλεξα",
-            "en": "solve crosswords",
+            "en": "to solve crosswords",
             "ru": "решать кроссворды"
           },
           {
@@ -2649,14 +2649,14 @@
           {
             "id": 16,
             "gr": "διασκεδάζω",
-            "en": "have fun",
+            "en": "to have fun",
             "ru": "веселиться"
           },
           {
             "id": 17,
-            "gr": "η γνωριμία",
-            "en": "acquaintance",
-            "ru": "знакомство"
+            "gr": "ο αναγνώστης, η αναγνώστρια",
+            "en": "reader",
+            "ru": "читатель"
           },
           {
             "id": 18,
@@ -2666,9 +2666,9 @@
           },
           {
             "id": 19,
-            "gr": "ωφέλιμος",
-            "en": "beneficial, useful",
-            "ru": "полезный, выгодный"
+            "gr": "αναζητάω",
+            "en": "to seek, to look for",
+            "ru": "искать, разыскивать"
           },
           {
             "id": 20,
@@ -2728,7 +2728,7 @@
       },
       {
         "id": 15,
-        "version": 1,
+        "version": 2,
         "name": {
           "en": "Culture and art",
           "ru": "Культура и искусство"
@@ -2767,7 +2767,7 @@
           {
             "id": 6,
             "gr": "συνθέτω",
-            "en": "compose",
+            "en": "to compose",
             "ru": "сочиняю"
           },
           {
@@ -2785,7 +2785,7 @@
           {
             "id": 9,
             "gr": "αυτοσχεδιάζω",
-            "en": "improvise",
+            "en": "to improvise",
             "ru": "импровизирую"
           },
           {
@@ -2803,7 +2803,7 @@
           {
             "id": 12,
             "gr": "σκηνοθετώ",
-            "en": "direct",
+            "en": "to direct",
             "ru": "режиссирую"
           },
           {
@@ -2924,7 +2924,7 @@
       },
       {
         "id": 16,
-        "version": 7,
+        "version": 8,
         "name": {
           "en": "Human relations",
           "ru": "Отношения между людьми"
@@ -2957,14 +2957,14 @@
           {
             "id": 5,
             "gr": "προλαβαίνω",
-            "en": "I’m in time",
-            "ru": "успеваю"
+            "en": "to be in time",
+            "ru": "успевать"
           },
           {
             "id": 6,
             "gr": "αντιγράφω",
-            "en": "copy, cheat",
-            "ru": "копирую, списываю"
+            "en": "to copy, to cheat",
+            "ru": "копировать, списывать"
           },
           {
             "id": 7,
@@ -2975,7 +2975,7 @@
           {
             "id": 8,
             "gr": "μηδενίζω",
-            "en": "turn back to zero, eliminate",
+            "en": "to turn back to zero, to eliminate",
             "ru": "обнулять"
           },
           {
@@ -2999,8 +2999,8 @@
           {
             "id": 12,
             "gr": "υπομονετικός",
-            "en": "patient",
-            "ru": "терпеливый"
+            "en": "patient, tolerant",
+            "ru": "терпеливый, выдержанный"
           },
           {
             "id": 13,
@@ -3011,7 +3011,7 @@
           {
             "id": 14,
             "gr": "αδειάζω",
-            "en": "I empty",
+            "en": "to empty",
             "ru": "опустошать"
           },
           {
@@ -3041,8 +3041,8 @@
           {
             "id": 19,
             "gr": "συγχωρώ",
-            "en": "forgive",
-            "ru": "прощаю"
+            "en": "to forgive",
+            "ru": "прощать"
           },
           {
             "id": 20,
@@ -3131,7 +3131,7 @@
           {
             "id": 33,
             "gr": "κινηθώ νομικά",
-            "en": "take legal action",
+            "en": "to take legal action",
             "ru": "действовать через закон"
           },
           {
@@ -3143,7 +3143,7 @@
           {
             "id": 35,
             "gr": "πείθω",
-            "en": "persuade, convince",
+            "en": "to persuade, to convince",
             "ru": "убеждать, уговаривать"
           },
           {
@@ -3322,7 +3322,7 @@
       },
       {
         "id": 18,
-        "version": 6,
+        "version": 7,
         "name": {
           "en": "Problem of violence and bullying",
           "ru": "Проблема насилия и буллинга"
@@ -3331,7 +3331,7 @@
           {
             "id": 1,
             "gr": "φέρομαι",
-            "en": "behave",
+            "en": "to behave",
             "ru": "веду себя"
           },
           {
@@ -3414,14 +3414,14 @@
           },
           {
             "id": 15,
-            "gr": "η απομόνωση",
-            "en": "isolation",
-            "ru": "изоляция"
+            "gr": "η αγένεια",
+            "en": "rudeness, impoliteness",
+            "ru": "грубость, невежливость"
           },
           {
             "id": 16,
             "gr": "προκαλώ (σε) καβγά",
-            "en": "provoke a fight",
+            "en": "to provoke a fight",
             "ru": "спровоцировать драку"
           },
           {
@@ -3475,7 +3475,7 @@
           {
             "id": 25,
             "gr": "προσβάλλω",
-            "en": "offend",
+            "en": "to offend",
             "ru": "оскорбляю"
           },
           {
@@ -3487,7 +3487,7 @@
           {
             "id": 27,
             "gr": "εκβιάζω",
-            "en": "blackmail",
+            "en": "to blackmail",
             "ru": "шантажирую"
           },
           {
@@ -3511,38 +3511,38 @@
           {
             "id": 31,
             "gr": "απογοητεύω",
-            "en": "disappoint",
+            "en": "to disappoint",
             "ru": "разочаровываю"
           },
           {
             "id": 32,
             "gr": "αντιδρώ",
-            "en": "react",
+            "en": "to react",
             "ru": "реагирую"
           },
           {
             "id": 33,
             "gr": "ταράζομαι",
-            "en": "get upset, disturbed",
+            "en": "to get upset, to disturbed",
             "ru": "расстраиваюсь, тревожусь"
           },
           {
             "id": 34,
             "gr": "τρομοκρατώ",
-            "en": "terrorize",
+            "en": "to terrorize",
             "ru": "терроризирую"
           },
           {
             "id": 35,
             "gr": "τρομοκρατούμαι",
-            "en": "I am terrified",
-            "ru": "я в ужасе, в страхе"
+            "en": "to be terrified",
+            "ru": "быть в ужасе, в страхе"
           },
           {
             "id": 36,
             "gr": "εκφοβίζω",
-            "en": "intimidate, bully",
-            "ru": "запугиваю, травлю "
+            "en": "to intimidate, to bully",
+            "ru": "запугивать, травить"
           },
           {
             "id": 37,
@@ -3573,12 +3573,18 @@
             "gr": "ο καβγάς",
             "en": "argument, fight",
             "ru": "скандал, драка"
+          },
+          {
+            "id": 42,
+            "gr": "απογοητευτικός",
+            "en": "disappointing",
+            "ru": "разочаровывающий"
           }
         ]
       },
       {
         "id": 19,
-        "version": 9,
+        "version": 10,
         "name": {
           "en": "Friendship",
           "ru": "Дружба"
@@ -3623,7 +3629,7 @@
           {
             "id": 7,
             "gr": "θαυμάζω",
-            "en": "admire",
+            "en": "to admire",
             "ru": "восхищаюсь"
           },
           {
@@ -3635,7 +3641,7 @@
           {
             "id": 9,
             "gr": "ξεπερνώ",
-            "en": "surpass, overcome",
+            "en": "to surpass, to overcome",
             "ru": "преодолевать"
           },
           {
@@ -3659,8 +3665,8 @@
           {
             "id": 13,
             "gr": "μοιράζομαι",
-            "en": "share",
-            "ru": "разделяю, делюсь"
+            "en": "to share, to divide among",
+            "ru": "делиться (чем-то), распределяться"
           },
           {
             "id": 14,
@@ -3713,14 +3719,14 @@
           {
             "id": 22,
             "gr": "τολμώ",
-            "en": "dare",
-            "ru": "смею"
+            "en": "to dare",
+            "ru": "сметь"
           },
           {
             "id": 23,
             "gr": "προδίδω",
-            "en": "betray",
-            "ru": "предаю"
+            "en": "to betray",
+            "ru": "предавать"
           },
           {
             "id": 24,
@@ -3761,8 +3767,8 @@
           {
             "id": 30,
             "gr": "επικοινωνώ",
-            "en": "communicate",
-            "ru": "общаюсь"
+            "en": "to communicate",
+            "ru": "общаться"
           },
           {
             "id": 31,
@@ -3785,7 +3791,7 @@
           {
             "id": 34,
             "gr": "προοδεύω",
-            "en": "make progress",
+            "en": "to make progress",
             "ru": "прогрессирую"
           },
           {
@@ -3797,7 +3803,7 @@
           {
             "id": 36,
             "gr": "διώχνω",
-            "en": "to chase away, kick smb out",
+            "en": "to chase away, to kick smb out",
             "ru": "прогонять, выгонять"
           },
           {
@@ -3816,7 +3822,7 @@
       },
       {
         "id": 20,
-        "version": 10,
+        "version": 11,
         "name": {
           "en": "Vacation",
           "ru": "Отпуск"
@@ -3897,14 +3903,14 @@
           {
             "id": 13,
             "gr": "φημίζομαι",
-            "en": "are known, have a reputation",
-            "ru": "известны, славятся"
+            "en": "to be known, to have a reputation",
+            "ru": "быть известным, славиться"
           },
           {
             "id": 14,
             "gr": "αποδρώ",
-            "en": "escape, run away",
-            "ru": "сбегаю, ухожу"
+            "en": "to escape, to run away",
+            "ru": "сбегать, уходить"
           },
           {
             "id": 15,
@@ -3945,8 +3951,8 @@
           {
             "id": 21,
             "gr": "μειώνω",
-            "en": "reduce",
-            "ru": "уменьшаю"
+            "en": "to reduce",
+            "ru": "уменьшать"
           },
           {
             "id": 22,
@@ -3963,13 +3969,13 @@
           {
             "id": 24,
             "gr": "απολαμβάνω",
-            "en": "enjoy, take pleasure in",
-            "ru": "наслаждаюсь, получаю удовольствие"
+            "en": "to enjoy, to take pleasure in",
+            "ru": "наслаждаться, получать удовольствие"
           },
           {
             "id": 25,
             "gr": "απέχω",
-            "en": "be away, be distant",
+            "en": "to be away, to be distant",
             "ru": "находиться (на расстоянии)"
           },
           {
@@ -4023,8 +4029,8 @@
           {
             "id": 34,
             "gr": "ανακαλύπτω",
-            "en": "discover",
-            "ru": "открываю, обнаруживаю"
+            "en": "to discover",
+            "ru": "открывать, обнаруживать"
           },
           {
             "id": 35,
@@ -4035,7 +4041,7 @@
           {
             "id": 36,
             "gr": "προορίζω",
-            "en": "intend, designate",
+            "en": "to intend, to designate",
             "ru": "предназначать, предопределять"
           },
           {
@@ -4076,20 +4082,20 @@
           },
           {
             "id": 43,
-            "gr": "ενοχλώ",
-            "en": "annoy, disturb",
-            "ru": "раздражаю, беспокою"
+            "gr": "ανακοινώνω",
+            "en": "to announce",
+            "ru": "объявлять, сообщать"
           },
           {
             "id": 44,
-            "gr": "ενοχλούμαι",
-            "en": "be annoyed, be disturbed",
-            "ru": "раздражаюсь, беспокоюсь"
+            "gr": "αναμένω",
+            "en": "to expect, to wait",
+            "ru": "ожидать, ждать"
           },
           {
             "id": 45,
             "gr": "βουτώ",
-            "en": "dive",
+            "en": "to dive",
             "ru": "ныряю"
           },
           {
@@ -4167,14 +4173,14 @@
           {
             "id": 58,
             "gr": "δραπετεύω",
-            "en": "escape",
+            "en": "to escape",
             "ru": "сбегать, убегать"
           }
         ]
       },
       {
         "id": 21,
-        "version": 5,
+        "version": 6,
         "name": {
           "en": "Travel",
           "ru": "Путешествия"
@@ -4225,37 +4231,37 @@
           {
             "id": 8,
             "gr": "οργανώνω",
-            "en": "organize",
+            "en": "to organize",
             "ru": "организовывать"
           },
           {
             "id": 9,
             "gr": "ασφαλίζω",
-            "en": "insure",
+            "en": "to insure",
             "ru": "страховать"
           },
           {
             "id": 10,
             "gr": "εκδίδω",
-            "en": "publish, issue",
+            "en": "to publish, to issue",
             "ru": "издавать, публиковать"
           },
           {
             "id": 11,
             "gr": "ενημερώνω",
-            "en": "inform, notify",
+            "en": "to inform, to notify",
             "ru": "информировать, уведомлять"
           },
           {
             "id": 12,
             "gr": "επιστρέφω",
-            "en": "return, come back",
+            "en": "to return, to come back",
             "ru": "возвращаться"
           },
           {
             "id": 13,
             "gr": "ακυρώνω",
-            "en": "cancel, revoke",
+            "en": "to cancel, to revoke",
             "ru": "аннулировать, отменять"
           },
           {
@@ -4327,7 +4333,7 @@
           {
             "id": 25,
             "gr": "αντιπροσωπεύω",
-            "en": "represent",
+            "en": "to represent",
             "ru": "представлять"
           },
           {
@@ -4388,7 +4394,7 @@
       },
       {
         "id": 22,
-        "version": 3,
+        "version": 4,
         "name": {
           "en": "Tours & Excursions",
           "ru": "Туры и экскурсии"
@@ -4409,7 +4415,7 @@
           {
             "id": 3,
             "gr": "πραγματοποιώ",
-            "en": "realize, carry out",
+            "en": "to realize, to carry out",
             "ru": "реализовывать, осуществлять"
           },
           {
@@ -4426,9 +4432,9 @@
           },
           {
             "id": 6,
-            "gr": "φορτώνω",
-            "en": "load",
-            "ru": "грузить, загружать"
+            "gr": "αντικαθιστώ",
+            "en": "to replace, to substitute",
+            "ru": "заменять, замещать"
           },
           {
             "id": 7,
@@ -4445,7 +4451,7 @@
           {
             "id": 9,
             "gr": "λατρεύω",
-            "en": "adore",
+            "en": "to adore",
             "ru": "обожать"
           },
           {
@@ -4481,7 +4487,7 @@
           {
             "id": 15,
             "gr": "επισκέπτομαι",
-            "en": "visit",
+            "en": "to visit",
             "ru": "посещать"
           },
           {
@@ -4596,7 +4602,7 @@
       },
       {
         "id": 23,
-        "version": 7,
+        "version": 8,
         "name": {
           "en": "Shopping",
           "ru": "Покупки"
@@ -4605,7 +4611,7 @@
           {
             "id": 1,
             "gr": "προσέχω",
-            "en": "pay attention",
+            "en": "to pay attention",
             "ru": "обращать внимание"
           },
           {
@@ -4623,7 +4629,7 @@
           {
             "id": 4,
             "gr": "μετανιώνω",
-            "en": "regret, repent",
+            "en": "to regret, to repent",
             "ru": "раскаиваться, сожалеть"
           },
           {
@@ -4659,7 +4665,7 @@
           {
             "id": 10,
             "gr": "βιάζομαι",
-            "en": "hurry, rush",
+            "en": "to hurry, to rush",
             "ru": "спешить, торопиться"
           },
           {
@@ -4671,7 +4677,7 @@
           {
             "id": 12,
             "gr": "αναγκάζω",
-            "en": "force, make someone do smth",
+            "en": "to force, to make someone do smth",
             "ru": "заставлять, принуждать"
           },
           {
@@ -4707,13 +4713,13 @@
           {
             "id": 18,
             "gr": "ελέγχω",
-            "en": "check, control",
+            "en": "to check, to control",
             "ru": "проверять, контролировать"
           },
           {
             "id": 19,
             "gr": "αξίζω",
-            "en": "be worth, merit",
+            "en": "to be worth, to merit",
             "ru": "быть достойным, стоить"
           },
           {
@@ -4731,7 +4737,7 @@
           {
             "id": 22,
             "gr": "αφιερώνω",
-            "en": "dedicate, devote",
+            "en": "to dedicate, to devote",
             "ru": "посвящать, уделять"
           },
           {
@@ -4749,7 +4755,7 @@
           {
             "id": 25,
             "gr": "προκύπτω",
-            "en": "arise, result (from)",
+            "en": "to arise, to result (from)",
             "ru": "возникать, вытекать (из чего-л)"
           },
           {
@@ -4832,7 +4838,7 @@
           },
           {
             "id": 39,
-            "gr": "έξοδα αποστολής",
+            "gr": "τα έξοδα αποστολής",
             "en": "shipping costs",
             "ru": "стоимость доставки"
           },
@@ -4850,7 +4856,7 @@
           },{
             "id": 42,
             "gr": "επιμένω",
-            "en": "insist",
+            "en": "to insist",
             "ru": "настаивать, упорствовать"
           },
           {
@@ -4916,13 +4922,13 @@
           {
             "id": 53,
             "gr": "καταναλώνω",
-            "en": "consume",
+            "en": "to consume",
             "ru": "потреблять"
           },
           {
             "id": 54,
             "gr": "παρουσιάζω",
-            "en": "present",
+            "en": "to present",
             "ru": "представлять"
           },
           {
@@ -4958,7 +4964,7 @@
           {
             "id": 60,
             "gr": "εκφράζω",
-            "en": "express",
+            "en": "to express",
             "ru": "выражать"
           },
           {
@@ -4988,20 +4994,20 @@
           {
             "id": 64,
             "gr": "αναλάβω την ευθύνη",
-            "en": "take responsibility",
+            "en": "to take responsibility",
             "ru": "брать на себя ответственность"
           },
           {
             "id": 65,
             "gr": "διορθώνω",
-            "en": "correct, fix",
+            "en": "to correct, to fix",
             "ru": "исправлять"
           }
         ]
       },
       {
         "id": 24,
-        "version": 6,
+        "version": 7,
         "name": {
           "en": "Clothing, footwear, accessories",
           "ru": "Одежда, обувь, аксессуары"
@@ -5040,7 +5046,7 @@
           {
             "id": 6,
             "gr": "παχαίνω",
-            "en": "thicken, make thick",
+            "en": "to thicken, to make thick",
             "ru": "утолщать, полнеть"
           },
           {
@@ -5220,7 +5226,7 @@
           {
             "id": 36,
             "gr": "ξεβάφω",
-            "en": "fade, remove color",
+            "en": "to fade, to remove color",
             "ru": "обесцвечивать, терять цвет"
           },
           {
@@ -5381,7 +5387,7 @@
       },
       {
         "id": 26,
-        "version": 5,
+        "version": 6,
         "name": {
           "en": "Diet & Nutrition",
           "ru": "Рацион и питание"
@@ -5390,13 +5396,13 @@
           {
             "id": 1,
             "gr": "διαφέρω",
-            "en": "differ",
+            "en": "to differ",
             "ru": "отличается"
           },
           {
             "id": 2,
             "gr": "συνοδεύω",
-            "en": "accompany",
+            "en": "to accompany",
             "ru": "сопровождать"
           },
           {
@@ -5468,7 +5474,7 @@
           {
             "id": 14,
             "gr": "προσθέτω",
-            "en": "add",
+            "en": "to add",
             "ru": "добавлять"
           },
           {
@@ -5480,7 +5486,7 @@
           {
             "id": 16,
             "gr": "αφαιρώ",
-            "en": "remove, take away",
+            "en": "to remove, to take away",
             "ru": "убирать, удалять"
           },
           {
@@ -5510,7 +5516,7 @@
           {
             "id": 21,
             "gr": "χορταίνω",
-            "en": "get full",
+            "en": "to get full",
             "ru": "наедаться"
           },
           {
@@ -5522,7 +5528,7 @@
           {
             "id": 23,
             "gr": "νοστιμεύω",
-            "en": "spice up, flavor with",
+            "en": "to spice up, to flavor with",
             "ru": "делать вкусным, приправлять"
           },
           {
@@ -5540,7 +5546,7 @@
           {
             "id": 26,
             "gr": "γεύομαι",
-            "en": "taste",
+            "en": "to taste",
             "ru": "пробовать (на вкус)"
           },
           {
@@ -5570,7 +5576,7 @@
           {
             "id": 31,
             "gr": "συνιστώ",
-            "en": "recommend, suggest",
+            "en": "to recommend, to suggest",
             "ru": "рекомендовать, советовать"
           },
           {
@@ -5582,25 +5588,25 @@
           {
             "id": 33,
             "gr": "μασάω",
-            "en": "chew",
+            "en": "to chew",
             "ru": "жевать"
           },
           {
             "id": 34,
             "gr": "καταπίνω",
-            "en": "swallow",
+            "en": "to swallow",
             "ru": "глотать"
           },
           {
             "id": 35,
             "gr": "τσιμπάω",
-            "en": "pinch, snack",
+            "en": "to pinch, to snack",
             "ru": "слегка перекусывать"
           },
           {
             "id": 36,
             "gr": "καταβροχθίζω",
-            "en": "devour, gobble up",
+            "en": "to devour, to gobble up",
             "ru": "пожирать, жадно съедать"
           },
           {
@@ -5612,19 +5618,19 @@
           {
             "id": 38,
             "gr": "διαλύω",
-            "en": "dissolve",
+            "en": "to dissolve",
             "ru": "растворять"
           },
           {
             "id": 39,
             "gr": "ζυμώνω",
-            "en": "knead (dough)",
+            "en": "to knead (dough)",
             "ru": "замешивать (тесто), месить"
           },
           {
             "id": 40,
             "gr": "ξεκολλάω",
-            "en": "peel off, unstick",
+            "en": "to peel off, to unstick",
             "ru": "отклеивать"
           },
           {
@@ -5636,31 +5642,31 @@
           {
             "id": 42,
             "gr": "φουσκώνω",
-            "en": "rise, puff up",
+            "en": "to rise, to puff up",
             "ru": "подниматься (тесто), надуваться"
           },
           {
             "id": 43,
             "gr": "σκεπάζω",
-            "en": "cover",
+            "en": "to cover",
             "ru": "накрывать"
           },
           {
             "id": 44,
             "gr": "πασπαλίζω",
-            "en": "sprinkle",
+            "en": "to sprinkle",
             "ru": "посыпать"
           },
           {
             "id": 45,
             "gr": "ροδίζω",
-            "en": "brown, turn golden-brown",
+            "en": "to brown, to turn golden-brown",
             "ru": "подрумянивать"
           },
           {
             "id": 46,
             "gr": "αλείφω",
-            "en": "spread, smear",
+            "en": "to spread, to smear",
             "ru": "намазывать, смазывать"
           },
           {
@@ -5672,7 +5678,7 @@
           {
             "id": 48,
             "gr": "δροσίζω",
-            "en": "cool, refresh",
+            "en": "to cool, to refresh",
             "ru": "освежать"
           },
           {
@@ -5887,7 +5893,7 @@
       },
       {
         "id": 28,
-        "version": 3,
+        "version": 4,
         "name": {
           "en": "Health and safety",
           "ru": "Здоровье и безопасность"
@@ -5950,7 +5956,7 @@
           {
             "id": 10,
             "gr": "κάνω τη χάρη",
-            "en": "do a favor",
+            "en": "to do a favor",
             "ru": "сделать одолжение"
           },
           {
@@ -5980,19 +5986,19 @@
           {
             "id": 15,
             "gr": "ρυθμίζω",
-            "en": "adjust, regulate",
+            "en": "to adjust, to regulate",
             "ru": "регулировать"
           },
           {
             "id": 16,
             "gr": "ζαλίζομαι",
-            "en": "feel dizzy",
+            "en": "to feel dizzy",
             "ru": "кружится голова"
           },
           {
             "id": 17,
             "gr": "φτερνίζομαι",
-            "en": "sneeze",
+            "en": "to sneeze",
             "ru": "чихаю"
           },
           {
@@ -6028,7 +6034,7 @@
           {
             "id": 23,
             "gr": "κυκλοφορώ",
-            "en": "circulate",
+            "en": "to circulate",
             "ru": "двигаться, циркулировать"
           },
           {
@@ -6064,7 +6070,7 @@
           {
             "id": 29,
             "gr": "ιδρώνω",
-            "en": "sweat",
+            "en": "to sweat",
             "ru": "потеть"
           },
           {
@@ -6076,7 +6082,7 @@
           {
             "id": 31,
             "gr": "αξιολογώ",
-            "en": "evaluate, assess",
+            "en": "to evaluate, to assess",
             "ru": "оценивать, давать оценку"
           },
           {
@@ -6301,7 +6307,7 @@
       },
       {
         "id": 31,
-        "version": 8,
+        "version": 9,
         "name": {
           "en": "Education, exams",
           "ru": "Образование, экзамены"
@@ -6334,7 +6340,7 @@
           {
             "id": 5,
             "gr": "ευθύνομαι",
-            "en": "be responsible",
+            "en": "to be responsible",
             "ru": "нести ответственность"
           },
           {
@@ -6346,7 +6352,7 @@
           {
             "id": 7,
             "gr": "υπολογίζω",
-            "en": "calculate, compute",
+            "en": "to calculate, to compute",
             "ru": "вычислять, рассчитывать"
           },
           {
@@ -6370,7 +6376,7 @@
           {
             "id": 11,
             "gr": "κρατάω",
-            "en": "hold, keep",
+            "en": "to hold, to keep",
             "ru": "держать, удерживать"
           },
           {
@@ -6388,13 +6394,13 @@
           {
             "id": 14,
             "gr": "παρατάω",
-            "en": "abandon, give up",
+            "en": "to abandon, to give up",
             "ru": "бросать, оставлять"
           },
           {
             "id": 15,
             "gr": "αποτυχαίνω",
-            "en": "fail",
+            "en": "to fail",
             "ru": "терпеть неудачу, проваливаться"
           },
           {
@@ -6430,7 +6436,7 @@
           {
             "id": 21,
             "gr": "προχωρώ",
-            "en": "proceed, move forward",
+            "en": "to proceed, to move forward",
             "ru": "продвигаться, идти вперёд"
           },
           {
@@ -6460,7 +6466,7 @@
           {
             "id": 26,
             "gr": "κρίνω",
-            "en": "judge, evaluate",
+            "en": "to judge, to evaluate",
             "ru": "судить, оценивать"
           },
           {
@@ -6478,7 +6484,7 @@
           {
             "id": 29,
             "gr": "πετυχαίνω",
-            "en": "succeed",
+            "en": "to succeed",
             "ru": "добиваться успеха, удаваться"
           },
           {
@@ -6496,7 +6502,7 @@
           {
             "id": 32,
             "gr": "υλοποιώ",
-            "en": "implement, realize",
+            "en": "to implement, to realize",
             "ru": "реализовывать, осуществлять"
           },
           {
@@ -6514,7 +6520,7 @@
           {
             "id": 35,
             "gr": "ολοκληρώνω",
-            "en": "complete, finish",
+            "en": "to complete, to finish",
             "ru": "завершать, заканчивать"
           },
           {
@@ -6532,13 +6538,13 @@
           {
             "id": 38,
             "gr": "προσαρμόζομαι",
-            "en": "adapt, adjust",
+            "en": "to adapt, to adjust",
             "ru": "приспосабливаться, адаптироваться"
           },
           {
             "id": 39,
             "gr": "ανταποκρίνομαι",
-            "en": "respond, correspond",
+            "en": "to respond, to correspond",
             "ru": "откликаться, реагировать"
           },
           {
@@ -6747,7 +6753,7 @@
       },
       {
         "id": 33,
-        "version": 8,
+        "version": 9,
         "name": {
           "en": "Work & Career",
           "ru": "Работа, карьера"
@@ -6756,7 +6762,7 @@
           {
             "id": 1,
             "gr": "τονίζω",
-            "en": "emphasize, highlight",
+            "en": "to emphasize, to highlight",
             "ru": "подчеркивать, выделять"
           },
           {
@@ -6822,7 +6828,7 @@
           {
             "id": 12,
             "gr": "ενθαρρύνω",
-            "en": "encourage, motivate",
+            "en": "to encourage, to motivate",
             "ru": "ободрять, поощрять"
           },
           {
@@ -6846,7 +6852,7 @@
           {
             "id": 16,
             "gr": "αποθαρρύνω",
-            "en": "discourage, dishearten",
+            "en": "to discourage, to dishearten",
             "ru": "обескураживать, отговаривать"
           },
           {
@@ -6876,7 +6882,7 @@
           {
             "id": 21,
             "gr": "εμπορεύομαι",
-            "en": "trade, deal in",
+            "en": "to trade, to deal in",
             "ru": "торговать, вести торговлю"
           },
           {
@@ -6954,13 +6960,13 @@
           {
             "id": 34,
             "gr": "ανταμείβω",
-            "en": "reward",
+            "en": "to reward",
             "ru": "вознаграждать"
           },
           {
             "id": 35,
             "gr": "βγάζω το ψωμί μου",
-            "en": "earn, make a living",
+            "en": "to earn, to make a living",
             "ru": "зарабатывать"
           },
           {
@@ -6984,7 +6990,7 @@
           {
             "id": 39,
             "gr": "εμποδίζω",
-            "en": "prevent",
+            "en": "to prevent",
             "ru": "препятствовать"
           },
           {
@@ -7002,7 +7008,7 @@
           {
             "id": 42,
             "gr": "διαμορφώνω",
-            "en": "shape, form",
+            "en": "to shape, to form",
             "ru": "формировать, создавать"
           },
           {
@@ -7045,7 +7051,7 @@
       },
       {
         "id": 34,
-        "version": 4,
+        "version": 5,
         "name": {
           "en": "Weather",
           "ru": "Погода"
@@ -7066,7 +7072,7 @@
           {
             "id": 3,
             "gr": "γλυκαίνω",
-            "en": "sweeten",
+            "en": "to sweeten",
             "ru": "подслащивать"
           },
           {
@@ -7078,7 +7084,7 @@
           {
             "id": 5,
             "gr": "προβλέπω",
-            "en": "expect, foresee",
+            "en": "to expect, to foresee",
             "ru": "ожидать, предвидеть"
           },
           {
@@ -7132,7 +7138,7 @@
           {
             "id": 14,
             "gr": "ρίχνω",
-            "en": "throw, drop",
+            "en": "to throw, to drop",
             "ru": "бросать, опускать, ронять"
           },
           {
@@ -7204,7 +7210,7 @@
           {
             "id": 26,
             "gr": "πνέω",
-            "en": "blow (wind)",
+            "en": "to blow (wind)",
             "ru": "дуть (о ветре)"
           },
           {
@@ -7216,7 +7222,7 @@
           {
             "id": 28,
             "gr": "ψυχραίνω",
-            "en": "cool down",
+            "en": "to cool down",
             "ru": "охлаждать"
           },
           {
@@ -7252,7 +7258,7 @@
           {
             "id": 34,
             "gr": "ερμηνεύω",
-            "en": "interpret, explain",
+            "en": "to interpret, to explain",
             "ru": "толковать, интерпретировать"
           },
           {
@@ -7277,7 +7283,7 @@
       },
       {
         "id": 35,
-        "version": 6,
+        "version": 7,
         "name": {
           "en": "Environmental protection",
           "ru": "Защита окружающей среды"
@@ -7370,7 +7376,7 @@
           {
             "id": 15,
             "gr": "ανακυκλώνω",
-            "en": "recycle",
+            "en": "to recycle",
             "ru": "перерабатывать (отходы)"
           },
           {
@@ -7412,7 +7418,7 @@
           {
             "id": 22,
             "gr": "μολύνω",
-            "en": "contaminate, infect",
+            "en": "to contaminate, to infect",
             "ru": "загрязнять, заражать"
           },
           {
@@ -7424,7 +7430,7 @@
           {
             "id": 24,
             "gr": "απολυμαίνω",
-            "en": "disinfect",
+            "en": "to disinfect",
             "ru": "дезинфицировать"
           },
           {
@@ -7448,25 +7454,25 @@
           {
             "id": 28,
             "gr": "ρυπαίνω",
-            "en": "pollute",
+            "en": "to pollute",
             "ru": "загрязнять"
           },
           {
             "id": 29,
             "gr": "εξαφανίζω",
-            "en": "make disappear",
+            "en": "to make disappear",
             "ru": "уничтожать"
           },
           {
             "id": 30,
             "gr": "εξαφανίζομαι",
-            "en": "disappear",
+            "en": "to disappear",
             "ru": "исчезать"
           },
           {
             "id": 31,
             "gr": "παράγω",
-            "en": "produce",
+            "en": "to produce",
             "ru": "производить"
           },
           {
@@ -7574,13 +7580,13 @@
           {
             "id": 46,
             "gr": "συγκεντρώνω",
-            "en": "gather, collect",
+            "en": "to gather, to collect",
             "ru": "собирать, концентрировать"
           },
           {
             "id": 47,
             "gr": "μαζεύω",
-            "en": "gather, pick up",
+            "en": "to gather, pick up",
             "ru": "собирать, подбирать"
           },
           {
@@ -7599,7 +7605,7 @@
       },
       {
         "id": 36,
-        "version": 5,
+        "version": 6,
         "name": {
           "en": "Planet",
           "ru": "Планета"
@@ -7730,12 +7736,36 @@
             "gr": "το κλαδί",
             "en": "branch, twig",
             "ru": "ветка, ветвь"
+          },
+          {
+            "id": 22,
+            "gr": "η αγελάδα",
+            "en": "cow",
+            "ru": "корова"
+          },
+          {
+            "id": 23,
+            "gr": "το αγιόκλημα",
+            "en": "honeysuckle",
+            "ru": "жимолость"
+          },
+          {
+            "id": 24,
+            "gr": "η αρκούδα",
+            "en": "bear",
+            "ru": "медведь"
+          },
+          {
+            "id": 25,
+            "gr": "ο αστερισμός",
+            "en": "constellation",
+            "ru": "созвездие"
           }
         ]
       },
       {
         "id": 82,
-        "version": 2,
+        "version": 3,
         "name": {
           "en": "Residence: more vocabulary",
           "ru": "Жильё: дополнительная лексика"
@@ -7779,9 +7809,9 @@
           },
           {
             "id": 7,
-            "gr": "η επίπλωση",
-            "en": "furnishing, interior setup",
-            "ru": "меблировка, обстановка"
+            "gr": "αγγίζω",
+            "en": "to touch",
+            "ru": "трогать, касаться"
           },
           {
             "id": 8,
@@ -7864,7 +7894,7 @@
           {
             "id": 21,
             "gr": "εξοικονομώ",
-            "en": "save",
+            "en": "to save",
             "ru": "экономить, сберегать"
           },
           {
@@ -7881,9 +7911,9 @@
           },
           {
             "id": 24,
-            "gr": "λειτουργικός",
-            "en": "functional",
-            "ru": "функциональный"
+            "gr": "το ανθοδοχείο",
+            "en": "vase (for flowers)",
+            "ru": "ваза для цветов"
           },
           {
             "id": 25,
@@ -7912,19 +7942,19 @@
           {
             "id": 29,
             "gr": "εξοφλώ",
-            "en": "pay off",
+            "en": "to pay off",
             "ru": "погашать, оплачивать полностью"
           },
           {
             "id": 30,
             "gr": "ανακαινίζω",
-            "en": "renovate",
+            "en": "to renovate",
             "ru": "обновлять, реконструировать"
           },
           {
             "id": 31,
             "gr": "ανανεώνω",
-            "en": "refresh, renew",
+            "en": "to refresh, to renew",
             "ru": "обновлять"
           },
           {
@@ -7947,9 +7977,9 @@
           },
           {
             "id": 35,
-            "gr": "το συμβόλαιο",
-            "en": "contract",
-            "ru": "договор, контракт"
+            "gr": "αντίθετος",
+            "en": "opposite",
+            "ru": "противоположный"
           },
           {
             "id": 36,
@@ -8002,7 +8032,7 @@
           {
             "id": 44,
             "gr": "δαπανώ",
-            "en": "spend",
+            "en": "to spend",
             "ru": "тратить, расходовать"
           },
           {
@@ -8034,6 +8064,12 @@
             "gr": "το μπουρνούζι",
             "en": "bathrobe",
             "ru": "халат (банный)"
+          },
+          {
+            "id": 50,
+            "gr": "ο ατμόμαγειρας",
+            "en": "steamer",
+            "ru": "пароварка"
           }
         ]
       },
@@ -8059,14 +8095,14 @@
           },
           {
             "id": 3,
-            "gr": "δυσκολεύομαι",
-            "en": "to have difficulty",
-            "ru": "мне трудно"
+            "gr": "αιτιολογώ",
+            "en": "to justify, to give reasons for",
+            "ru": "обосновывать, объяснять причину"
           },
           {
             "id": 4,
             "gr": "εξαρτώμαι",
-            "en": "depend on",
+            "en": "to depend on",
             "ru": "зависеть от"
           },
           {
@@ -8078,7 +8114,7 @@
           {
             "id": 6,
             "gr": "εκτιμώ",
-            "en": "appreciate, value",
+            "en": "to appreciate, to value",
             "ru": "ценить, уважать"
           },
           {
@@ -8216,13 +8252,13 @@
           {
             "id": 29,
             "gr": "αντιμετωπίζω",
-            "en": "face, deal with",
+            "en": "to face, to deal with",
             "ru": "сталкиваться с, иметь дело с"
           },
           {
             "id": 30,
             "gr": "καλλιεργώ",
-            "en": "cultivate, foster",
+            "en": "to cultivate, to foster",
             "ru": "возделывать, развивать"
           },
           {
@@ -8234,13 +8270,13 @@
           {
             "id": 32,
             "gr": "βελτιώνω",
-            "en": "improve, enhance",
+            "en": "to improve, to enhance",
             "ru": "улучшать, совершенствовать"
           },
           {
             "id": 33,
             "gr": "επηρεάζω",
-            "en": "affect, influence",
+            "en": "to affect, to influence",
             "ru": "влиять, оказывать влияние"
           },
           {
@@ -8294,7 +8330,7 @@
           {
             "id": 42,
             "gr": "σπαταλάω",
-            "en": "spend, waste",
+            "en": "to spend, to waste",
             "ru": "тратить, расходовать"
           },
           {
@@ -8336,7 +8372,7 @@
           {
             "id": 49,
             "gr": "εννοώ",
-            "en": "mean, imply",
+            "en": "to mean, to imply",
             "ru": "иметь в виду, подразумевать"
           },
           {
@@ -8348,20 +8384,20 @@
           {
             "id": 51,
             "gr": "αναφέρω",
-            "en": "mention",
+            "en": "to mention",
             "ru": "упоминать"
           },
           {
             "id": 52,
             "gr": "δικαιολογώ",
-            "en": "justify, excuse",
+            "en": "to justify, to excuse",
             "ru": "оправдывать, объяснять"
           }
         ]
       },
       {
         "id": 84,
-        "version": 1,
+        "version": 2,
         "name": {
           "en": "Free time, entertainment, sports: more vocabulary",
           "ru": "Свободное время, развлечения, спорт: дополнительная лексика"
@@ -8370,7 +8406,7 @@
           {
             "id": 1,
             "gr": "χαλαρώνω",
-            "en": "relax, unwind",
+            "en": "to relax, to unwind",
             "ru": "расслабляться, отдыхать"
           },
           {
@@ -8442,7 +8478,7 @@
           {
             "id": 13,
             "gr": "αποκτώ",
-            "en": "acquires",
+            "en": "to acquires",
             "ru": "приобретать, получать"
           },
           {
@@ -8466,7 +8502,7 @@
           {
             "id": 17,
             "gr": "ενισχύω",
-            "en": "reinforce",
+            "en": "to reinforce",
             "ru": "усиливать"
           },
           {
@@ -8513,9 +8549,9 @@
           },
           {
             "id": 25,
-            "gr": "υπομονετικός",
-            "en": "patient, tolerant",
-            "ru": "терпеливый, выдержанный"
+            "gr": "απαγορεύω",
+            "en": "to forbid, to prohibit",
+            "ru": "запрещать"
           },
           {
             "id": 26,
@@ -8557,7 +8593,7 @@
       },
       {
         "id": 85,
-        "version": 3,
+        "version": 4,
         "name": {
           "en": "Travels: more vocabulary",
           "ru": "Путешествия: дополнительная лексика"
@@ -8614,13 +8650,13 @@
           {
             "id": 9,
             "gr": "επιβιβάζομαι",
-            "en": "board, get on",
+            "en": "to board, to get on",
             "ru": "садиться (в транспорт)"
           },
           {
             "id": 10,
             "gr": "αποβιβάζομαι",
-            "en": "disembark, get off",
+            "en": "to disembark, to get off",
             "ru": "выходить (из транспорта)"
           },
           {
@@ -8728,7 +8764,7 @@
           {
             "id": 28,
             "gr": "κατασκηνώνω",
-            "en": "camp",
+            "en": "to camp",
             "ru": "отдыхать в палатках"
           },
           {
@@ -8764,7 +8800,7 @@
           {
             "id": 34,
             "gr": "ξεναγώ",
-            "en": "guide (a tour)",
+            "en": "to guide (a tour)",
             "ru": "водить на экскурсию"
           },
           {
@@ -8800,13 +8836,13 @@
           {
             "id": 40,
             "gr": "δηλώνω απώλεια αποσκευών",
-            "en": "report lost luggage",
+            "en": "to report lost luggage",
             "ru": "заявить о потере багажа"
           },
           {
             "id": 41,
             "gr": "περνάω τα σύνορα",
-            "en": "cross the border",
+            "en": "to cross the border",
             "ru": "пересекать границу"
           },
           {
@@ -8842,7 +8878,7 @@
           {
             "id": 47,
             "gr": "διαθέτω",
-            "en": "have, possess",
+            "en": "to have, to possess",
             "ru": "располагать, иметь"
           },
           {
@@ -8853,9 +8889,9 @@
           },
           {
             "id": 49,
-            "gr": "θεαματικός",
-            "en": "spectacular",
-            "ru": "впечатляющий"
+            "gr": "απαγορευμένος",
+            "en": "forbidden, prohibited",
+            "ru": "запрещённый"
           },
           {
             "id": 50,
@@ -8867,7 +8903,7 @@
       },
       {
         "id": 86,
-        "version": 3,
+        "version": 4,
         "name": {
           "en": "Diet & Nutrition: more vocabulary",
           "ru": "Рацион и питание: дополнительная лексика"
@@ -8912,7 +8948,7 @@
           {
             "id": 7,
             "gr": "κερνάω",
-            "en": "treat, buy (for someone)",
+            "en": "to treat, to buy (for someone)",
             "ru": "угощать, платить за кого-то"
           },
           {
@@ -9008,7 +9044,7 @@
           {
             "id": 23,
             "gr": "χωνεύω",
-            "en": "digest",
+            "en": "to digest",
             "ru": "переваривать (пищу)"
           },
           {
@@ -9104,7 +9140,7 @@
           {
             "id": 39,
             "gr": "θεωρώ",
-            "en": "consider, think",
+            "en": "to consider, to think",
             "ru": "считать, полагать"
           },
           {
@@ -9116,19 +9152,19 @@
           {
             "id": 41,
             "gr": "καταφέρω",
-            "en": "succeed, will be able",
+            "en": "to succeed, to be able",
             "ru": "смогу, мне удастся"
           },
           {
             "id": 42,
             "gr": "υποφέρω",
-            "en": "suffer",
+            "en": "to suffer",
             "ru": "страдать"
           },
           {
             "id": 43,
             "gr": "θυμίζω",
-            "en": "remind",
+            "en": "to remind",
             "ru": "напоминать"
           },
           {
@@ -9159,7 +9195,7 @@
       },
       {
         "id": 87,
-        "version": 1,
+        "version": 2,
         "name": {
           "en": "Old age and longevity: more vocabulary",
           "ru": "Старость и долголетие: дополнительная лексика"
@@ -9209,9 +9245,9 @@
           },
           {
             "id": 8,
-            "gr": "τα γεράματα",
-            "en": "old age",
-            "ru": "старость"
+            "gr": "αναλαμβάνω",
+            "en": "to take over, to undertake, to take upon oneself",
+            "ru": "брать на себя, принимать, возглавлять"
           },
           {
             "id": 9,
@@ -9349,7 +9385,7 @@
       },
       {
         "id": 88,
-        "version": 2,
+        "version": 3,
         "name": {
           "en": "Social problems: more vocabulary",
           "ru": "Социальные проблемы: дополнительная лексика"
@@ -9472,7 +9508,7 @@
           {
             "id": 20,
             "gr": "πολεμώ",
-            "en": "fight, wage war",
+            "en": "to fight, to wage war",
             "ru": "воевать, сражаться"
           },
           {
@@ -9520,7 +9556,7 @@
           {
             "id": 28,
             "gr": "παρέχω",
-            "en": "provide",
+            "en": "to provide",
             "ru": "предоставлять"
           },
           {
@@ -9538,19 +9574,19 @@
           {
             "id": 31,
             "gr": "λαμβάνω μέτρα",
-            "en": "take measures",
+            "en": "to take measures",
             "ru": "принимать меры"
           },
           {
             "id": 32,
             "gr": "χρηματοδοτώ",
-            "en": "finance, fund",
+            "en": "to finance, to fund",
             "ru": "финансировать, предоставлять средства"
           },
           {
             "id": 33,
             "gr": "συλλαμβάνω",
-            "en": "arrest, apprehend",
+            "en": "to arrest, to apprehend",
             "ru": "задерживать, арестовывать"
           },
           {
@@ -9562,7 +9598,7 @@
           {
             "id": 35,
             "gr": "εμφανίζομαι",
-            "en": "appear",
+            "en": "to appear",
             "ru": "появляться"
           },
           {
@@ -9634,14 +9670,14 @@
           {
             "id": 47,
             "gr": "πυροβολώ",
-            "en": "shoot",
+            "en": "to shoot",
             "ru": "стрелять"
           }
         ]
       },
       {
         "id": 89,
-        "version": 2,
+        "version": 3,
         "name": {
           "en": "Books and movies: more vocabulary",
           "ru": "Книги и фильмы: дополнительная лексика"
@@ -9662,7 +9698,7 @@
           {
             "id": 3,
             "gr": "διαδραματίζομαι",
-            "en": "take place, unfold",
+            "en": "to take place, to unfold",
             "ru": "происходить, разворачиваться"
           },
           {
@@ -9759,7 +9795,7 @@
       },
       {
         "id": 90,
-        "version": 1,
+        "version": 2,
         "name": {
           "en": "Problem of violence and bullying: more vocabulary",
           "ru": "Проблема насилия и буллинга: дополнительная лексика"
@@ -9780,7 +9816,7 @@
           {
             "id": 3,
             "gr": "αποκλείω",
-            "en": "exclude",
+            "en": "to exclude",
             "ru": "исключать"
           },
           {
@@ -9810,7 +9846,7 @@
           {
             "id": 8,
             "gr": "καταγγέλλω",
-            "en": "report, complaint",
+            "en": "to report, to complaint",
             "ru": "заявлять, подать жалобу"
           },
           {
@@ -9834,7 +9870,7 @@
           {
             "id": 12,
             "gr": "ταπεινώνω",
-            "en": "humiliate",
+            "en": "to humiliate",
             "ru": "унижать"
           },
           {
@@ -9846,7 +9882,7 @@
           {
             "id": 14,
             "gr": "εντάσσω",
-            "en": "integrate, include",
+            "en": "to integrate, to include",
             "ru": "включать, интегрировать"
           },
           {
@@ -9870,19 +9906,19 @@
           {
             "id": 18,
             "gr": "αποσύρομαι",
-            "en": "withdraw, retire",
+            "en": "to withdraw, to retire",
             "ru": "отступать, уходить"
           },
           {
             "id": 19,
             "gr": "διαχειρίζομαι",
-            "en": "manage, handle",
+            "en": "to manage, to handle",
             "ru": "управлять, распоряжаться"
           },
           {
             "id": 20,
             "gr": "εφαρμόζω",
-            "en": "apply, implement",
+            "en": "to apply, to implement",
             "ru": "применять, внедрять"
           },
           {
@@ -9900,13 +9936,13 @@
           {
             "id": 23,
             "gr": "συνυπάρχω",
-            "en": "coexist",
+            "en": "to coexist",
             "ru": "сосуществовать"
           },
           {
             "id": 24,
             "gr": "παρεμβαίνω",
-            "en": "intervene",
+            "en": "to intervene",
             "ru": "вмешиваться"
           },
           {
@@ -9954,7 +9990,7 @@
           {
             "id": 32,
             "gr": "θεσπίζω",
-            "en": "enact (a law), establish",
+            "en": "to enact (a law), to establish",
             "ru": "учреждать, устанавливать (закон, правило)"
           },
           {
@@ -9985,7 +10021,7 @@
       },
       {
         "id": 91,
-        "version": 2,
+        "version": 3,
         "name": {
           "en": "Animal protection: more vocabulary",
           "ru": "Зоозащита: дополнительная лексика"
@@ -10054,7 +10090,7 @@
           {
             "id": 11,
             "gr": "ταΐζω",
-            "en": "feed",
+            "en": "to feed",
             "ru": "кормить"
           },
           {
@@ -10084,7 +10120,7 @@
           {
             "id": 16,
             "gr": "γυαλίζω",
-            "en": "shine",
+            "en": "to shine",
             "ru": "блестеть"
           },
           {
@@ -10092,12 +10128,18 @@
             "gr": "ο/η κτηνίατρος",
             "en": "veterinarian, vet",
             "ru": "ветеринар"
+          },
+          {
+            "id": 18,
+            "gr": "απελπιστικός",
+            "en": "hopeless, desperate",
+            "ru": "безнадёжный, отчаянный"
           }
         ]
       },
       {
         "id": 92,
-        "version": 1,
+        "version": 2,
         "name": {
           "en": "Culture: more vocabulary",
           "ru": "Культура: дополнительная лексика"
@@ -10162,12 +10204,18 @@
             "gr": "το εργαλείο",
             "en": "tool",
             "ru": "инструмент"
+          },
+          {
+            "id": 11,
+            "gr": "η αρμονία",
+            "en": "harmony",
+            "ru": "гармония"
           }
         ]
       },
       {
         "id": 93,
-        "version": 2,
+        "version": 3,
         "name": {
           "en": "Friendship, personality, relationships: more vocabulary",
           "ru": "Дружба, личность, отношения: дополнительная лексика"
@@ -10212,13 +10260,13 @@
           {
             "id": 7,
             "gr": "τσακώνομαι με",
-            "en": "argue with, fight with",
+            "en": "to argue with, to fight with",
             "ru": "ссориться, ругаться с кем-то"
           },
           {
             "id": 8,
             "gr": "νοιάζομαι για",
-            "en": "care for",
+            "en": "to care for",
             "ru": "заботиться о"
           },
           {
@@ -10272,7 +10320,7 @@
           {
             "id": 17,
             "gr": "κανονίζω",
-            "en": "arrange, organize",
+            "en": "to arrange, to organize",
             "ru": "организовывать, договариваться"
           },
           {
@@ -10304,6 +10352,18 @@
             "gr": "εντελώς",
             "en": "completely, totally",
             "ru": "полностью, совершенно"
+          },
+          {
+            "id": 23,
+            "gr": "απαιτώ",
+            "en": "to demand, to require",
+            "ru": "требовать, предъявлять требования"
+          },
+          {
+            "id": 24,
+            "gr": "απορώ",
+            "en": "to wonder",
+            "ru": "удивляться, недоумевать"
           }
         ]
       }

@@ -127,7 +127,7 @@
       },
       {
         "id": 2,
-        "version": 2,
+        "version": 3,
         "name": {
           "en": "Life",
           "ru": "Жизнь"
@@ -226,8 +226,8 @@
           {
             "id": 16,
             "gr": "επικοινωνώ",
-            "en": "to contact",
-            "ru": "связываться"
+            "en": "to communicate, to contact",
+            "ru": "общаться, связываться"
           },
           {
             "id": 17,
