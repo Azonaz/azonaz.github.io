@@ -4,67 +4,230 @@
       {
         "id": 1,
         "version": 1,
-        "name": "Животные",
+        "name": "Путешествия",
         "words": [
           {
             "id": 1,
-            "en": "cat",
-            "ru": "кот",
-            "transcription": "[kæt]"
+            "en": "disadvantaged",
+            "ru": "неблагополучный",
+            "transcription": "[ˌdɪsədˈvɑːntɪdʒd]"
           },
           {
             "id": 2,
-            "en": "dog",
-            "ru": "собака",
-            "transcription": "[dɔːɡ]"
+            "en": "make a contribution",
+            "ru": "внести вклад",
+            "transcription": "[meɪk ə ˌkɒntrɪˈbjuːʃn]"
           },
           {
             "id": 3,
-            "en": "bird",
-            "ru": "птица",
-            "transcription": "[bɜːd]"
+            "en": "accommodation",
+            "ru": "размещение",
+            "transcription": "[əˌkɒməˈdeɪʃn]"
           },
           {
             "id": 4,
-            "en": "horse",
-            "ru": "лошадь",
-            "transcription": "[hɔːs]"
+            "en": "rope",
+            "ru": "верёвка",
+            "transcription": "[rəʊp]"
           },
           {
             "id": 5,
-            "en": "cow",
-            "ru": "корова",
-            "transcription": "[kaʊ]"
+            "en": "hut",
+            "ru": "хижина",
+            "transcription": "[hʌt]"
           },
           {
             "id": 6,
-            "en": "sheep",
-            "ru": "овца",
-            "transcription": "[ʃiːp]"
+            "en": "rainforest",
+            "ru": "тропический лес",
+            "transcription": "[ˈreɪnˌfɒrɪst]"
           },
           {
             "id": 7,
-            "en": "rabbit",
-            "ru": "кролик",
-            "transcription": "[ˈræbɪt]"
+            "en": "enormous",
+            "ru": "огромный",
+            "transcription": "[ɪˈnɔːməs]"
           },
           {
             "id": 8,
-            "en": "fox",
-            "ru": "лиса",
-            "transcription": "[fɒks]"
+            "en": "terrified",
+            "ru": "в ужасе, испуганный",
+            "transcription": "[ˈterɪfaɪd]"
           },
           {
             "id": 9,
-            "en": "bear",
-            "ru": "медведь",
-            "transcription": "[beə]"
+            "en": "frightened",
+            "ru": "испуганный",
+            "transcription": "[ˈfraɪtnd]"
           },
           {
             "id": 10,
-            "en": "wolf",
-            "ru": "волк",
-            "transcription": "[wʊlf]"
+            "en": "starving",
+            "ru": "голодающий",
+            "transcription": "[ˈstɑːvɪŋ]"
+          },
+          {
+            "id": 11,
+            "en": "filthy",
+            "ru": "грязный, мерзкий",
+            "transcription": "[ˈfɪlθi]"
+          },
+          {
+            "id": 12,
+            "en": "delighted",
+            "ru": "восхищённый, радостный",
+            "transcription": "[dɪˈlaɪtɪd]"
+          },
+          {
+            "id": 13,
+            "en": "hilarious",
+            "ru": "очень смешной",
+            "transcription": "[hɪˈleəriəs]"
+          },
+          {
+            "id": 14,
+            "en": "amazed",
+            "ru": "поражённый, изумлённый",
+            "transcription": "[əˈmeɪzd]"
+          },
+          {
+            "id": 15,
+            "en": "lid",
+            "ru": "крышка",
+            "transcription": "[lɪd]"
+          },
+          {
+            "id": 16,
+            "en": "junk",
+            "ru": "хлам",
+            "transcription": "[dʒʌŋk]"
+          },
+          {
+            "id": 17,
+            "en": "itinerary",
+            "ru": "маршрут",
+            "transcription": "[aɪˈtɪnərəri]"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "version": 1,
+        "name": "Покупки",
+        "words": [
+          {
+            "id": 1,
+            "en": "fur",
+            "ru": "мех, шерсть",
+            "transcription": "[fɜː]"
+          },
+          {
+            "id": 2,
+            "en": "keep a lid on",
+            "ru": "держать под контролем",
+            "transcription": "[kiːp ə lɪd ɒn]"
+          },
+          {
+            "id": 3,
+            "en": "negotiate",
+            "ru": "вести переговоры, договариваться",
+            "transcription": "[nɪˈɡəʊʃieɪt]"
+          },
+          {
+            "id": 4,
+            "en": "bargain",
+            "ru": "торговаться",
+            "transcription": "[ˈbɑːɡɪn]"
+          },
+          {
+            "id": 5,
+            "en": "confirm",
+            "ru": "подтвердить",
+            "transcription": "[kənˈfɜːm]"
+          },
+          {
+            "id": 6,
+            "en": "What a steal!",
+            "ru": "удачная покупка!",
+            "transcription": "[wɒt ə stiːl]"
+          },
+          {
+            "id": 7,
+            "en": "That's a steal!",
+            "ru": "это очень дёшево!",
+            "transcription": "[ðæts ə stiːl]"
+          },
+          {
+            "id": 8,
+            "en": "It's a deal!",
+            "ru": "договорились! по рукам!",
+            "transcription": "[ɪts ə diːl]"
+          },
+          {
+            "id": 9,
+            "en": "store clothes",
+            "ru": "хранить одежду",
+            "transcription": "[stɔː kləʊðz]"
+          },
+          {
+            "id": 10,
+            "en": "harmful to",
+            "ru": "вредно для",
+            "transcription": "[ˈhɑːmfʊl tuː]"
+          },
+          {
+            "id": 11,
+            "en": "aware of",
+            "ru": "осведомлён о чём-то",
+            "transcription": "[əˈweə(r) ɒv]"
+          },
+          {
+            "id": 12,
+            "en": "amazed by/at",
+            "ru": "поражён чем-то",
+            "transcription": "[əˈmeɪzd baɪ/æt]"
+          },
+          {
+            "id": 13,
+            "en": "suitable for",
+            "ru": "подходящее для",
+            "transcription": "[ˈsuːtəbl fɔː]"
+          },
+          {
+            "id": 14,
+            "en": "inspired by",
+            "ru": "вдохновлён кем-то/чем-то",
+            "transcription": "[ɪnˈspaɪəd baɪ]"
+          },
+          {
+            "id": 15,
+            "en": "guidelines",
+            "ru": "инструкция, правила",
+            "transcription": "[ˈɡaɪdlaɪnz]"
+          },
+          {
+            "id": 16,
+            "en": "steal",
+            "ru": "выгодная покупка",
+            "transcription": "[stiːl]"
+          },
+          {
+            "id": 17,
+            "en": "duty",
+            "ru": "долг, пошлина",
+            "transcription": "[ˈdjuːti]"
+          },
+          {
+            "id": 18,
+            "en": "background information",
+            "ru": "справочная информация",
+            "transcription": "[ˈbækɡraʊnd ˌɪnfəˈmeɪʃn]"
+          },
+          {
+            "id": 19,
+            "en": "obligations",
+            "ru": "обязательства",
+            "transcription": "[ˌɒblɪˈɡeɪʃənz]"
           }
         ]
       }
