@@ -1,0 +1,73 @@
+{
+  "vocabulary": {
+    "groups": [
+      {
+        "id": 1,
+        "version": 1,
+        "name": "Животные",
+        "words": [
+          {
+            "id": 1,
+            "en": "cat",
+            "ru": "кот",
+            "transcription": "[kæt]"
+          },
+          {
+            "id": 2,
+            "en": "dog",
+            "ru": "собака",
+            "transcription": "[dɔːɡ]"
+          },
+          {
+            "id": 3,
+            "en": "bird",
+            "ru": "птица",
+            "transcription": "[bɜːd]"
+          },
+          {
+            "id": 4,
+            "en": "horse",
+            "ru": "лошадь",
+            "transcription": "[hɔːs]"
+          },
+          {
+            "id": 5,
+            "en": "cow",
+            "ru": "корова",
+            "transcription": "[kaʊ]"
+          },
+          {
+            "id": 6,
+            "en": "sheep",
+            "ru": "овца",
+            "transcription": "[ʃiːp]"
+          },
+          {
+            "id": 7,
+            "en": "rabbit",
+            "ru": "кролик",
+            "transcription": "[ˈræbɪt]"
+          },
+          {
+            "id": 8,
+            "en": "fox",
+            "ru": "лиса",
+            "transcription": "[fɒks]"
+          },
+          {
+            "id": 9,
+            "en": "bear",
+            "ru": "медведь",
+            "transcription": "[beə]"
+          },
+          {
+            "id": 10,
+            "en": "wolf",
+            "ru": "волк",
+            "transcription": "[wʊlf]"
+          }
+        ]
+      }
+    ]
+  }
+}
