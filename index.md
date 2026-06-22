@@ -14,6 +14,7 @@ My projects:
 - [Fibonacci Hex Merge](/fibonacci-hex-merge-game/) – a tiny puzzle game.
 - [Bite Book](/bite-book/) – digital recipe notebook.
 - [Pairception](/pairception/) – number pair puzzle.
+- [Lorini](/lorini/) - app for learning English words
 
 ## Contacts
 
