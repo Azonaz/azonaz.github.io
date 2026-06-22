@@ -14,6 +14,8 @@ All progress is saved only on your device.
 - [Download in App Store](https://apps.apple.com/cy/app/pikidex/id1607358713).
 - [Download in Play Market](https://play.google.com/store/apps/details?id=ru.find_friends_team.pikidex).
 
+Uses data from the Pikidex DB, community-maintained dataset of the decor available in the game: https://monjuik.github.io/pikidex-db/
+
 ### How to use application
 Tap on the icon, it will change its state:
 
