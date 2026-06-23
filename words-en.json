@@ -3,165 +3,710 @@
     "groups": [
       {
         "id": 1,
-        "version": 1,
-        "name": "Путешествия",
+        "version": 2,
+        "name": "Путешествия, дорога, места",
         "words": [
           {
             "id": 1,
-            "en": "disadvantaged",
-            "ru": "неблагополучный",
-            "transcription": "[ˌdɪsədˈvɑːntɪdʒd]"
-          },
-          {
-            "id": 2,
-            "en": "make a contribution",
-            "ru": "внести вклад",
-            "transcription": "[meɪk ə ˌkɒntrɪˈbjuːʃn]"
-          },
-          {
-            "id": 3,
             "en": "accommodation",
-            "ru": "размещение",
+            "ru": "жильё, размещение",
             "transcription": "[əˌkɒməˈdeɪʃn]"
           },
           {
-            "id": 4,
-            "en": "rope",
-            "ru": "верёвка",
-            "transcription": "[rəʊp]"
+            "id": 2,
+            "en": "itinerary",
+            "ru": "маршрут, план поездки",
+            "transcription": "[aɪˈtɪnərəri]"
           },
           {
-            "id": 5,
+            "id": 3,
+            "en": "rainforest",
+            "ru": "тропический лес",
+            "transcription": "[ˈreɪnfɒrɪst]"
+          },
+          {
+            "id": 4,
             "en": "hut",
             "ru": "хижина",
             "transcription": "[hʌt]"
           },
           {
+            "id": 5,
+            "en": "must-see",
+            "ru": "обязательное к просмотру/посещению",
+            "transcription": "[ˌmʌst ˈsiː]"
+          },
+          {
             "id": 6,
-            "en": "rainforest",
-            "ru": "тропический лес",
-            "transcription": "[ˈreɪnˌfɒrɪst]"
+            "en": "I’m on my way",
+            "ru": "я в пути",
+            "transcription": "[aɪm ɒn maɪ ˈweɪ]"
           },
           {
             "id": 7,
-            "en": "enormous",
-            "ru": "огромный",
-            "transcription": "[ɪˈnɔːməs]"
+            "en": "make your connection",
+            "ru": "успеть на пересадку/стыковку",
+            "transcription": "[meɪk jɔː kəˈnekʃn]"
           },
           {
             "id": 8,
-            "en": "terrified",
-            "ru": "в ужасе, испуганный",
-            "transcription": "[ˈterɪfaɪd]"
+            "en": "come over",
+            "ru": "зайти, прийти в гости",
+            "transcription": "[kʌm ˈəʊvə(r)]"
           },
           {
             "id": 9,
-            "en": "frightened",
-            "ru": "испуганный",
-            "transcription": "[ˈfraɪtnd]"
+            "en": "trip over",
+            "ru": "споткнуться",
+            "transcription": "[trɪp ˈəʊvə(r)]"
           },
           {
             "id": 10,
-            "en": "starving",
-            "ru": "голодающий",
-            "transcription": "[ˈstɑːvɪŋ]"
-          },
-          {
-            "id": 11,
-            "en": "filthy",
-            "ru": "грязный, мерзкий",
-            "transcription": "[ˈfɪlθi]"
-          },
-          {
-            "id": 12,
-            "en": "delighted",
-            "ru": "восхищённый, радостный",
-            "transcription": "[dɪˈlaɪtɪd]"
-          },
-          {
-            "id": 13,
-            "en": "hilarious",
-            "ru": "очень смешной",
-            "transcription": "[hɪˈleəriəs]"
-          },
-          {
-            "id": 14,
-            "en": "amazed",
-            "ru": "поражённый, изумлённый",
-            "transcription": "[əˈmeɪzd]"
-          },
-          {
-            "id": 15,
-            "en": "lid",
-            "ru": "крышка",
-            "transcription": "[lɪd]"
-          },
-          {
-            "id": 16,
-            "en": "junk",
-            "ru": "хлам",
-            "transcription": "[dʒʌŋk]"
-          },
-          {
-            "id": 17,
-            "en": "itinerary",
-            "ru": "маршрут",
-            "transcription": "[aɪˈtɪnərəri]"
+            "en": "go down",
+            "ru": "происходить, случаться",
+            "transcription": "[ɡəʊ daʊn]"
           }
         ]
       },
       {
         "id": 2,
-        "version": 1,
-        "name": "Покупки",
+        "version": 2,
+        "name": "Фразовые глаголы и действия",
         "words": [
           {
             "id": 1,
-            "en": "fur",
-            "ru": "мех, шерсть",
-            "transcription": "[fɜː]"
+            "en": "sort out",
+            "ru": "разобраться; уладить; распутать",
+            "transcription": "[sɔːt aʊt]"
           },
           {
             "id": 2,
-            "en": "keep a lid on",
-            "ru": "держать под контролем",
-            "transcription": "[kiːp ə lɪd ɒn]"
+            "en": "come across",
+            "ru": "наткнуться, встретиться",
+            "transcription": "[kʌm əˈkrɒs]"
           },
           {
             "id": 3,
-            "en": "negotiate",
-            "ru": "вести переговоры, договариваться",
-            "transcription": "[nɪˈɡəʊʃieɪt]"
+            "en": "make up for",
+            "ru": "компенсировать",
+            "transcription": "[meɪk ʌp fə(r)]"
           },
           {
             "id": 4,
-            "en": "bargain",
-            "ru": "торговаться",
-            "transcription": "[ˈbɑːɡɪn]"
+            "en": "help out",
+            "ru": "помочь, выручить",
+            "transcription": "[help aʊt]"
           },
           {
             "id": 5,
+            "en": "come along",
+            "ru": "пойти/поехать вместе",
+            "transcription": "[kʌm əˈlɒŋ]"
+          },
+          {
+            "id": 6,
+            "en": "work out",
+            "ru": "тренироваться; получиться",
+            "transcription": "[wɜːk aʊt]"
+          },
+          {
+            "id": 7,
+            "en": "find out",
+            "ru": "выяснить",
+            "transcription": "[faɪnd aʊt]"
+          },
+          {
+            "id": 8,
+            "en": "get into",
+            "ru": "попасть в; войти в; увлечься",
+            "transcription": "[ɡet ˈɪntuː]"
+          },
+          {
+            "id": 9,
+            "en": "catch up",
+            "ru": "догнать; наверстать",
+            "transcription": "[kætʃ ʌp]"
+          },
+          {
+            "id": 10,
+            "en": "point out",
+            "ru": "отметить, указать",
+            "transcription": "[pɔɪnt aʊt]"
+          },
+          {
+            "id": 11,
+            "en": "cut off",
+            "ru": "отрезать; отключить; прервать",
+            "transcription": "[kʌt ɒf]"
+          },
+          {
+            "id": 12,
+            "en": "cut out",
+            "ru": "вырезать; исключить",
+            "transcription": "[kʌt aʊt]"
+          },
+          {
+            "id": 13,
+            "en": "bring up",
+            "ru": "поднимать тему/разговор; воспитывать",
+            "transcription": "[brɪŋ ʌp]"
+          },
+          {
+            "id": 14,
+            "en": "put up to",
+            "ru": "подбить кого-то на что-то",
+            "transcription": "[pʊt ˈʌp tə]"
+          },
+          {
+            "id": 15,
+            "en": "put up with",
+            "ru": "мириться с; терпеть",
+            "transcription": "[pʊt ˈʌp wɪð]"
+          },
+          {
+            "id": 16,
+            "en": "get away with",
+            "ru": "сойти с рук; остаться безнаказанным",
+            "transcription": "[ɡet əˈweɪ wɪð]"
+          },
+          {
+            "id": 17,
+            "en": "get out of",
+            "ru": "избежать; отвертеться от; выбраться из",
+            "transcription": "[ɡet ˈaʊt əv]"
+          },
+          {
+            "id": 18,
+            "en": "get away",
+            "ru": "уехать; сбежать",
+            "transcription": "[ɡet əˈweɪ]"
+          },
+          {
+            "id": 19,
+            "en": "get with it",
+            "ru": "соберись; будь современнее; не тормози",
+            "transcription": "[ɡet ˈwɪð ɪt]"
+          },
+          {
+            "id": 20,
+            "en": "get rid of",
+            "ru": "избавиться от чего-то; выкинуть",
+            "transcription": "[ɡet ˈrɪd əv]"
+          },
+          {
+            "id": 21,
+            "en": "look up to",
+            "ru": "уважать; восхищаться; равняться на",
+            "transcription": "[lʊk ˈʌp tə]"
+          },
+          {
+            "id": 22,
+            "en": "look down on",
+            "ru": "смотреть свысока; относиться с пренебрежением",
+            "transcription": "[lʊk ˈdaʊn ɒn]"
+          },
+          {
+            "id": 23,
+            "en": "look up",
+            "ru": "искать информацию; смотреть вверх",
+            "transcription": "[lʊk ʌp]"
+          },
+          {
+            "id": 24,
+            "en": "come up with",
+            "ru": "придумать идею/решение",
+            "transcription": "[kʌm ˈʌp wɪð]"
+          },
+          {
+            "id": 25,
+            "en": "fall through",
+            "ru": "сорваться; провалиться",
+            "transcription": "[fɔːl θruː]"
+          },
+          {
+            "id": 26,
+            "en": "fall down",
+            "ru": "упасть",
+            "transcription": "[fɔːl daʊn]"
+          },
+          {
+            "id": 27,
+            "en": "help out with",
+            "ru": "помочь с чем-то",
+            "transcription": "[help ˈaʊt wɪð]"
+          },
+          {
+            "id": 28,
+            "en": "go through",
+            "ru": "пережить; пройти через",
+            "transcription": "[ɡəʊ θruː]"
+          },
+          {
+            "id": 29,
+            "en": "get through",
+            "ru": "дозвониться; справиться; пройти через",
+            "transcription": "[ɡet θruː]"
+          },
+          {
+            "id": 30,
+            "en": "live through",
+            "ru": "пережить событие/период",
+            "transcription": "[lɪv θruː]"
+          },
+          {
+            "id": 31,
+            "en": "get along with",
+            "ru": "ладить с кем-то",
+            "transcription": "[ɡet əˈlɒŋ wɪð]"
+          },
+          {
+            "id": 32,
+            "en": "run out of",
+            "ru": "закончиться; исчерпать запас чего-то",
+            "transcription": "[rʌn ˈaʊt əv]"
+          },
+          {
+            "id": 33,
+            "en": "track someone",
+            "ru": "отслеживать кого-то",
+            "transcription": "[træk ˈsʌmwʌn]"
+          },
+          {
+            "id": 34,
+            "en": "insist",
+            "ru": "настаивать",
+            "transcription": "[ɪnˈsɪst]"
+          },
+          {
+            "id": 35,
             "en": "confirm",
             "ru": "подтвердить",
             "transcription": "[kənˈfɜːm]"
           },
           {
-            "id": 6,
+            "id": 36,
+            "en": "negotiate",
+            "ru": "вести переговоры, договариваться",
+            "transcription": "[nɪˈɡəʊʃieɪt]"
+          },
+          {
+            "id": 37,
+            "en": "bargain",
+            "ru": "торговаться",
+            "transcription": "[ˈbɑːɡɪn]"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "version": 1,
+        "name": "Деньги, покупки, сделки",
+        "words": [
+          {
+            "id": 1,
+            "en": "pay off",
+            "ru": "окупаться; приносить результат",
+            "transcription": "[peɪ ɒf]"
+          },
+          {
+            "id": 2,
+            "en": "pay back",
+            "ru": "вернуть деньги/долг",
+            "transcription": "[peɪ bæk]"
+          },
+          {
+            "id": 3,
+            "en": "pay for",
+            "ru": "платить за",
+            "transcription": "[peɪ fə(r)]"
+          },
+          {
+            "id": 4,
+            "en": "pay by",
+            "ru": "платить с помощью / способом",
+            "transcription": "[peɪ baɪ]"
+          },
+          {
+            "id": 5,
             "en": "What a steal!",
             "ru": "удачная покупка!",
             "transcription": "[wɒt ə stiːl]"
           },
           {
-            "id": 7,
-            "en": "That's a steal!",
+            "id": 6,
+            "en": "That’s a steal!",
             "ru": "это очень дёшево!",
             "transcription": "[ðæts ə stiːl]"
           },
           {
-            "id": 8,
-            "en": "It's a deal!",
+            "id": 7,
+            "en": "It’s a deal!",
             "ru": "договорились! по рукам!",
             "transcription": "[ɪts ə diːl]"
+          },
+          {
+            "id": 8,
+            "en": "steal",
+            "ru": "выгодная покупка",
+            "transcription": "[stiːl]"
+          },
+          {
+            "id": 9,
+            "en": "duty",
+            "ru": "обязанность, долг; пошлина",
+            "transcription": "[ˈdjuːti]"
+          },
+          {
+            "id": 10,
+            "en": "potluck",
+            "ru": "общий ужин, куда каждый приносит блюдо",
+            "transcription": "[ˈpɒtlʌk]"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "version": 1,
+        "name": "Характер, эмоции, состояния",
+        "words": [
+          {
+            "id": 1,
+            "en": "easygoing",
+            "ru": "с лёгким характером",
+            "transcription": "[ˌiːziˈɡəʊɪŋ]"
+          },
+          {
+            "id": 2,
+            "en": "terrified",
+            "ru": "в ужасе, испуганный",
+            "transcription": "[ˈterɪfaɪd]"
+          },
+          {
+            "id": 3,
+            "en": "frightened",
+            "ru": "испуганный",
+            "transcription": "[ˈfraɪtnd]"
+          },
+          {
+            "id": 4,
+            "en": "starving",
+            "ru": "очень голодный; голодающий",
+            "transcription": "[ˈstɑːvɪŋ]"
+          },
+          {
+            "id": 5,
+            "en": "filthy",
+            "ru": "грязный, мерзкий",
+            "transcription": "[ˈfɪlθi]"
+          },
+          {
+            "id": 6,
+            "en": "delighted",
+            "ru": "очень довольный, радостный",
+            "transcription": "[dɪˈlaɪtɪd]"
+          },
+          {
+            "id": 7,
+            "en": "hilarious",
+            "ru": "очень смешной",
+            "transcription": "[hɪˈleəriəs]"
+          },
+          {
+            "id": 8,
+            "en": "amazed",
+            "ru": "поражённый, изумлённый",
+            "transcription": "[əˈmeɪzd]"
+          },
+          {
+            "id": 9,
+            "en": "amazed by/at",
+            "ru": "поражён чем-то",
+            "transcription": "[əˈmeɪzd baɪ / æt]"
+          },
+          {
+            "id": 10,
+            "en": "disadvantaged",
+            "ru": "неблагополучный",
+            "transcription": "[ˌdɪsədˈvɑːntɪdʒd]"
+          },
+          {
+            "id": 11,
+            "en": "improbable",
+            "ru": "маловероятный",
+            "transcription": "[ɪmˈprɒbəbl]"
+          },
+          {
+            "id": 12,
+            "en": "particular",
+            "ru": "особый",
+            "transcription": "[pəˈtɪkjələ(r)]"
+          },
+          {
+            "id": 13,
+            "en": "suitable for",
+            "ru": "подходящий для",
+            "transcription": "[ˈsuːtəbl fə(r)]"
+          },
+          {
+            "id": 14,
+            "en": "harmful to",
+            "ru": "вредный для",
+            "transcription": "[ˈhɑːmfəl tə]"
+          },
+          {
+            "id": 15,
+            "en": "aware of",
+            "ru": "осведомлён о; знающий о",
+            "transcription": "[əˈweə(r) əv]"
+          },
+          {
+            "id": 16,
+            "en": "inspired by",
+            "ru": "вдохновлён кем-то/чем-то",
+            "transcription": "[ɪnˈspaɪəd baɪ]"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "version": 1,
+        "name": "Время, воспоминания, обсуждение",
+        "words": [
+          {
+            "id": 1,
+            "en": "every so often",
+            "ru": "время от времени",
+            "transcription": "[ˈevri səʊ ˈɒfn]"
+          },
+          {
+            "id": 2,
+            "en": "I’m running late",
+            "ru": "я опаздываю / задерживаюсь",
+            "transcription": "[aɪm ˈrʌnɪŋ leɪt]"
+          },
+          {
+            "id": 3,
+            "en": "reminisce about",
+            "ru": "вспоминать о",
+            "transcription": "[ˌremɪˈnɪs əˈbaʊt]"
+          },
+          {
+            "id": 4,
+            "en": "fond memories",
+            "ru": "приятные воспоминания",
+            "transcription": "[fɒnd ˈmeməriz]"
+          },
+          {
+            "id": 5,
+            "en": "the good old days",
+            "ru": "старые добрые времена",
+            "transcription": "[ðə ɡʊd əʊld deɪz]"
+          },
+          {
+            "id": 6,
+            "en": "to look back on",
+            "ru": "оглядываться назад",
+            "transcription": "[tə lʊk bæk ɒn]"
+          },
+          {
+            "id": 7,
+            "en": "occasionally",
+            "ru": "изредка, иногда",
+            "transcription": "[əˈkeɪʒnəli]"
+          },
+          {
+            "id": 8,
+            "en": "coincidence",
+            "ru": "совпадение",
+            "transcription": "[kəʊˈɪnsɪdəns]"
+          },
+          {
+            "id": 9,
+            "en": "lose track of time",
+            "ru": "потерять счёт времени",
+            "transcription": "[luːz træk əv taɪm]"
+          },
+          {
+            "id": 10,
+            "en": "keep track of time",
+            "ru": "следить за временем",
+            "transcription": "[kiːp træk əv taɪm]"
+          },
+          {
+            "id": 11,
+            "en": "keep someone waiting",
+            "ru": "заставить кого-то ждать",
+            "transcription": "[kiːp ˈsʌmwʌn ˈweɪtɪŋ]"
+          },
+          {
+            "id": 12,
+            "en": "for the sake of argument",
+            "ru": "допустим; предположим; ради обсуждения",
+            "transcription": "[fə ðə seɪk əv ˈɑːɡjəmənt]"
+          },
+          {
+            "id": 13,
+            "en": "if we assume",
+            "ru": "если мы предположим",
+            "transcription": "[ɪf wi əˈsjuːm]"
+          },
+          {
+            "id": 14,
+            "en": "get a hold of you",
+            "ru": "связаться с вами; дозвониться до вас",
+            "transcription": "[ɡet ə həʊld əv juː]"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "version": 1,
+        "name": "Школа, игры, предметы",
+        "words": [
+          {
+            "id": 1,
+            "en": "yearbook",
+            "ru": "школьный альбом, ежегодник",
+            "transcription": "[ˈjɪəbʊk]"
+          },
+          {
+            "id": 2,
+            "en": "recess",
+            "ru": "перемена, перерыв",
+            "transcription": "[rɪˈses]"
+          },
+          {
+            "id": 3,
+            "en": "senior",
+            "ru": "старшеклассник; старший",
+            "transcription": "[ˈsiːniə(r)]"
+          },
+          {
+            "id": 4,
+            "en": "hide and seek",
+            "ru": "прятки",
+            "transcription": "[ˌhaɪd ən ˈsiːk]"
+          },
+          {
+            "id": 5,
+            "en": "dodgeball",
+            "ru": "вышибалы",
+            "transcription": "[ˈdɒdʒbɔːl]"
+          },
+          {
+            "id": 6,
+            "en": "slide",
+            "ru": "горка; скользить",
+            "transcription": "[slaɪd]"
+          },
+          {
+            "id": 7,
+            "en": "tag",
+            "ru": "салки",
+            "transcription": "[tæɡ]"
+          },
+          {
+            "id": 8,
+            "en": "lollipop",
+            "ru": "леденец на палочке",
+            "transcription": "[ˈlɒlipɒp]"
+          },
+          {
+            "id": 9,
+            "en": "hoop",
+            "ru": "обруч; кольцо",
+            "transcription": "[huːp]"
+          },
+          {
+            "id": 10,
+            "en": "rope",
+            "ru": "верёвка, скакалка",
+            "transcription": "[rəʊp]"
+          },
+          {
+            "id": 11,
+            "en": "dashboard",
+            "ru": "приборная панель",
+            "transcription": "[ˈdæʃbɔːd]"
+          },
+          {
+            "id": 12,
+            "en": "pottery",
+            "ru": "керамика",
+            "transcription": "[ˈpɒtəri]"
+          },
+          {
+            "id": 13,
+            "en": "lid",
+            "ru": "крышка",
+            "transcription": "[lɪd]"
+          },
+          {
+            "id": 14,
+            "en": "junk",
+            "ru": "хлам",
+            "transcription": "[dʒʌŋk]"
+          },
+          {
+            "id": 15,
+            "en": "fur",
+            "ru": "мех; шерсть животного",
+            "transcription": "[fɜː]"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "version": 1,
+        "name": "Информация, правила, обязанности",
+        "words": [
+          {
+            "id": 1,
+            "en": "make a contribution",
+            "ru": "внести вклад",
+            "transcription": "[meɪk ə ˌkɒntrɪˈbjuːʃn]"
+          },
+          {
+            "id": 2,
+            "en": "guidelines",
+            "ru": "рекомендации, правила, инструкции",
+            "transcription": "[ˈɡaɪdlaɪnz]"
+          },
+          {
+            "id": 3,
+            "en": "background information",
+            "ru": "справочная информация",
+            "transcription": "[ˈbækɡraʊnd ˌɪnfəˈmeɪʃn]"
+          },
+          {
+            "id": 4,
+            "en": "obligations",
+            "ru": "обязанности, обязательства",
+            "transcription": "[ˌɒblɪˈɡeɪʃənz]"
+          },
+          {
+            "id": 5,
+            "en": "keep a lid on",
+            "ru": "держать под контролем",
+            "transcription": "[kiːp ə lɪd ɒn]"
+          },
+          {
+            "id": 6,
+            "en": "beneath",
+            "ru": "под; ниже; под ним/ней",
+            "transcription": "[bɪˈniːθ]"
+          },
+          {
+            "id": 7,
+            "en": "flexibility",
+            "ru": "гибкость",
+            "transcription": "[ˌfleksəˈbɪləti]"
+          },
+          {
+            "id": 8,
+            "en": "highlight",
+            "ru": "выделять; важный/яркий момент",
+            "transcription": "[ˈhaɪlaɪt]"
           },
           {
             "id": 9,
@@ -171,63 +716,9 @@
           },
           {
             "id": 10,
-            "en": "harmful to",
-            "ru": "вредно для",
-            "transcription": "[ˈhɑːmfʊl tuː]"
-          },
-          {
-            "id": 11,
-            "en": "aware of",
-            "ru": "осведомлён о чём-то",
-            "transcription": "[əˈweə(r) ɒv]"
-          },
-          {
-            "id": 12,
-            "en": "amazed by/at",
-            "ru": "поражён чем-то",
-            "transcription": "[əˈmeɪzd baɪ/æt]"
-          },
-          {
-            "id": 13,
-            "en": "suitable for",
-            "ru": "подходящее для",
-            "transcription": "[ˈsuːtəbl fɔː]"
-          },
-          {
-            "id": 14,
-            "en": "inspired by",
-            "ru": "вдохновлён кем-то/чем-то",
-            "transcription": "[ɪnˈspaɪəd baɪ]"
-          },
-          {
-            "id": 15,
-            "en": "guidelines",
-            "ru": "инструкция, правила",
-            "transcription": "[ˈɡaɪdlaɪnz]"
-          },
-          {
-            "id": 16,
-            "en": "steal",
-            "ru": "выгодная покупка",
-            "transcription": "[stiːl]"
-          },
-          {
-            "id": 17,
-            "en": "duty",
-            "ru": "долг, пошлина",
-            "transcription": "[ˈdjuːti]"
-          },
-          {
-            "id": 18,
-            "en": "background information",
-            "ru": "справочная информация",
-            "transcription": "[ˈbækɡraʊnd ˌɪnfəˈmeɪʃn]"
-          },
-          {
-            "id": 19,
-            "en": "obligations",
-            "ru": "обязательства",
-            "transcription": "[ˌɒblɪˈɡeɪʃənz]"
+            "en": "designed",
+            "ru": "разработанный; спроектированный",
+            "transcription": "[dɪˈzaɪnd]"
           }
         ]
       }
