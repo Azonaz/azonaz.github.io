@@ -163,7 +163,7 @@ Big Bang is an in-game ability that clears three tiles from the board. It gives 
 
 ## Privacy Policy
 
-_Last updated: October 27th, 2024_
+_Last updated: July 6th, 2026_
 
 We (developers and publishers)
 are providing this Privacy Policy
@@ -171,7 +171,9 @@ to explain our practices regarding the collection and use of information within 
 
 ### Collection and use information
 
-Fibonacci Hex Merge game does not collect any personally identifiable information.
+We collect non-personal analytics data about how the app is used (such as feature interactions and events).
+
+This data is not used to identify individual users and is used to improve the app experience.
 
 ### Revisions to this Privacy Policy
 
