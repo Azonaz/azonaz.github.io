@@ -163,7 +163,9 @@ Pairception does not require account registration and does not directly collect 
 
 Game progress and settings are stored locally on your device.
 
-Pairception uses Google AdMob ([Google AdMob](https://policies.google.com/technologies/partner-sites)) to serve ads. Google may collect device and usage data through AdMob in accordance with its privacy policy.
+We collect non-personal analytics data about how the app is used, such as feature interactions and in-app events. This data is collected by Pairception and is not used to identify individual users. It is used solely to understand app usage and improve the app experience.
+
+Pairception uses Google AdMob (https://policies.google.com/technologies/partner-sites) to serve ads. Google may collect device and usage data through AdMob in accordance with its privacy policy.
 
 ---
 
