@@ -3,7 +3,7 @@
     "groups": [
       {
         "id": 1,
-        "version": 2,
+        "version": 4,
         "name": "Путешествия, дорога, места",
         "words": [
           {
@@ -65,12 +65,42 @@
             "en": "go down",
             "ru": "происходить, случаться",
             "transcription": "[ɡəʊ daʊn]"
+          },
+          {
+            "id": 11,
+            "en": "out of town",
+            "ru": "за городом; не в городе",
+            "transcription": "[ˌaʊt əv ˈtaʊn]"
+          },
+          {
+            "id": 12,
+            "en": "arrive at",
+            "ru": "прибыть в небольшое место / точку",
+            "transcription": "[əˈraɪv æt]"
+          },
+          {
+            "id": 13,
+            "en": "arrive in",
+            "ru": "прибыть в город/страну",
+            "transcription": "[əˈraɪv ɪn]"
+          },
+          {
+            "id": 14,
+            "en": "leave for",
+            "ru": "уехать в / отправиться в",
+            "transcription": "[ˈliːv fə(r)]"
+          },
+          {
+            "id": 15,
+            "en": "squirrel",
+            "ru": "белка",
+            "transcription": "[ˈskwɪrəl]"
           }
         ]
       },
       {
         "id": 2,
-        "version": 2,
+        "version": 3,
         "name": "Фразовые глаголы и действия",
         "words": [
           {
@@ -294,12 +324,24 @@
             "en": "bargain",
             "ru": "торговаться",
             "transcription": "[ˈbɑːɡɪn]"
+          },
+          {
+            "id": 38,
+            "en": "turn out",
+            "ru": "оказаться; получиться",
+            "transcription": "[tɜːn aʊt]"
+          },
+          {
+            "id": 39,
+            "en": "burst into",
+            "ru": "внезапно начать; ворваться в",
+            "transcription": "[ˈbɜːst ˌɪntuː]"
           }
         ]
       },
       {
         "id": 3,
-        "version": 1,
+        "version": 2,
         "name": "Деньги, покупки, сделки",
         "words": [
           {
@@ -361,12 +403,42 @@
             "en": "potluck",
             "ru": "общий ужин, куда каждый приносит блюдо",
             "transcription": "[ˈpɒtlʌk]"
+          },
+          {
+            "id": 11,
+            "en": "deal",
+            "ru": "дело; сделка; соглашение",
+            "transcription": "[diːl]"
+          },
+          {
+            "id": 12,
+            "en": "cost a fortune",
+            "ru": "стоить целое состояние",
+            "transcription": "[ˌkɒst ə ˈfɔːtʃuːn]"
+          },
+          {
+            "id": 13,
+            "en": "purchases",
+            "ru": "покупки",
+            "transcription": "[ˈpɜːtʃəsɪz]"
+          },
+          {
+            "id": 14,
+            "en": "fancy",
+            "ru": "изысканный; модный; хотеть / нравиться",
+            "transcription": "[ˈfænsi]"
+          },
+          {
+            "id": 15,
+            "en": "value",
+            "ru": "ценность; стоимость; ценить",
+            "transcription": "[ˈvæljuː]"
           }
         ]
       },
       {
         "id": 4,
-        "version": 1,
+        "version": 3,
         "name": "Характер, эмоции, состояния",
         "words": [
           {
@@ -464,12 +536,96 @@
             "en": "inspired by",
             "ru": "вдохновлён кем-то/чем-то",
             "transcription": "[ɪnˈspaɪəd baɪ]"
+          },
+          {
+            "id": 17,
+            "en": "unreasonable",
+            "ru": "необоснованный, неразумный",
+            "transcription": "[ʌnˈriːznəbl]"
+          },
+          {
+            "id": 18,
+            "en": "unpredictable",
+            "ru": "непредсказуемый",
+            "transcription": "[ˌʌnprɪˈdɪktəbl]"
+          },
+          {
+            "id": 19,
+            "en": "impress",
+            "ru": "впечатлять",
+            "transcription": "[ɪmˈpres]"
+          },
+          {
+            "id": 20,
+            "en": "cheer",
+            "ru": "подбодрить; радостно кричать / приветствовать",
+            "transcription": "[tʃɪə(r)]"
+          },
+          {
+            "id": 21,
+            "en": "inconvenient",
+            "ru": "неудобный",
+            "transcription": "[ˌɪnkənˈviːniənt]"
+          },
+          {
+            "id": 22,
+            "en": "no pressure",
+            "ru": "без давления; не переживай / не напрягайся",
+            "transcription": "[ˌnəʊ ˈpreʃə(r)]"
+          },
+          {
+            "id": 23,
+            "en": "absent",
+            "ru": "отсутствующий",
+            "transcription": "[ˈæbsənt]"
+          },
+          {
+            "id": 24,
+            "en": "artificial",
+            "ru": "искусственный",
+            "transcription": "[ˌɑːtɪˈfɪʃl]"
+          },
+          {
+            "id": 25,
+            "en": "smooth",
+            "ru": "гладкий; плавный",
+            "transcription": "[smuːð]"
+          },
+          {
+            "id": 26,
+            "en": "wealthy",
+            "ru": "богатый, состоятельный",
+            "transcription": "[ˈwelθi]"
+          },
+          {
+            "id": 27,
+            "en": "certain",
+            "ru": "определённый; уверенный",
+            "transcription": "[ˈsɜːtn]"
+          },
+          {
+            "id": 28,
+            "en": "bitter",
+            "ru": "горький",
+            "transcription": "[ˈbɪtə(r)]"
+          },
+          {
+            "id": 29,
+            "en": "conventional",
+            "ru": "традиционный; общепринятый",
+            "transcription": "[kənˈvenʃənl]"
+          },
+          {
+            "id": 30,
+            "en": "crucial",
+            "ru": "важнейший; решающий",
+            "transcription": "[ˈkruːʃl]"
           }
         ]
       },
       {
         "id": 5,
-        "version": 1,
+        "version": 2,
         "name": "Время, воспоминания, обсуждение",
         "words": [
           {
@@ -555,12 +711,36 @@
             "en": "get a hold of you",
             "ru": "связаться с вами; дозвониться до вас",
             "transcription": "[ɡet ə həʊld əv juː]"
+          },
+          {
+            "id": 15,
+            "en": "ahead of time",
+            "ru": "заранее",
+            "transcription": "[əˌhed əv ˈtaɪm]"
+          },
+          {
+            "id": 16,
+            "en": "otherwise",
+            "ru": "иначе; в противном случае",
+            "transcription": "[ˈʌðəwaɪz]"
+          },
+          {
+            "id": 17,
+            "en": "affair",
+            "ru": "дело; событие; роман",
+            "transcription": "[əˈfeə(r)]"
+          },
+          {
+            "id": 18,
+            "en": "save the day",
+            "ru": "спасти положение",
+            "transcription": "[ˌseɪv ðə ˈdeɪ]"
           }
         ]
       },
       {
         "id": 6,
-        "version": 1,
+        "version": 4,
         "name": "Школа, игры, предметы",
         "words": [
           {
@@ -649,15 +829,21 @@
           },
           {
             "id": 15,
-            "en": "fur",
-            "ru": "мех; шерсть животного",
-            "transcription": "[fɜː]"
+            "en": "cheat",
+            "ru": "жульничать; списывать; обманывать",
+            "transcription": "[tʃiːt]"
+          },
+          {
+            "id": 16,
+            "en": "assignment",
+            "ru": "задание; назначение",
+            "transcription": "[əˈsaɪnmənt]"
           }
         ]
       },
       {
         "id": 7,
-        "version": 1,
+        "version": 3,
         "name": "Информация, правила, обязанности",
         "words": [
           {
@@ -710,15 +896,426 @@
           },
           {
             "id": 9,
+            "en": "designed",
+            "ru": "разработанный; спроектированный",
+            "transcription": "[dɪˈzaɪnd]"
+          },
+          {
+            "id": 10,
+            "en": "reveal",
+            "ru": "раскрывать",
+            "transcription": "[rɪˈviːl]"
+          },
+          {
+            "id": 11,
+            "en": "boost",
+            "ru": "усилить; повысить",
+            "transcription": "[buːst]"
+          },
+          {
+            "id": 12,
+            "en": "demand",
+            "ru": "требовать; требование",
+            "transcription": "[dɪˈmɑːnd]"
+          },
+          {
+            "id": 13,
+            "en": "will",
+            "ru": "воля; желание; завещание",
+            "transcription": "[wɪl]"
+          },
+          {
+            "id": 14,
+            "en": "impact",
+            "ru": "влияние; удар; воздействие",
+            "transcription": "[ˈɪmpækt]"
+          },
+          {
+            "id": 15,
+            "en": "advertisement",
+            "ru": "реклама; объявление",
+            "transcription": "[ədˈvɜːtɪsmənt]"
+          },
+          {
+            "id": 16,
+            "en": "appreciation",
+            "ru": "признательность; благодарность; оценка",
+            "transcription": "[əˌpriːʃiˈeɪʃn]"
+          },
+          {
+            "id": 17,
+            "en": "predict",
+            "ru": "предсказывать",
+            "transcription": "[prɪˈdɪkt]"
+          },
+          {
+            "id": 18,
+            "en": "surroundings",
+            "ru": "окружение; обстановка",
+            "transcription": "[səˈraʊndɪŋz]"
+          },
+          {
+            "id": 19,
+            "en": "adjust",
+            "ru": "приспособиться; настроить; отрегулировать",
+            "transcription": "[əˈdʒʌst]"
+          },
+          {
+            "id": 20,
+            "en": "discharge",
+            "ru": "выписать из больницы; разряд; выделение",
+            "transcription": "[dɪsˈtʃɑːdʒ]"
+          },
+          {
+            "id": 21,
+            "en": "justice",
+            "ru": "справедливость; правосудие",
+            "transcription": "[ˈdʒʌstɪs]"
+          },
+          {
+            "id": 22,
+            "en": "distract",
+            "ru": "отвлекать",
+            "transcription": "[dɪˈstrækt]"
+          },
+          {
+            "id": 23,
+            "en": "breakthrough",
+            "ru": "прорыв",
+            "transcription": "[ˈbreɪkθruː]"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "version": 2,
+        "name": "Прилагательные с предлогами",
+        "words": [
+          {
+            "id": 1,
+            "en": "keen on",
+            "ru": "увлекаться чем-то; очень интересоваться чем-то",
+            "transcription": "[ˈkiːn ɒn]"
+          },
+          {
+            "id": 2,
+            "en": "fed up with",
+            "ru": "сыт по горло; надоело",
+            "transcription": "[ˌfed ˈʌp wɪð]"
+          },
+          {
+            "id": 3,
+            "en": "happy about",
+            "ru": "рад чему-то",
+            "transcription": "[ˈhæpi əˌbaʊt]"
+          },
+          {
+            "id": 4,
+            "en": "happy with",
+            "ru": "довольный чем-то",
+            "transcription": "[ˈhæpi wɪð]"
+          },
+          {
+            "id": 5,
+            "en": "happy for",
+            "ru": "рад за кого-то",
+            "transcription": "[ˈhæpi fə(r)]"
+          },
+          {
+            "id": 6,
+            "en": "annoyed about",
+            "ru": "раздражён из-за чего-то",
+            "transcription": "[əˈnɔɪd əˌbaʊt]"
+          },
+          {
+            "id": 7,
+            "en": "annoyed with/at",
+            "ru": "раздражён кем-то/чем-то",
+            "transcription": "[əˈnɔɪd wɪð / æt]"
+          },
+          {
+            "id": 8,
+            "en": "annoyed by",
+            "ru": "раздражён чем-то",
+            "transcription": "[əˈnɔɪd baɪ]"
+          },
+          {
+            "id": 9,
+            "en": "worried about",
+            "ru": "обеспокоен чем-то",
+            "transcription": "[ˈwʌrid əˌbaʊt]"
+          },
+          {
+            "id": 10,
+            "en": "angry about",
+            "ru": "злиться из-за ситуации/события",
+            "transcription": "[ˈæŋɡri əˌbaʊt]"
+          },
+          {
+            "id": 11,
+            "en": "angry with",
+            "ru": "злиться на человека",
+            "transcription": "[ˈæŋɡri wɪð]"
+          },
+          {
+            "id": 12,
+            "en": "angry at",
+            "ru": "злиться на кого-то/что-то",
+            "transcription": "[ˈæŋɡri æt]"
+          },
+          {
+            "id": 13,
+            "en": "enthusiastic about",
+            "ru": "воодушевлён чем-то; увлечён чем-то",
+            "transcription": "[ɪnˌθjuːziˈæstɪk əˌbaʊt]"
+          },
+          {
+            "id": 14,
+            "en": "nervous about",
+            "ru": "нервничать из-за чего-то",
+            "transcription": "[ˈnɜːvəs əˌbaʊt]"
+          },
+          {
+            "id": 15,
+            "en": "excited about",
+            "ru": "взволнован / рад в предвкушении чего-то",
+            "transcription": "[ɪkˈsaɪtɪd əˌbaʊt]"
+          },
+          {
+            "id": 16,
+            "en": "terrible at",
+            "ru": "ужасно плох в чём-то",
+            "transcription": "[ˈterəbl æt]"
+          },
+          {
+            "id": 17,
+            "en": "excellent at",
+            "ru": "отлично справляется с чем-то",
+            "transcription": "[ˈeksələnt æt]"
+          },
+          {
+            "id": 18,
+            "en": "good at",
+            "ru": "хорош в чём-то",
+            "transcription": "[ˈɡʊd æt]"
+          },
+          {
+            "id": 19,
+            "en": "good with",
+            "ru": "хорошо обращается с кем-то/чем-то",
+            "transcription": "[ˈɡʊd wɪð]"
+          },
+          {
+            "id": 20,
+            "en": "surprised by/at",
+            "ru": "удивлён чем-то",
+            "transcription": "[səˈpraɪzd baɪ / æt]"
+          },
+          {
+            "id": 21,
+            "en": "present at",
+            "ru": "присутствовать на",
+            "transcription": "[ˈpreznt æt]"
+          },
+          {
+            "id": 22,
+            "en": "hopeless at",
+            "ru": "безнадёжен в чём-то",
+            "transcription": "[ˈhəʊpləs æt]"
+          },
+          {
+            "id": 23,
+            "en": "useless at",
+            "ru": "очень плох в чём-то",
+            "transcription": "[ˈjuːsləs æt]"
+          },
+          {
+            "id": 24,
+            "en": "ready for",
+            "ru": "готов к чему-то",
+            "transcription": "[ˈredi fə(r)]"
+          },
+          {
+            "id": 25,
+            "en": "responsible for",
+            "ru": "ответственный за",
+            "transcription": "[rɪˈspɒnsəbl fə(r)]"
+          },
+          {
+            "id": 26,
+            "en": "late for",
+            "ru": "опаздывать на",
+            "transcription": "[ˈleɪt fə(r)]"
+          },
+          {
+            "id": 27,
+            "en": "prepared for",
+            "ru": "готов к чему-то",
+            "transcription": "[prɪˈpeəd fə(r)]"
+          },
+          {
+            "id": 28,
+            "en": "glad for",
+            "ru": "рад за кого-то",
+            "transcription": "[ˈɡlæd fə(r)]"
+          },
+          {
+            "id": 29,
+            "en": "excited for",
+            "ru": "взволнован / рад в ожидании чего-то",
+            "transcription": "[ɪkˈsaɪtɪd fə(r)]"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "version": 2,
+        "name": "Развлечения, отдых",
+        "words": [
+          {
+            "id": 1,
+            "en": "entertainment",
+            "ru": "развлечение",
+            "transcription": "[ˌentəˈteɪnmənt]"
+          },
+          {
+            "id": 2,
+            "en": "amusement park",
+            "ru": "парк развлечений",
+            "transcription": "[əˈmjuːzmənt pɑːk]"
+          },
+          {
+            "id": 3,
+            "en": "season pass",
+            "ru": "сезонный абонемент / пропуск",
+            "transcription": "[ˈsiːzn pɑːs]"
+          },
+          {
+            "id": 4,
+            "en": "racing",
+            "ru": "гонки",
+            "transcription": "[ˈreɪsɪŋ]"
+          },
+          {
+            "id": 5,
+            "en": "spooky",
+            "ru": "жуткий; пугающий",
+            "transcription": "[ˈspuːki]"
+          },
+          {
+            "id": 6,
+            "en": "bigfoot",
+            "ru": "снежный человек",
+            "transcription": "[ˈbɪɡfʊt]"
+          },
+          {
+            "id": 7,
+            "en": "goosebumps",
+            "ru": "мурашки",
+            "transcription": "[ˈɡuːsbʌmps]"
+          },
+          {
+            "id": 8,
+            "en": "werewolf",
+            "ru": "оборотень",
+            "transcription": "[ˈweəwʊlf]"
+          },
+          {
+            "id": 9,
+            "en": "matches",
+            "ru": "спички",
+            "transcription": "[ˈmætʃɪz]"
+          },
+          {
+            "id": 10,
+            "en": "marshmallows",
+            "ru": "маршмеллоу; зефирки",
+            "transcription": "[ˌmɑːʃˈmæləʊz]"
+          },
+          {
+            "id": 11,
+            "en": "campfire",
+            "ru": "костёр",
+            "transcription": "[ˈkæmpfaɪə(r)]"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "version": 2,
+        "name": "Повседневная жизнь, места и предметы",
+        "words": [
+          {
+            "id": 1,
+            "en": "laundromat",
+            "ru": "прачечная самообслуживания",
+            "transcription": "[ˈlɔːndrəmæt]"
+          },
+          {
+            "id": 2,
+            "en": "deli",
+            "ru": "гастроном; магазин готовой еды",
+            "transcription": "[ˈdeli]"
+          },
+          {
+            "id": 3,
+            "en": "cellphone",
+            "ru": "мобильный телефон",
+            "transcription": "[ˈselfəʊn]"
+          },
+          {
+            "id": 4,
+            "en": "fur",
+            "ru": "мех; шерсть животного",
+            "transcription": "[fɜː]"
+          },
+          {
+            "id": 5,
             "en": "store clothes",
             "ru": "хранить одежду",
             "transcription": "[stɔː kləʊðz]"
           },
           {
+            "id": 6,
+            "en": "snore",
+            "ru": "храпеть",
+            "transcription": "[snɔː(r)]"
+          },
+          {
+            "id": 7,
+            "en": "fire",
+            "ru": "уволить; огонь",
+            "transcription": "[ˈfaɪə(r)]"
+          },
+          {
+            "id": 8,
+            "en": "footprints",
+            "ru": "следы",
+            "transcription": "[ˈfʊtprɪnts]"
+          },
+          {
+            "id": 9,
+            "en": "fingerprint",
+            "ru": "отпечаток пальца",
+            "transcription": "[ˈfɪŋɡəprɪnt]"
+          },
+          {
             "id": 10,
-            "en": "designed",
-            "ru": "разработанный; спроектированный",
-            "transcription": "[dɪˈzaɪnd]"
+            "en": "desperately",
+            "ru": "отчаянно",
+            "transcription": "[ˈdespərətli]"
+          },
+          {
+            "id": 11,
+            "en": "silently",
+            "ru": "молча; бесшумно",
+            "transcription": "[ˈsaɪləntli]"
+          },
+          {
+            "id": 12,
+            "en": "agriculture",
+            "ru": "сельское хозяйство",
+            "transcription": "[ˈæɡrɪkʌltʃə(r)]"
           }
         ]
       }
