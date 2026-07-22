@@ -21,15 +21,16 @@ These are three small applications for learning Greek words used in courses for 
 [Download B1 in App Atore](https://apps.apple.com/cy/app/greek-words-b1/id6754924042)
 
 ## Privacy Policy
-_Last updated: January 7th, 2026_
+_Last updated: July 19th, 2026_
 
 This Privacy Policy applies to all versions of the “Greek Words” apps, including A1, A2, and B1 levels.  
 We (developers and publishers) are providing this Privacy Policy to explain our practices regarding the collection and use of information within the app.
 
 ### Collection and use information
 
-The Greek Words apps do not collect, store, or share any personal data.  
-The apps do not use third-party analytics, advertising, or tracking SDKs.
+We collect non-personal analytics data about how the app is used (such as feature interactions and events).
+
+This data is not used to identify individual users and is used to improve the app experience.
 
 ### Changes to this Privacy Policy
 
