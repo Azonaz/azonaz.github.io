@@ -1435,121 +1435,6 @@
       {
         "id": 10,
         "version": 3,
-        "name": "Повседневная жизнь, места и предметы",
-        "words": [
-          {
-            "id": 1,
-            "en": "laundromat",
-            "ru": "прачечная самообслуживания",
-            "transcription": "[ˈlɔːndrəmæt]"
-          },
-          {
-            "id": 2,
-            "en": "deli",
-            "ru": "гастроном; магазин готовой еды",
-            "transcription": "[ˈdeli]"
-          },
-          {
-            "id": 3,
-            "en": "cellphone",
-            "ru": "мобильный телефон",
-            "transcription": "[ˈselfəʊn]"
-          },
-          {
-            "id": 4,
-            "en": "fur",
-            "ru": "мех; шерсть животного",
-            "transcription": "[fɜː]"
-          },
-          {
-            "id": 5,
-            "en": "store clothes",
-            "ru": "хранить одежду",
-            "transcription": "[stɔː kləʊðz]"
-          },
-          {
-            "id": 6,
-            "en": "snore",
-            "ru": "храпеть",
-            "transcription": "[snɔː(r)]"
-          },
-          {
-            "id": 7,
-            "en": "fire",
-            "ru": "уволить; огонь",
-            "transcription": "[ˈfaɪə(r)]"
-          },
-          {
-            "id": 8,
-            "en": "footprints",
-            "ru": "следы",
-            "transcription": "[ˈfʊtprɪnts]"
-          },
-          {
-            "id": 9,
-            "en": "fingerprint",
-            "ru": "отпечаток пальца",
-            "transcription": "[ˈfɪŋɡəprɪnt]"
-          },
-          {
-            "id": 10,
-            "en": "desperately",
-            "ru": "отчаянно",
-            "transcription": "[ˈdespərətli]"
-          },
-          {
-            "id": 11,
-            "en": "silently",
-            "ru": "молча; бесшумно",
-            "transcription": "[ˈsaɪləntli]"
-          },
-          {
-            "id": 12,
-            "en": "agriculture",
-            "ru": "сельское хозяйство",
-            "transcription": "[ˈæɡrɪkʌltʃə(r)]"
-          },
-          {
-            "id": 13,
-            "en": "yawn",
-            "ru": "зевать",
-            "transcription": "[jɔːn]"
-          },
-          {
-            "id": 14,
-            "en": "picturesque",
-            "ru": "живописный",
-            "transcription": "[ˌpɪktʃəˈresk]"
-          },
-          {
-            "id": 15,
-            "en": "daylight",
-            "ru": "дневной свет",
-            "transcription": "[ˈdeɪlaɪt]"
-          },
-          {
-            "id": 16,
-            "en": "fish tank",
-            "ru": "аквариум",
-            "transcription": "[ˈfɪʃ tæŋk]"
-          },
-          {
-            "id": 17,
-            "en": "hail",
-            "ru": "град",
-            "transcription": "[heɪl]"
-          },
-          {
-            "id": 18,
-            "en": "unwanted",
-            "ru": "нежелательный",
-            "transcription": "[ˌʌnˈwɒntɪd]"
-          }
-        ]
-      },
-      {
-        "id": 10,
-        "version": 2,
         "name": "Спорт и фитнес",
         "words": [
           {
@@ -2075,6 +1960,121 @@
             "en": "accuse of",
             "ru": "обвинять в чём-то",
             "transcription": "[əˈkjuːz əv]"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "version": 1,
+        "name": "Повседневная жизнь, места и предметы",
+        "words": [
+          {
+            "id": 1,
+            "en": "laundromat",
+            "ru": "прачечная самообслуживания",
+            "transcription": "[ˈlɔːndrəmæt]"
+          },
+          {
+            "id": 2,
+            "en": "deli",
+            "ru": "гастроном; магазин готовой еды",
+            "transcription": "[ˈdeli]"
+          },
+          {
+            "id": 3,
+            "en": "cellphone",
+            "ru": "мобильный телефон",
+            "transcription": "[ˈselfəʊn]"
+          },
+          {
+            "id": 4,
+            "en": "fur",
+            "ru": "мех; шерсть животного",
+            "transcription": "[fɜː]"
+          },
+          {
+            "id": 5,
+            "en": "store clothes",
+            "ru": "хранить одежду",
+            "transcription": "[stɔː kləʊðz]"
+          },
+          {
+            "id": 6,
+            "en": "snore",
+            "ru": "храпеть",
+            "transcription": "[snɔː(r)]"
+          },
+          {
+            "id": 7,
+            "en": "fire",
+            "ru": "уволить; огонь",
+            "transcription": "[ˈfaɪə(r)]"
+          },
+          {
+            "id": 8,
+            "en": "footprints",
+            "ru": "следы",
+            "transcription": "[ˈfʊtprɪnts]"
+          },
+          {
+            "id": 9,
+            "en": "fingerprint",
+            "ru": "отпечаток пальца",
+            "transcription": "[ˈfɪŋɡəprɪnt]"
+          },
+          {
+            "id": 10,
+            "en": "desperately",
+            "ru": "отчаянно",
+            "transcription": "[ˈdespərətli]"
+          },
+          {
+            "id": 11,
+            "en": "silently",
+            "ru": "молча; бесшумно",
+            "transcription": "[ˈsaɪləntli]"
+          },
+          {
+            "id": 12,
+            "en": "agriculture",
+            "ru": "сельское хозяйство",
+            "transcription": "[ˈæɡrɪkʌltʃə(r)]"
+          },
+          {
+            "id": 13,
+            "en": "yawn",
+            "ru": "зевать",
+            "transcription": "[jɔːn]"
+          },
+          {
+            "id": 14,
+            "en": "picturesque",
+            "ru": "живописный",
+            "transcription": "[ˌpɪktʃəˈresk]"
+          },
+          {
+            "id": 15,
+            "en": "daylight",
+            "ru": "дневной свет",
+            "transcription": "[ˈdeɪlaɪt]"
+          },
+          {
+            "id": 16,
+            "en": "fish tank",
+            "ru": "аквариум",
+            "transcription": "[ˈfɪʃ tæŋk]"
+          },
+          {
+            "id": 17,
+            "en": "hail",
+            "ru": "град",
+            "transcription": "[heɪl]"
+          },
+          {
+            "id": 18,
+            "en": "unwanted",
+            "ru": "нежелательный",
+            "transcription": "[ˌʌnˈwɒntɪd]"
           }
         ]
       }
