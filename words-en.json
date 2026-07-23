@@ -95,6 +95,12 @@
             "en": "squirrel",
             "ru": "белка",
             "transcription": "[ˈskwɪrəl]"
+          },
+          {
+            "id": 16,
+            "en": "fabulous",
+            "ru": "потрясающий; великолепный",
+            "transcription": "[ˈfæbjələs]"
           }
         ]
       },
@@ -438,7 +444,7 @@
       },
       {
         "id": 4,
-        "version": 3,
+        "version": 4,
         "name": "Характер, эмоции, состояния",
         "words": [
           {
@@ -620,12 +626,54 @@
             "en": "crucial",
             "ru": "важнейший; решающий",
             "transcription": "[ˈkruːʃl]"
+          },
+          {
+            "id": 31,
+            "en": "packed",
+            "ru": "переполненный; набитый",
+            "transcription": "[pækt]"
+          },
+          {
+            "id": 32,
+            "en": "damp",
+            "ru": "влажный; сырой",
+            "transcription": "[dæmp]"
+          },
+          {
+            "id": 33,
+            "en": "gigantic",
+            "ru": "гигантский",
+            "transcription": "[dʒaɪˈɡæntɪk]"
+          },
+          {
+            "id": 34,
+            "en": "loneliness",
+            "ru": "одиночество",
+            "transcription": "[ˈləʊnlinəs]"
+          },
+          {
+            "id": 35,
+            "en": "considerable amount of",
+            "ru": "значительное количество чего-то",
+            "transcription": "[kənˈsɪdərəbl əˈmaʊnt əv]"
+          },
+          {
+            "id": 36,
+            "en": "misleading",
+            "ru": "вводящий в заблуждение",
+            "transcription": "[ˌmɪsˈliːdɪŋ]"
+          },
+          {
+            "id": 37,
+            "en": "awkward",
+            "ru": "неловкий; неудобный",
+            "transcription": "[ˈɔːkwəd]"
           }
         ]
       },
       {
         "id": 5,
-        "version": 2,
+        "version": 3,
         "name": "Время, воспоминания, обсуждение",
         "words": [
           {
@@ -735,6 +783,30 @@
             "en": "save the day",
             "ru": "спасти положение",
             "transcription": "[ˌseɪv ðə ˈdeɪ]"
+          },
+          {
+            "id": 19,
+            "en": "nowadays",
+            "ru": "в наши дни; в настоящее время",
+            "transcription": "[ˈnaʊədeɪz]"
+          },
+          {
+            "id": 20,
+            "en": "at the end of",
+            "ru": "в конце чего-то",
+            "transcription": "[ət ði ˈend əv]"
+          },
+          {
+            "id": 21,
+            "en": "at the beginning of",
+            "ru": "в начале чего-то",
+            "transcription": "[ət ðə bɪˈɡɪnɪŋ əv]"
+          },
+          {
+            "id": 22,
+            "en": "as long as",
+            "ru": "пока; при условии, что",
+            "transcription": "[əz ˈlɒŋ əz]"
           }
         ]
       },
@@ -988,7 +1060,7 @@
       },
       {
         "id": 8,
-        "version": 2,
+        "version": 3,
         "name": "Прилагательные с предлогами",
         "words": [
           {
@@ -1164,12 +1236,78 @@
             "en": "excited for",
             "ru": "взволнован / рад в ожидании чего-то",
             "transcription": "[ɪkˈsaɪtɪd fə(r)]"
+          },
+          {
+            "id": 30,
+            "en": "related to",
+            "ru": "относящийся к; связанный с",
+            "transcription": "[rɪˈleɪtɪd tə]"
+          },
+          {
+            "id": 31,
+            "en": "related to each other",
+            "ru": "связаны друг с другом",
+            "transcription": "[rɪˈleɪtɪd tu ˌiːtʃ ˈʌðə(r)]"
+          },
+          {
+            "id": 32,
+            "en": "familiar to",
+            "ru": "знакомый кому-то",
+            "transcription": "[fəˈmɪliə tə]"
+          },
+          {
+            "id": 33,
+            "en": "familiar with",
+            "ru": "знакомый с чем-то; хорошо знающий что-то",
+            "transcription": "[fəˈmɪliə wɪð]"
+          },
+          {
+            "id": 34,
+            "en": "sensitive to",
+            "ru": "чувствительный к чему-то",
+            "transcription": "[ˈsensətɪv tə]"
+          },
+          {
+            "id": 35,
+            "en": "used to + noun / -ing",
+            "ru": "привыкший к чему-то",
+            "transcription": "[ˈjuːst tə]"
+          },
+          {
+            "id": 36,
+            "en": "used to do something",
+            "ru": "раньше делал что-то",
+            "transcription": "[ˈjuːst tə duː ˈsʌmθɪŋ]"
+          },
+          {
+            "id": 37,
+            "en": "accustomed to",
+            "ru": "привыкший к чему-то",
+            "transcription": "[əˈkʌstəmd tə]"
+          },
+          {
+            "id": 38,
+            "en": "polite to",
+            "ru": "вежливый по отношению к кому-то",
+            "transcription": "[pəˈlaɪt tə]"
+          },
+          {
+            "id": 39,
+            "en": "close to",
+            "ru": "близкий к; близко к",
+            "transcription": "[ˈkləʊs tə]"
+          },
+          {
+            "id": 40,
+            "en": "cruel to",
+            "ru": "жестокий к кому-то",
+            "transcription": "[ˈkruːəl tə]"
           }
         ]
       },
       {
         "id": 9,
-        "version": 2,
+        "version": 3,
         "name": "Развлечения, отдых",
         "words": [
           {
@@ -1237,12 +1375,66 @@
             "en": "campfire",
             "ru": "костёр",
             "transcription": "[ˈkæmpfaɪə(r)]"
+          },
+          {
+            "id": 12,
+            "en": "Ferris wheel",
+            "ru": "колесо обозрения",
+            "transcription": "[ˈferɪs wiːl]"
+          },
+          {
+            "id": 13,
+            "en": "go upside down",
+            "ru": "перевернуться вверх ногами",
+            "transcription": "[ɡəʊ ˌʌpsaɪd ˈdaʊn]"
+          },
+          {
+            "id": 14,
+            "en": "roller coaster",
+            "ru": "американские горки",
+            "transcription": "[ˈrəʊlə ˌkəʊstə(r)]"
+          },
+          {
+            "id": 15,
+            "en": "ride",
+            "ru": "аттракцион; поездка; кататься",
+            "transcription": "[raɪd]"
+          },
+          {
+            "id": 16,
+            "en": "toddlers",
+            "ru": "малыши; дети 1–3 лет",
+            "transcription": "[ˈtɒdləz]"
+          },
+          {
+            "id": 17,
+            "en": "cliffhanger",
+            "ru": "захватывающий момент с неизвестной развязкой",
+            "transcription": "[ˈklɪfhæŋə(r)]"
+          },
+          {
+            "id": 18,
+            "en": "stuffed animal",
+            "ru": "мягкая игрушка",
+            "transcription": "[ˌstʌft ˈænɪməl]"
+          },
+          {
+            "id": 19,
+            "en": "cotton candy",
+            "ru": "сахарная вата",
+            "transcription": "[ˌkɒtn ˈkændi]"
+          },
+          {
+            "id": 20,
+            "en": "wristband",
+            "ru": "браслет; напульсник",
+            "transcription": "[ˈrɪstbænd]"
           }
         ]
       },
       {
         "id": 10,
-        "version": 2,
+        "version": 3,
         "name": "Повседневная жизнь, места и предметы",
         "words": [
           {
@@ -1316,6 +1508,573 @@
             "en": "agriculture",
             "ru": "сельское хозяйство",
             "transcription": "[ˈæɡrɪkʌltʃə(r)]"
+          },
+          {
+            "id": 13,
+            "en": "yawn",
+            "ru": "зевать",
+            "transcription": "[jɔːn]"
+          },
+          {
+            "id": 14,
+            "en": "picturesque",
+            "ru": "живописный",
+            "transcription": "[ˌpɪktʃəˈresk]"
+          },
+          {
+            "id": 15,
+            "en": "daylight",
+            "ru": "дневной свет",
+            "transcription": "[ˈdeɪlaɪt]"
+          },
+          {
+            "id": 16,
+            "en": "fish tank",
+            "ru": "аквариум",
+            "transcription": "[ˈfɪʃ tæŋk]"
+          },
+          {
+            "id": 17,
+            "en": "hail",
+            "ru": "град",
+            "transcription": "[heɪl]"
+          },
+          {
+            "id": 18,
+            "en": "unwanted",
+            "ru": "нежелательный",
+            "transcription": "[ˌʌnˈwɒntɪd]"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "version": 2,
+        "name": "Спорт и фитнес",
+        "words": [
+          {
+            "id": 1,
+            "en": "training session",
+            "ru": "тренировочное занятие",
+            "transcription": "[ˈtreɪnɪŋ ˈseʃn]"
+          },
+          {
+            "id": 2,
+            "en": "work out",
+            "ru": "тренироваться",
+            "transcription": "[wɜːk aʊt]"
+          },
+          {
+            "id": 3,
+            "en": "warm-up",
+            "ru": "разминка",
+            "transcription": "[ˈwɔːm ʌp]"
+          },
+          {
+            "id": 4,
+            "en": "treadmill",
+            "ru": "беговая дорожка",
+            "transcription": "[ˈtredmɪl]"
+          },
+          {
+            "id": 5,
+            "en": "weights",
+            "ru": "гантели; штанги; утяжелители",
+            "transcription": "[weɪts]"
+          },
+          {
+            "id": 6,
+            "en": "cardio",
+            "ru": "кардио",
+            "transcription": "[ˈkɑːdiəʊ]"
+          },
+          {
+            "id": 7,
+            "en": "squats",
+            "ru": "приседания",
+            "transcription": "[skwɒts]"
+          },
+          {
+            "id": 8,
+            "en": "push-up",
+            "ru": "отжимание",
+            "transcription": "[ˈpʊʃ ʌp]"
+          },
+          {
+            "id": 9,
+            "en": "pull-up",
+            "ru": "подтягивание",
+            "transcription": "[ˈpʊl ʌp]"
+          },
+          {
+            "id": 10,
+            "en": "stretching",
+            "ru": "растяжка",
+            "transcription": "[ˈstretʃɪŋ]"
+          },
+          {
+            "id": 11,
+            "en": "sit-ups",
+            "ru": "упражнения на пресс",
+            "transcription": "[ˈsɪt ʌps]"
+          },
+          {
+            "id": 12,
+            "en": "injury",
+            "ru": "травма",
+            "transcription": "[ˈɪndʒəri]"
+          },
+          {
+            "id": 13,
+            "en": "feel sore",
+            "ru": "чувствовать боль в мышцах",
+            "transcription": "[fiːl sɔː(r)]"
+          },
+          {
+            "id": 14,
+            "en": "tough workout",
+            "ru": "тяжёлая тренировка",
+            "transcription": "[ˌtʌf ˈwɜːkaʊt]"
+          },
+          {
+            "id": 15,
+            "en": "one left",
+            "ru": "остался один",
+            "transcription": "[ˌwʌn ˈleft]"
+          },
+          {
+            "id": 16,
+            "en": "abs",
+            "ru": "пресс",
+            "transcription": "[æbz]"
+          },
+          {
+            "id": 17,
+            "en": "cool down",
+            "ru": "заминка; остыть после тренировки",
+            "transcription": "[ˌkuːl ˈdaʊn]"
+          },
+          {
+            "id": 18,
+            "en": "passion",
+            "ru": "страсть; увлечение",
+            "transcription": "[ˈpæʃn]"
+          },
+          {
+            "id": 19,
+            "en": "trainer",
+            "ru": "тренер",
+            "transcription": "[ˈtreɪnə(r)]"
+          },
+          {
+            "id": 20,
+            "en": "dumbbells",
+            "ru": "гантели",
+            "transcription": "[ˈdʌmbelz]"
+          },
+          {
+            "id": 21,
+            "en": "barbell",
+            "ru": "штанга",
+            "transcription": "[ˈbɑːbel]"
+          },
+          {
+            "id": 22,
+            "en": "track and field",
+            "ru": "лёгкая атлетика",
+            "transcription": "[ˌtræk ən ˈfiːld]"
+          },
+          {
+            "id": 23,
+            "en": "national anthem",
+            "ru": "национальный гимн",
+            "transcription": "[ˌnæʃnəl ˈænθəm]"
+          },
+          {
+            "id": 24,
+            "en": "upcoming",
+            "ru": "предстоящий",
+            "transcription": "[ˈʌpkʌmɪŋ]"
+          },
+          {
+            "id": 25,
+            "en": "inspiring",
+            "ru": "вдохновляющий",
+            "transcription": "[ɪnˈspaɪərɪŋ]"
+          },
+          {
+            "id": 26,
+            "en": "anticipated",
+            "ru": "ожидаемый",
+            "transcription": "[ænˈtɪsɪpeɪtɪd]"
+          },
+          {
+            "id": 27,
+            "en": "gather",
+            "ru": "собирать; собираться",
+            "transcription": "[ˈɡæðə(r)]"
+          },
+          {
+            "id": 28,
+            "en": "assuming",
+            "ru": "предполагая; если считать, что",
+            "transcription": "[əˈsjuːmɪŋ]"
+          },
+          {
+            "id": 29,
+            "en": "dehydrated",
+            "ru": "обезвоженный",
+            "transcription": "[ˌdiːhaɪˈdreɪtɪd]"
+          },
+          {
+            "id": 30,
+            "en": "overall",
+            "ru": "общий; в целом",
+            "transcription": "[ˌəʊvərˈɔːl]"
+          },
+          {
+            "id": 31,
+            "en": "gear",
+            "ru": "снаряжение; экипировка",
+            "transcription": "[ɡɪə(r)]"
+          },
+          {
+            "id": 32,
+            "en": "equipment",
+            "ru": "оборудование; снаряжение",
+            "transcription": "[ɪˈkwɪpmənt]"
+          },
+          {
+            "id": 33,
+            "en": "overdo it",
+            "ru": "переусердствовать",
+            "transcription": "[ˌəʊvəˈduː ɪt]"
+          },
+          {
+            "id": 34,
+            "en": "tracking",
+            "ru": "отслеживание",
+            "transcription": "[ˈtrækɪŋ]"
+          },
+          {
+            "id": 35,
+            "en": "target",
+            "ru": "конкретная цель; целевой показатель",
+            "transcription": "[ˈtɑːɡɪt]"
+          },
+          {
+            "id": 36,
+            "en": "goal",
+            "ru": "цель; желаемый результат",
+            "transcription": "[ɡəʊl]"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "version": 1,
+        "name": "Состояния и отношения",
+        "words": [
+          {
+            "id": 1,
+            "en": "get used to",
+            "ru": "привыкать к чему-то",
+            "transcription": "[ɡet ˈjuːst tə]"
+          },
+          {
+            "id": 2,
+            "en": "get accustomed to",
+            "ru": "привыкать к чему-то",
+            "transcription": "[ɡet əˈkʌstəmd tə]"
+          },
+          {
+            "id": 3,
+            "en": "polite of someone to do something",
+            "ru": "вежливо со стороны кого-то сделать что-то",
+            "transcription": "[pəˈlaɪt əv ˈsʌmwʌn tə duː ˈsʌmθɪŋ]"
+          },
+          {
+            "id": 4,
+            "en": "married to",
+            "ru": "женат на / замужем за",
+            "transcription": "[ˈmærid tə]"
+          },
+          {
+            "id": 5,
+            "en": "kind to",
+            "ru": "добрый к кому-то",
+            "transcription": "[ˈkaɪnd tə]"
+          },
+          {
+            "id": 6,
+            "en": "grateful to",
+            "ru": "благодарный кому-то",
+            "transcription": "[ˈɡreɪtfəl tə]"
+          },
+          {
+            "id": 7,
+            "en": "allergic to",
+            "ru": "с аллергией на что-то",
+            "transcription": "[əˈlɜːdʒɪk tə]"
+          },
+          {
+            "id": 8,
+            "en": "engaged to",
+            "ru": "помолвлен с кем-то",
+            "transcription": "[ɪnˈɡeɪdʒd tə]"
+          },
+          {
+            "id": 9,
+            "en": "clear to",
+            "ru": "ясно кому-то",
+            "transcription": "[ˈklɪə tə]"
+          },
+          {
+            "id": 10,
+            "en": "satisfied with",
+            "ru": "довольный чем-то",
+            "transcription": "[ˈsætɪsfaɪd wɪð]"
+          },
+          {
+            "id": 11,
+            "en": "dissatisfied with",
+            "ru": "недовольный чем-то",
+            "transcription": "[dɪsˈsætɪsfaɪd wɪð]"
+          },
+          {
+            "id": 12,
+            "en": "busy with",
+            "ru": "занят чем-то",
+            "transcription": "[ˈbɪzi wɪð]"
+          },
+          {
+            "id": 13,
+            "en": "crowded with",
+            "ru": "переполненный чем-то/кем-то",
+            "transcription": "[ˈkraʊdɪd wɪð]"
+          },
+          {
+            "id": 14,
+            "en": "wrong with",
+            "ru": "не так с чем-то/кем-то",
+            "transcription": "[ˈrɒŋ wɪð]"
+          },
+          {
+            "id": 15,
+            "en": "friendly with",
+            "ru": "дружелюбный с кем-то; в дружеских отношениях",
+            "transcription": "[ˈfrendli wɪð]"
+          },
+          {
+            "id": 16,
+            "en": "friendly to",
+            "ru": "дружелюбный по отношению к кому-то",
+            "transcription": "[ˈfrendli tə]"
+          },
+          {
+            "id": 17,
+            "en": "bored with",
+            "ru": "скучающий от чего-то; кому-то надоело что-то",
+            "transcription": "[ˈbɔːd wɪð]"
+          },
+          {
+            "id": 18,
+            "en": "irritated with/by",
+            "ru": "раздражён кем-то/чем-то",
+            "transcription": "[ˈɪrɪteɪtɪd wɪð / baɪ]"
+          },
+          {
+            "id": 19,
+            "en": "furious with",
+            "ru": "в ярости на кого-то",
+            "transcription": "[ˈfjʊəriəs wɪð]"
+          },
+          {
+            "id": 20,
+            "en": "typical of",
+            "ru": "типичный для кого-то/чего-то",
+            "transcription": "[ˈtɪpɪkl əv]"
+          },
+          {
+            "id": 21,
+            "en": "tired of",
+            "ru": "уставший от чего-то",
+            "transcription": "[ˈtaɪəd əv]"
+          },
+          {
+            "id": 22,
+            "en": "capable of",
+            "ru": "способный на что-то",
+            "transcription": "[ˈkeɪpəbl əv]"
+          },
+          {
+            "id": 23,
+            "en": "incapable of",
+            "ru": "неспособный на что-то",
+            "transcription": "[ɪnˈkeɪpəbl əv]"
+          },
+          {
+            "id": 24,
+            "en": "jealous of",
+            "ru": "ревнующий к кому-то; завидующий кому-то",
+            "transcription": "[ˈdʒeləs əv]"
+          },
+          {
+            "id": 25,
+            "en": "afraid of",
+            "ru": "бояться чего-то",
+            "transcription": "[əˈfreɪd əv]"
+          },
+          {
+            "id": 26,
+            "en": "guilty of",
+            "ru": "виновный в чём-то",
+            "transcription": "[ˈɡɪlti əv]"
+          },
+          {
+            "id": 27,
+            "en": "ashamed of",
+            "ru": "стыдящийся чего-то",
+            "transcription": "[əˈʃeɪmd əv]"
+          },
+          {
+            "id": 28,
+            "en": "selfish of",
+            "ru": "эгоистично со стороны кого-то",
+            "transcription": "[ˈselfɪʃ əv]"
+          },
+          {
+            "id": 29,
+            "en": "scared of",
+            "ru": "испуганный чем-то; боящийся чего-то",
+            "transcription": "[ˈskeəd əv]"
+          },
+          {
+            "id": 30,
+            "en": "suspicious of",
+            "ru": "подозрительно относящийся к кому-то/чему-то",
+            "transcription": "[səˈspɪʃəs əv]"
+          },
+          {
+            "id": 31,
+            "en": "suspicious about",
+            "ru": "подозрительный насчёт ситуации",
+            "transcription": "[səˈspɪʃəs əˌbaʊt]"
+          },
+          {
+            "id": 32,
+            "en": "fond of",
+            "ru": "любящий что-то; увлекающийся чем-то",
+            "transcription": "[ˈfɒnd əv]"
+          },
+          {
+            "id": 33,
+            "en": "frightened of",
+            "ru": "испуганный чем-то; боящийся чего-то",
+            "transcription": "[ˈfraɪtnd əv]"
+          },
+          {
+            "id": 34,
+            "en": "full of",
+            "ru": "полный чего-то",
+            "transcription": "[ˈfʊl əv]"
+          },
+          {
+            "id": 35,
+            "en": "short of",
+            "ru": "не хватает чего-то",
+            "transcription": "[ˈʃɔːt əv]"
+          },
+          {
+            "id": 36,
+            "en": "nice of",
+            "ru": "мило/любезно со стороны кого-то",
+            "transcription": "[ˈnaɪs əv]"
+          },
+          {
+            "id": 37,
+            "en": "made of",
+            "ru": "сделанный из материала",
+            "transcription": "[ˈmeɪd əv]"
+          },
+          {
+            "id": 38,
+            "en": "kind of someone to do something",
+            "ru": "мило со стороны кого-то сделать что-то",
+            "transcription": "[ˈkaɪnd əv ˈsʌmwʌn tə duː ˈsʌmθɪŋ]"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "version": 1,
+        "name": "Глаголы общения и взаимодействия",
+        "words": [
+          {
+            "id": 1,
+            "en": "reply to",
+            "ru": "отвечать на",
+            "transcription": "[rɪˈplaɪ tə]"
+          },
+          {
+            "id": 2,
+            "en": "explain to",
+            "ru": "объяснять кому-то",
+            "transcription": "[ɪkˈspleɪn tə]"
+          },
+          {
+            "id": 3,
+            "en": "devote to",
+            "ru": "посвящать чему-то",
+            "transcription": "[dɪˈvəʊt tə]"
+          },
+          {
+            "id": 4,
+            "en": "react to",
+            "ru": "реагировать на",
+            "transcription": "[riˈækt tə]"
+          },
+          {
+            "id": 5,
+            "en": "lead to",
+            "ru": "приводить к чему-то",
+            "transcription": "[ˈliːd tə]"
+          },
+          {
+            "id": 6,
+            "en": "adapt to",
+            "ru": "адаптироваться к чему-то",
+            "transcription": "[əˈdæpt tə]"
+          },
+          {
+            "id": 7,
+            "en": "listen to",
+            "ru": "слушать кого-то/что-то",
+            "transcription": "[ˈlɪsn tə]"
+          },
+          {
+            "id": 8,
+            "en": "argue with",
+            "ru": "спорить с кем-то",
+            "transcription": "[ˈɑːɡjuː wɪð]"
+          },
+          {
+            "id": 9,
+            "en": "argue about",
+            "ru": "спорить о чём-то",
+            "transcription": "[ˈɑːɡjuː əˌbaʊt]"
+          },
+          {
+            "id": 10,
+            "en": "get acquainted with",
+            "ru": "познакомиться с кем-то/чем-то",
+            "transcription": "[ɡet əˈkweɪntɪd wɪð]"
+          },
+          {
+            "id": 11,
+            "en": "accuse of",
+            "ru": "обвинять в чём-то",
+            "transcription": "[əˈkjuːz əv]"
           }
         ]
       }
