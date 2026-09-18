@@ -1,0 +1,56 @@
+{
+  "vocabulary": {
+    "groups": [
+      {
+        "id": 1,
+        "esp": "¡Hola!",
+        "ru": "Привет!"
+      },
+      {
+        "id": 2,
+        "esp": "¡Buenos días!",
+        "ru": "Доброе утро!"
+      },
+      {
+        "id": 3,
+        "esp": "¡Buenas tardes!",
+        "ru": "Добрый день!"
+      },
+      {
+        "id": 4,
+        "esp": "¡Buenas noches!",
+        "ru": "Добрый вечер! / Доброй ночи!"
+      },
+      {
+        "id": 5,
+        "esp": "¿Cómo estás?",
+        "ru": "Как ты?"
+      },
+      {
+        "id": 6,
+        "esp": "¿Qué tal?",
+        "ru": "Как дела? / Как ты?"
+      },
+      {
+        "id": 7,
+        "esp": "Mucho gusto",
+        "ru": "Очень приятно"
+      },
+      {
+        "id": 8,
+        "esp": "Encantado / Encantada",
+        "ru": "Очень приятно / Рад(а) познакомиться"
+      },
+      {
+        "id": 9,
+        "esp": "¡Bienvenido! / ¡Bienvenida!",
+        "ru": "Добро пожаловать!"
+      },
+      {
+        "id": 10,
+        "esp": "Hasta luego",
+        "ru": "До встречи / До скорого"
+      }
+    ]
+  }
+}
