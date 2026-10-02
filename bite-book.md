@@ -19,10 +19,11 @@ You can create recipes manually, import and export them, and mark favorites.
 - add recipes to favorites,
 - quickly add ingredients to the shopping list,
 - edit and export the shopping list,
+- unlock achievements as your recipe collection grows,
 - keep everything in sync across devices with iCloud.
 
 ## Privacy Policy
-_Last updated: September 16th, 2025_
+_Last updated: October 2nd, 2026_
 
 We (developers and publishers)  
 are providing this Privacy Policy  
@@ -30,12 +31,14 @@ to explain our practices regarding the collection and use of information within 
 
 ### Collection and use information
 
-CookBook app does not collect any personally identifiable information.
+BiteBook respects your privacy and does not collect any personally identifiable information.
 
 - All user data (recipes, categories, shopping lists) is stored locally on the device and synchronized via iCloud.
 - This data is only accessible to the user via their Apple ID.
 - The developer has no access to this information.
-- The app does not collect any personal information, does not use third-party analytics or advertising, and does not transmit data to external servers.
+- We collect non-personal analytics data about app usage, such as feature interactions and events.
+- This analytics data is not used to identify individual users and is used only to improve the app experience.
+- The app does not use third-party advertising or sell user data.
 
 ### Revisions to this Privacy Policy
 
